@@ -1,5 +1,7 @@
 # Major-Project
 
+ Designing an Odia to English Translator for Classical Texts using Neural Machine Translation (NMT) while Retaining Poetic Essence
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    INPUT PROCESSING LAYER                       │
