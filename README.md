@@ -1,7 +1,5 @@
 # Major-Project
 
-<img width="1870" height="695" alt="image" src="https://github.com/user-attachments/assets/8c0b3c83-4229-491c-8885-b11479053405" />
-
 # 📜 Designing an Odia to English Translator for Classical Texts  
 ## 🧠 Neural Machine Translation (NMT) with Poetic Essence Preservation
 
