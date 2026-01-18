@@ -19,6 +19,23 @@
   </a>
 </p>
 
+
+----------------
+## DataSets
+
+<a href="https://www.kaggle.com/datasets/debdattarut/english-poetry-rhyme-scheme-dataset">
+  <img src="https://img.shields.io/badge/Dataset-Rhyme%20Scheme-blue?style=for-the-badge&logo=kaggle" />
+</a>
+
+<a href="https://www.kaggle.com/datasets/debdattarut/odia-english-poetic-expanded">
+  <img src="https://img.shields.io/badge/Dataset-Odia--English%20Poetry-success?style=for-the-badge&logo=kaggle" />
+</a>
+
+<a href="https://www.kaggle.com/datasets/debdattarut/odia-vocabulary-dataset">
+  <img src="https://img.shields.io/badge/Dataset-Vocabulary%20Corpus-orange?style=for-the-badge&logo=kaggle" />
+</a>
+
+
 ---
 
 ## 📌 Project Overview
