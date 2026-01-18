@@ -1,0 +1,2854 @@
+poem_id,line_number,previous_scheme,english_line,line_ending_word,rhyme_scheme_label,total_lines_in_poem,stanza_pattern
+0,1,START,Shall I compare thee to a summer's day?,day,A,4,ABAC
+0,2,STARTA,Thou art more lovely and more temperate:,temperate,B,4,ABAC
+0,3,STARTAB,"Rough winds do shake the darling buds of May,",may,A,4,ABAC
+0,4,STARTABA,And summer's lease hath all too short a date:,date,C,4,ABAC
+1,1,START,"Two roads diverged in a yellow wood,",wood,A,4,ABAC
+1,2,STARTA,And sorry I could not travel both,both,B,4,ABAC
+1,3,STARTAB,"And be one traveler, long I stood",stood,A,4,ABAC
+1,4,STARTABA,And looked down one as far as I could,could,C,4,ABAC
+2,1,START,Hope is the thing with feathers,feathers,A,4,ABCD
+2,2,STARTA,"That perches in the soul,",soul,B,4,ABCD
+2,3,STARTAB,"And sings the tune without the words,",words,C,4,ABCD
+2,4,STARTABC,"And never stops at all,",all,D,4,ABCD
+3,1,START,"Tyger Tyger, burning bright,",bright,A,4,AABC
+3,2,STARTA,In the forests of the night;,night,A,4,AABC
+3,3,STARTAA,"What immortal hand or eye,",eye,B,4,AABC
+3,4,STARTAAB,Could frame thy fearful symmetry?,symmetry,C,4,AABC
+4,1,START,The sun that brief December day,day,A,4,AABB
+4,2,STARTA,"Rose cheerless over hills of gray,",gray,A,4,AABB
+4,3,STARTAA,"And, darkly circled, gave at noon",noon,B,4,AABB
+4,4,STARTAAB,A sadder light than waning moon.,moon,B,4,AABB
+5,1,START,I wandered lonely as a cloud,cloud,A,4,ABCD
+5,2,STARTA,"That floats on high o'er vales and hills,",hills,B,4,ABCD
+5,3,STARTAB,"When all at once I saw a crowd,",crowd,C,4,ABCD
+5,4,STARTABC,"A host, of golden daffodils;",daffodils,D,4,ABCD
+6,1,START,"O, my Luve is like a red, red rose",rose,A,4,ABCD
+6,2,STARTA,That's newly sprung in June;,june,B,4,ABCD
+6,3,STARTAB,"O, my Luve is like the melody",melody,C,4,ABCD
+6,4,STARTABC,That's sweetly played in tune.,tune,D,4,ABCD
+7,1,START,"Because I could not stop for Death,",death,A,4,ABCD
+7,2,STARTA,He kindly stopped for me;,me,B,4,ABCD
+7,3,STARTAB,The carriage held but just ourselves,ourselves,C,4,ABCD
+7,4,STARTABC,And Immortality.,immortality,D,4,ABCD
+8,1,START,My heart leaps up when I behold,behold,A,4,ABCC
+8,2,STARTA,A rainbow in the sky,sky,B,4,ABCC
+8,3,STARTAB,So was it when my life began,began,C,4,ABCC
+8,4,STARTABC,So is it now I am a man,man,C,4,ABCC
+9,1,START,The world is too much with us late and soon,soon,A,4,ABCA
+9,2,STARTA,Getting and spending we lay waste our powers,powers,B,4,ABCA
+9,3,STARTAB,Little we see in Nature that is ours,ours,C,4,ABCA
+9,4,STARTABC,We have given our hearts away a sordid boon,boon,A,4,ABCA
+10,1,START,Earth has not anything to show more fair,fair,A,4,ABCD
+10,2,STARTA,Dull would he be of soul who could pass by,by,B,4,ABCD
+10,3,STARTAB,A sight so touching in its majesty,majesty,C,4,ABCD
+10,4,STARTABC,This City now doth like a garment wear,wear,D,4,ABCD
+11,1,START,Strange fits of passion have I known,known,A,4,ABCB
+11,2,STARTA,And I will dare to tell,tell,B,4,ABCB
+11,3,STARTAB,But in the lover's ear alone,alone,C,4,ABCB
+11,4,STARTABC,What once to me befell,befell,B,4,ABCB
+12,1,START,She dwelt among the untrodden ways,ways,A,4,ABCD
+12,2,STARTA,Beside the springs of Dove,dove,B,4,ABCD
+12,3,STARTAB,A maid whom there were none to praise,praise,C,4,ABCD
+12,4,STARTABC,And very few to love,love,D,4,ABCD
+13,1,START,A slumber did my spirit seal,seal,A,4,ABCB
+13,2,STARTA,I had no human fears,fears,B,4,ABCB
+13,3,STARTAB,She seemed a thing that could not feel,feel,C,4,ABCB
+13,4,STARTABC,The touch of earthly years,years,B,4,ABCB
+14,1,START,It is a beauteous evening calm and free,free,A,4,ABBC
+14,2,STARTA,The holy time is quiet as a Nun,nun,B,4,ABBC
+14,3,STARTAB,Breathless with adoration the broad sun,sun,B,4,ABBC
+14,4,STARTABB,Is sinking down in its tranquility,tranquility,C,4,ABBC
+15,1,START,London 1802 Milton thou shouldst be living at this hour,hour,A,4,ABBC
+15,2,STARTA,England hath need of thee she is a fen,fen,B,4,ABBC
+15,3,STARTAB,Of stagnant waters altar sword and pen,pen,B,4,ABBC
+15,4,STARTABB,Fireside the heroic wealth of hall and bower,bower,C,4,ABBC
+16,1,START,I travelled among unknown men,men,A,4,ABAC
+16,2,STARTA,In lands beyond the sea,sea,B,4,ABAC
+16,3,STARTAB,Nor England did I know till then,then,A,4,ABAC
+16,4,STARTABA,What love I bore to thee,thee,C,4,ABAC
+17,1,START,The tables turned up up my friend,friend,A,4,ABCB
+17,2,STARTA,And quit your books,books,B,4,ABCB
+17,3,STARTAB,Or surely you'll grow double,double,C,4,ABCB
+17,4,STARTABC,Up up my friend and clear your looks,looks,B,4,ABCB
+18,1,START,Once upon a midnight dreary while I pondered weak and weary,weary,A,4,ABCD
+18,2,STARTA,Over many a quaint and curious volume of forgotten lore,lore,B,4,ABCD
+18,3,STARTAB,While I nodded nearly napping suddenly there came a tapping,tapping,C,4,ABCD
+18,4,STARTABC,As of someone gently rapping rapping at my chamber door,door,D,4,ABCD
+19,1,START,Hear the sledges with the bells,bells,A,4,AAAB
+19,2,STARTA,Silver bells,bells,A,4,AAAB
+19,3,STARTAA,What a world of merriment their melody foretells,foretells,A,4,AAAB
+19,4,STARTAAA,How they tinkle tinkle tinkle,tinkle,B,4,AAAB
+20,1,START,It was many and many a year ago,ago,A,4,ABCD
+20,2,STARTA,In a kingdom by the sea,sea,B,4,ABCD
+20,3,STARTAB,That a maiden there lived whom you may know,know,C,4,ABCD
+20,4,STARTABC,By the name of Annabel Lee,lee,D,4,ABCD
+21,1,START,From childhood's hour I have not been,been,A,4,AABB
+21,2,STARTA,As others were I have not seen,seen,A,4,AABB
+21,3,STARTAA,As others saw I could not bring,bring,B,4,AABB
+21,4,STARTAAB,My passions from a common spring,spring,B,4,AABB
+22,1,START,Take this kiss upon the brow,brow,A,4,AAAB
+22,2,STARTA,And in parting from you now,now,A,4,AAAB
+22,3,STARTAA,Thus much let me avow,avow,A,4,AAAB
+22,4,STARTAAA,You are not wrong who deem,deem,B,4,AAAB
+23,1,START,In the greenest of our valleys,valleys,A,4,ABCD
+23,2,STARTA,By good angels tenanted,tenanted,B,4,ABCD
+23,3,STARTAB,Once a fair and stately palace,palace,C,4,ABCD
+23,4,STARTABC,Radiant palace reared its head,head,D,4,ABCD
+24,1,START,The skies they were ashen and sober,sober,A,4,ABAA
+24,2,STARTA,The leaves they were crisped and sere,sere,B,4,ABAA
+24,3,STARTAB,The leaves they were withering and sober,sober,A,4,ABAA
+24,4,STARTABA,It was night in the lonesome October,october,A,4,ABAA
+25,1,START,Gaily bedight a gallant knight,knight,A,4,ABCD
+25,2,STARTA,In sunshine and in shadow,shadow,B,4,ABCD
+25,3,STARTAB,Had journeyed long singing a song,song,C,4,ABCD
+25,4,STARTABC,In search of Eldorado,eldorado,D,4,ABCD
+26,1,START,Science true daughter of Old Time thou art,art,A,4,ABAB
+26,2,STARTA,Who alterest all things with thy peering eyes,eyes,B,4,ABAB
+26,3,STARTAB,Why preyest thou thus upon the poet's heart,heart,A,4,ABAB
+26,4,STARTABA,Vulture whose wings are dull realities,realities,B,4,ABAB
+27,1,START,I dwelt alone in a world of moan,moan,A,3,ABC
+27,2,STARTA,And my soul was a stagnant tide,tide,B,3,ABC
+27,3,STARTAB,Till the fair and gentle Eulalie became my blushing bride,bride,C,3,ABC
+28,1,START,The ring is on my hand,hand,A,4,ABAA
+28,2,STARTA,And the wreath is on my brow,brow,B,4,ABAA
+28,3,STARTAB,Satin and jewels grand,grand,A,4,ABAA
+28,4,STARTABA,Are all at my command,command,A,4,ABAA
+29,1,START,Thou wouldst be loved then let thy heart,heart,A,4,ABAB
+29,2,STARTA,From its present pathway part not,not,B,4,ABAB
+29,3,STARTAB,Being everything which now thou art,art,A,4,ABAB
+29,4,STARTABA,Be nothing which thou art not,not,B,4,ABAB
+30,1,START,O my Luve is like a red red rose,rose,A,4,ABCD
+30,2,STARTA,That's newly sprung in June,june,B,4,ABCD
+30,3,STARTAB,O my Luve is like the melody,melody,C,4,ABCD
+30,4,STARTABC,That's sweetly played in tune,tune,D,4,ABCD
+31,1,START,Should auld acquaintance be forgot,forgot,A,4,ABAC
+31,2,STARTA,And never brought to mind,mind,B,4,ABAC
+31,3,STARTAB,Should auld acquaintance be forgot,forgot,A,4,ABAC
+31,4,STARTABA,And auld lang syne,syne,C,4,ABAC
+32,1,START,Wee sleekit cowrin timrous beastie,beastie,A,4,ABCD
+32,2,STARTA,O what a panic's in thy breastie,breastie,B,4,ABCD
+32,3,STARTAB,Thou need na start awa sae hasty,hasty,C,4,ABCD
+32,4,STARTABC,Wi bickering brattle,brattle,D,4,ABCD
+33,1,START,Ae fond kiss and then we sever,sever,A,4,AABC
+33,2,STARTA,Ae farewell and then forever,forever,A,4,AABC
+33,3,STARTAA,Deep in heart wrung tears I'll pledge thee,thee,B,4,AABC
+33,4,STARTAAB,Warring sighs and groans I'll wage thee,thee,C,4,AABC
+34,1,START,Flow gently sweet Afton among thy green braes,braes,A,4,ABCC
+34,2,STARTA,Flow gently I'll sing thee a song in thy praise,praise,B,4,ABCC
+34,3,STARTAB,My Mary's asleep by thy murmuring stream,stream,C,4,ABCC
+34,4,STARTABC,Flow gently sweet Afton disturb not her dream,dream,C,4,ABCC
+35,1,START,Green grow the rashes O,o,A,4,ABCD
+35,2,STARTA,Green grow the rashes O,o,B,4,ABCD
+35,3,STARTAB,The sweetest hours that e'er I spend,spend,C,4,ABCD
+35,4,STARTABC,Are spent among the lasses O,o,D,4,ABCD
+36,1,START,My heart's in the Highlands my heart is not here,here,A,4,ABCD
+36,2,STARTA,My heart's in the Highlands a chasing the deer,deer,B,4,ABCD
+36,3,STARTAB,Chasing the wild deer and following the roe,roe,C,4,ABCD
+36,4,STARTABC,My heart's in the Highlands wherever I go,go,D,4,ABCD
+37,1,START,John Anderson my jo John,john,A,4,ABCB
+37,2,STARTA,When we were first acquent,acquent,B,4,ABCB
+37,3,STARTAB,Your locks were like the raven,raven,C,4,ABCB
+37,4,STARTABC,Your bonnie brow was brent,brent,B,4,ABCB
+38,1,START,Is there for honest poverty,poverty,A,4,ABCB
+38,2,STARTA,That hings his head and a' that,that,B,4,ABCB
+38,3,STARTAB,The coward slave we pass him by,by,C,4,ABCB
+38,4,STARTABC,We dare be poor for a' that,that,B,4,ABCB
+39,1,START,O were my love yon lilac fair,fair,A,4,ABCB
+39,2,STARTA,Wi purple blossoms to the spring,spring,B,4,ABCB
+39,3,STARTAB,And I a bird to shelter there,there,C,4,ABCB
+39,4,STARTABC,When wearied on my little wing,wing,B,4,ABCB
+40,1,START,I'm Nobody Who are you,you,A,4,ABCD
+40,2,STARTA,Are you Nobody too,too,B,4,ABCD
+40,3,STARTAB,Then there's a pair of us don't tell,tell,C,4,ABCD
+40,4,STARTABC,They'd banish us you know,know,D,4,ABCD
+41,1,START,Success is counted sweetest,sweetest,A,4,ABCB
+41,2,STARTA,By those who ne'er succeed,succeed,B,4,ABCB
+41,3,STARTAB,To comprehend a nectar,nectar,C,4,ABCB
+41,4,STARTABC,Requires sorest need,need,B,4,ABCB
+42,1,START,Tell all the truth but tell it slant,slant,A,4,ABCD
+42,2,STARTA,Success in circuit lies,lies,B,4,ABCD
+42,3,STARTAB,Too bright for our infirm delight,delight,C,4,ABCD
+42,4,STARTABC,The truth's superb surprise,surprise,D,4,ABCD
+43,1,START,The brain is wider than the sky,sky,A,4,ABCD
+43,2,STARTA,For put them side by side,side,B,4,ABCD
+43,3,STARTAB,The one the other will contain,contain,C,4,ABCD
+43,4,STARTABC,With ease and you beside,beside,D,4,ABCD
+44,1,START,I heard a fly buzz when I died,died,A,4,ABCD
+44,2,STARTA,The stillness in the room,room,B,4,ABCD
+44,3,STARTAB,Was like the stillness in the air,air,C,4,ABCD
+44,4,STARTABC,Between the heaves of storm,storm,D,4,ABCD
+45,1,START,Wild nights wild nights,nights,A,4,ABCD
+45,2,STARTA,Were I with thee,thee,B,4,ABCD
+45,3,STARTAB,Wild nights should be,be,C,4,ABCD
+45,4,STARTABC,Our luxury,luxury,D,4,ABCD
+46,1,START,There is no frigate like a book,book,A,4,ABCD
+46,2,STARTA,To take us lands away,away,B,4,ABCD
+46,3,STARTAB,Nor any coursers like a page,page,C,4,ABCD
+46,4,STARTABC,Of prancing poetry,poetry,D,4,ABCD
+47,1,START,A bird came down the walk,walk,A,4,ABCB
+47,2,STARTA,He did not know I saw,saw,B,4,ABCB
+47,3,STARTAB,He bit an angle worm in halves,halves,C,4,ABCB
+47,4,STARTABC,And ate the fellow raw,raw,B,4,ABCB
+48,1,START,Hope is the thing with feathers,feathers,A,4,ABCD
+48,2,STARTA,That perches in the soul,soul,B,4,ABCD
+48,3,STARTAB,And sings the tune without the words,words,C,4,ABCD
+48,4,STARTABC,And never stops at all,all,D,4,ABCD
+49,1,START,Because I could not stop for Death,death,A,4,ABCD
+49,2,STARTA,He kindly stopped for me,me,B,4,ABCD
+49,3,STARTAB,The Carriage held but just Ourselves,ourselves,C,4,ABCD
+49,4,STARTABC,And Immortality,immortality,D,4,ABCD
+50,1,START,I died for Beauty but was scarce,scarce,A,4,ABCD
+50,2,STARTA,Adjusted in the Tomb,tomb,B,4,ABCD
+50,3,STARTAB,When One who died for Truth was lain,lain,C,4,ABCD
+50,4,STARTABC,In an adjoining Room,room,D,4,ABCD
+51,1,START,The Soul selects her own Society,society,A,4,ABCD
+51,2,STARTA,Then shuts the Door,door,B,4,ABCD
+51,3,STARTAB,To her divine Majority,majority,C,4,ABCD
+51,4,STARTABC,Present no more,more,D,4,ABCD
+52,1,START,I felt a Funeral in my Brain,brain,A,4,ABCD
+52,2,STARTA,And Mourners to and fro,fro,B,4,ABCD
+52,3,STARTAB,Kept treading treading till it seemed,seemed,C,4,ABCD
+52,4,STARTABC,That Sense was breaking through,through,D,4,ABCD
+53,1,START,This is my letter to the World,world,A,4,ABCD
+53,2,STARTA,That never wrote to Me,me,B,4,ABCD
+53,3,STARTAB,The simple News that Nature told,told,C,4,ABCD
+53,4,STARTABC,With tender Majesty,majesty,D,4,ABCD
+54,1,START,A narrow Fellow in the Grass,grass,A,4,ABCD
+54,2,STARTA,Occasionally rides,rides,B,4,ABCD
+54,3,STARTAB,You may have met Him did you not,not,C,4,ABCD
+54,4,STARTABC,His notice sudden is,is,D,4,ABCD
+55,1,START,O Captain my Captain our fearful trip is done,done,A,4,ABCC
+55,2,STARTA,The ship has weathered every rack the prize we sought is won,won,B,4,ABCC
+55,3,STARTAB,The port is near the bells I hear the people all exulting,exulting,C,4,ABCC
+55,4,STARTABC,While follow eyes the steady keel the vessel grim and daring,daring,C,4,ABCC
+56,1,START,I hear America singing the varied carols I hear,hear,A,4,ABCD
+56,2,STARTA,Those of mechanics each one singing his as it should be blithe and strong,strong,B,4,ABCD
+56,3,STARTAB,The carpenter singing his as he measures his plank or beam,beam,C,4,ABCD
+56,4,STARTABC,The mason singing his as he makes ready for work or leaves off work,work,D,4,ABCD
+57,1,START,When I heard the learn'd astronomer,astronomer,A,4,ABCD
+57,2,STARTA,When the proofs the figures were ranged in columns before me,me,B,4,ABCD
+57,3,STARTAB,When I was shown the charts and diagrams,diagrams,C,4,ABCD
+57,4,STARTABC,To add divide and measure them,them,D,4,ABCD
+58,1,START,A noiseless patient spider,spider,A,4,ABCD
+58,2,STARTA,I mark'd where on a little promontory it stood isolated,isolated,B,4,ABCD
+58,3,STARTAB,Mark'd how to explore the vacant vast surrounding,surrounding,C,4,ABCD
+58,4,STARTABC,It launch'd forth filament filament filament out of itself,itself,D,4,ABCD
+59,1,START,I celebrate myself and sing myself,myself,A,4,ABCD
+59,2,STARTA,And what I assume you shall assume,assume,B,4,ABCD
+59,3,STARTAB,For every atom belonging to me as good belongs to you,you,C,4,ABCD
+59,4,STARTABC,I loafe and invite my soul,soul,D,4,ABCD
+60,1,START,Out of the cradle endlessly rocking,rocking,A,4,ABCD
+60,2,STARTA,Out of the mocking bird's throat the musical shuttle,shuttle,B,4,ABCD
+60,3,STARTAB,Out of the Ninth month midnight,midnight,C,4,ABCD
+60,4,STARTABC,Over the sterile sands and the fields beyond,beyond,D,4,ABCD
+61,1,START,When lilacs last in the dooryard bloom'd,bloom'd,A,4,ABCC
+61,2,STARTA,And the great star early droop'd in the western sky in the night,night,B,4,ABCC
+61,3,STARTAB,I mourn'd and yet shall mourn with ever returning spring,spring,C,4,ABCC
+61,4,STARTABC,Ever returning spring trinity sure to me you bring,bring,C,4,ABCC
+62,1,START,To the garden the world anew ascending,ascending,A,4,AAAB
+62,2,STARTA,Potent mates daughters sons preluding,preluding,A,4,AAAB
+62,3,STARTAA,The love the life of their bodies meaning and being,being,A,4,AAAB
+62,4,STARTAAA,Curious here behold my resurrection after slumber,slumber,B,4,AAAB
+63,1,START,She walks in beauty like the night,night,A,4,ABAB
+63,2,STARTA,Of cloudless climes and starry skies,skies,B,4,ABAB
+63,3,STARTAB,And all that's best of dark and bright,bright,A,4,ABAB
+63,4,STARTABA,Meet in her aspect and her eyes,eyes,B,4,ABAB
+64,1,START,The Assyrian came down like the wolf on the fold,fold,A,4,AABC
+64,2,STARTA,And his cohorts were gleaming in purple and gold,gold,A,4,AABC
+64,3,STARTAA,And the sheen of their spears was like stars on the sea,sea,B,4,AABC
+64,4,STARTAAB,When the blue wave rolls nightly on deep Galilee,galilee,C,4,AABC
+65,1,START,So we'll go no more a roving,roving,A,4,ABAB
+65,2,STARTA,So late into the night,night,B,4,ABAB
+65,3,STARTAB,Though the heart be still as loving,loving,A,4,ABAB
+65,4,STARTABA,And the moon be still as bright,bright,B,4,ABAB
+66,1,START,When we two parted,parted,A,4,ABAB
+66,2,STARTA,In silence and tears,tears,B,4,ABAB
+66,3,STARTAB,Half broken hearted,hearted,A,4,ABAB
+66,4,STARTABA,To sever for years,years,B,4,ABAB
+67,1,START,There be none of Beauty's daughters,daughters,A,4,ABAC
+67,2,STARTA,With a magic like thee,thee,B,4,ABAC
+67,3,STARTAB,And like music on the waters,waters,A,4,ABAC
+67,4,STARTABA,Is thy sweet voice to me,me,C,4,ABAC
+68,1,START,The castled crag of Drachenfels,drachenfels,A,4,ABCD
+68,2,STARTA,Frowns o'er the wide and winding Rhine,rhine,B,4,ABCD
+68,3,STARTAB,Whose breast of waters broadly swells,swells,C,4,ABCD
+68,4,STARTABC,Between the banks which bear the vine,vine,D,4,ABCD
+69,1,START,Maid of Athens ere we part,part,A,4,AABC
+69,2,STARTA,Give oh give me back my heart,heart,A,4,AABC
+69,3,STARTAA,Or since that has left my breast,breast,B,4,AABC
+69,4,STARTAAB,Keep it now and take the rest,rest,C,4,AABC
+70,1,START,And thou art dead as young and fair,fair,A,4,ABCD
+70,2,STARTA,As aught of mortal birth,birth,B,4,ABCD
+70,3,STARTAB,And form so soft and charm so rare,rare,C,4,ABCD
+70,4,STARTABC,Too soon return'd to Earth,earth,D,4,ABCD
+71,1,START,Bright star would I were steadfast as thou art,art,A,4,ABAC
+71,2,STARTA,Not in lone splendor hung aloft the night,night,B,4,ABAC
+71,3,STARTAB,And watching with eternal lids apart,apart,A,4,ABAC
+71,4,STARTABA,Like nature's patient sleepless Eremite,eremite,C,4,ABAC
+72,1,START,A thing of beauty is a joy forever,forever,A,4,AABB
+72,2,STARTA,Its loveliness increases it will never,never,A,4,AABB
+72,3,STARTAA,Pass into nothingness but still will keep,keep,B,4,AABB
+72,4,STARTAAB,A bower quiet for us and a sleep,sleep,B,4,AABB
+73,1,START,Season of mists and mellow fruitfulness,fruitfulness,A,4,ABAB
+73,2,STARTA,Close bosom friend of the maturing sun,sun,B,4,ABAB
+73,3,STARTAB,Conspiring with him how to load and bless,bless,A,4,ABAB
+73,4,STARTABA,With fruit the vines that round the thatch eaves run,run,B,4,ABAB
+74,1,START,When I have fears that I may cease to be,be,A,4,ABCB
+74,2,STARTA,Before my pen has gleaned my teeming brain,brain,B,4,ABCB
+74,3,STARTAB,Before high piled books in charactery,charactery,C,4,ABCB
+74,4,STARTABC,Hold like rich garners the full ripened grain,grain,B,4,ABCB
+75,1,START,Much have I traveled in the realms of gold,gold,A,4,ABBA
+75,2,STARTA,And many goodly states and kingdoms seen,seen,B,4,ABBA
+75,3,STARTAB,Round many western islands have I been,been,B,4,ABBA
+75,4,STARTABB,Which bards in fealty to Apollo hold,hold,A,4,ABBA
+76,1,START,O what can ail thee knight at arms,arms,A,4,ABCB
+76,2,STARTA,Alone and palely loitering,loitering,B,4,ABCB
+76,3,STARTAB,The sedge has withered from the lake,lake,C,4,ABCB
+76,4,STARTABC,And no birds sing,sing,B,4,ABCB
+77,1,START,My heart aches and a drowsy numbness pains,pains,A,4,ABAB
+77,2,STARTA,My sense as though of hemlock I had drunk,drunk,B,4,ABAB
+77,3,STARTAB,Or emptied some dull opiate to the drains,drains,A,4,ABAB
+77,4,STARTABA,One minute past and Lethe wards had sunk,sunk,B,4,ABAB
+78,1,START,In a drear nighted December,december,A,4,ABAC
+78,2,STARTA,Too happy happy tree,tree,B,4,ABAC
+78,3,STARTAB,Thy branches ne'er remember,remember,A,4,ABAC
+78,4,STARTABA,Their green felicity,felicity,C,4,ABAC
+79,1,START,The poetry of earth is never dead,dead,A,4,ABBA
+79,2,STARTA,When all the birds are faint with the hot sun,sun,B,4,ABBA
+79,3,STARTAB,And hide in cooling trees a voice will run,run,B,4,ABBA
+79,4,STARTABB,From hedge to hedge about the new mown mead,mead,A,4,ABBA
+80,1,START,Four seasons fill the measure of the year,year,A,4,ABAB
+80,2,STARTA,There are four seasons in the mind of man,man,B,4,ABAB
+80,3,STARTAB,He has his lusty Spring when fancy clear,clear,A,4,ABAB
+80,4,STARTABA,Takes in all beauty with an easy span,span,B,4,ABAB
+81,1,START,I met a traveler from an antique land,land,A,4,ABAC
+81,2,STARTA,Who said Two vast and trunkless legs of stone,stone,B,4,ABAC
+81,3,STARTAB,Stand in the desert Near them on the sand,sand,A,4,ABAC
+81,4,STARTABA,Half sunk a shattered visage lies,lies,C,4,ABAC
+82,1,START,The fountains mingle with the river,river,A,4,ABAC
+82,2,STARTA,And the rivers with the ocean,ocean,B,4,ABAC
+82,3,STARTAB,The winds of heaven mix forever,forever,A,4,ABAC
+82,4,STARTABA,With a sweet emotion,emotion,C,4,ABAC
+83,1,START,Music when soft voices die,die,A,4,ABCC
+83,2,STARTA,Vibrates in the memory,memory,B,4,ABCC
+83,3,STARTAB,Odors when sweet violets sicken,sicken,C,4,ABCC
+83,4,STARTABC,Live within the sense they quicken,quicken,C,4,ABCC
+84,1,START,One word is too often profaned,profaned,A,4,ABAB
+84,2,STARTA,For me to profane it,it,B,4,ABAB
+84,3,STARTAB,One feeling too falsely disdained,disdained,A,4,ABAB
+84,4,STARTABA,For thee to disdain it,it,B,4,ABAB
+85,1,START,Hail to thee blithe Spirit,spirit,A,4,ABAC
+85,2,STARTA,Bird thou never wert,wert,B,4,ABAC
+85,3,STARTAB,That from Heaven or near it,it,A,4,ABAC
+85,4,STARTABA,Pourest thy full heart,heart,C,4,ABAC
+86,1,START,The world's great age begins anew,anew,A,4,ABAC
+86,2,STARTA,The golden years return,return,B,4,ABAC
+86,3,STARTAB,The earth doth like a snake renew,renew,A,4,ABAC
+86,4,STARTABA,Her winter weeds outworn,outworn,C,4,ABAC
+87,1,START,I weep for Adonais he is dead,dead,A,4,ABAB
+87,2,STARTA,O weep for Adonais though our tears,tears,B,4,ABAB
+87,3,STARTAB,Thaw not the frost which binds so dear a head,head,A,4,ABAB
+87,4,STARTABA,And thou sad Hour selected from all years,years,B,4,ABAB
+88,1,START,Rarely rarely comest thou,thou,A,4,ABCB
+88,2,STARTA,Spirit of Delight,delight,B,4,ABCB
+88,3,STARTAB,Wherefore hast thou left me now,now,C,4,ABCB
+88,4,STARTABC,Many a day and night,night,B,4,ABCB
+89,1,START,Half a league half a league,league,A,4,ABCD
+89,2,STARTA,Half a league onward,onward,B,4,ABCD
+89,3,STARTAB,All in the valley of Death,death,C,4,ABCD
+89,4,STARTABC,Rode the six hundred,hundred,D,4,ABCD
+90,1,START,Break break break,break,A,4,ABCD
+90,2,STARTA,On thy cold gray stones O Sea,sea,B,4,ABCD
+90,3,STARTAB,And I would that my tongue could utter,utter,C,4,ABCD
+90,4,STARTABC,The thoughts that arise in me,me,D,4,ABCD
+91,1,START,The splendor falls on castle walls,walls,A,4,ABCB
+91,2,STARTA,And snowy summits old in story,story,B,4,ABCB
+91,3,STARTAB,The long light shakes across the lakes,lakes,C,4,ABCB
+91,4,STARTABC,And the wild cataract leaps in glory,glory,B,4,ABCB
+92,1,START,Come into the garden Maud,maud,A,4,ABAC
+92,2,STARTA,For the black bat night has flown,flown,B,4,ABAC
+92,3,STARTAB,Come into the garden Maud,maud,A,4,ABAC
+92,4,STARTABA,I am here at the gate alone,alone,C,4,ABAC
+93,1,START,Sunset and evening star,star,A,4,ABAC
+93,2,STARTA,And one clear call for me,me,B,4,ABAC
+93,3,STARTAB,And may there be no moaning of the bar,bar,A,4,ABAC
+93,4,STARTABA,When I put out to sea,sea,C,4,ABAC
+94,1,START,It is the miller's daughter,daughter,A,4,ABCB
+94,2,STARTA,And she is grown so dear so dear,dear,B,4,ABCB
+94,3,STARTAB,That I would be the jewel,jewel,C,4,ABCB
+94,4,STARTABC,That trembles in her ear,ear,B,4,ABCB
+95,1,START,Now sleeps the crimson petal now the white,white,A,4,ABCD
+95,2,STARTA,Nor waves the cypress in the palace walk,walk,B,4,ABCD
+95,3,STARTAB,Nor winks the gold fin in the porphyry font,font,C,4,ABCD
+95,4,STARTABC,The firefly wakens waken thou with me,me,D,4,ABCD
+96,1,START,Flower in the crannied wall,wall,A,4,ABCC
+96,2,STARTA,I pluck you out of the crannies,crannies,B,4,ABCC
+96,3,STARTAB,I hold you here root and all in my hand,hand,C,4,ABCC
+96,4,STARTABC,Little flower but if I could understand,understand,C,4,ABCC
+97,1,START,The woods decay the woods decay and fall,fall,A,4,ABCD
+97,2,STARTA,The vapors weep their burthen to the ground,ground,B,4,ABCD
+97,3,STARTAB,Man comes and tills the field and lies beneath,beneath,C,4,ABCD
+97,4,STARTABC,And after many a summer dies the swan,swan,D,4,ABCD
+98,1,START,Of old sat Freedom on the heights,heights,A,4,ABAB
+98,2,STARTA,The thunders breaking at her feet,feet,B,4,ABAB
+98,3,STARTAB,Above her shook the starry lights,lights,A,4,ABAB
+98,4,STARTABA,She heard the torrents meet,meet,B,4,ABAB
+99,1,START,When I am dead my dearest,dearest,A,4,ABCD
+99,2,STARTA,Sing no sad songs for me,me,B,4,ABCD
+99,3,STARTAB,Plant thou no roses at my head,head,C,4,ABCD
+99,4,STARTABC,Nor shady cypress tree,tree,D,4,ABCD
+100,1,START,My heart is like a singing bird,bird,A,4,ABCD
+100,2,STARTA,Whose nest is in a watered shoot,shoot,B,4,ABCD
+100,3,STARTAB,My heart is like an apple tree,tree,C,4,ABCD
+100,4,STARTABC,Whose boughs are bent with thickset fruit,fruit,D,4,ABCD
+101,1,START,Remember me when I am gone away,away,A,4,ABBA
+101,2,STARTA,Gone far away into the silent land,land,B,4,ABBA
+101,3,STARTAB,When you can no more hold me by the hand,hand,B,4,ABBA
+101,4,STARTABB,Nor I half turn to go yet turning stay,stay,A,4,ABBA
+102,1,START,Does the road wind uphill all the way,way,A,4,ABAB
+102,2,STARTA,Yes to the very end,end,B,4,ABAB
+102,3,STARTAB,Will the day's journey take the whole long day,day,A,4,ABAB
+102,4,STARTABA,From morn to night my friend,friend,B,4,ABAB
+103,1,START,In the bleak mid winter,winter,A,4,ABCD
+103,2,STARTA,Frosty wind made moan,moan,B,4,ABCD
+103,3,STARTAB,Earth stood hard as iron,iron,C,4,ABCD
+103,4,STARTABC,Water like a stone,stone,D,4,ABCD
+104,1,START,The summer nights are short,short,A,4,ABCB
+104,2,STARTA,Where northern days are long,long,B,4,ABCB
+104,3,STARTAB,For years and years have I been waiting,waiting,C,4,ABCB
+104,4,STARTABC,The burden of a song,song,B,4,ABCB
+105,1,START,O roses for the flush of youth,youth,A,4,ABCD
+105,2,STARTA,And laurel for the perfect prime,prime,B,4,ABCD
+105,3,STARTAB,But pluck an ivy branch for me,me,C,4,ABCD
+105,4,STARTABC,Grown old before my time,time,D,4,ABCD
+106,1,START,Twice I have stood a beggar,beggar,A,4,ABCD
+106,2,STARTA,Before the door of God,god,B,4,ABCD
+106,3,STARTAB,Angels twice descending,descending,C,4,ABCD
+106,4,STARTABC,Redeemed my heavy load,load,D,4,ABCD
+107,1,START,That's my last Duchess painted on the wall,wall,A,4,AABB
+107,2,STARTA,Looking as if she were alive I call,call,A,4,AABB
+107,3,STARTAA,That piece a wonder now Fra Pandolf's hands,hands,B,4,AABB
+107,4,STARTAAB,Worked busily a day and there she stands,stands,B,4,AABB
+108,1,START,Grow old along with me,me,A,4,ABCD
+108,2,STARTA,The best is yet to be,be,B,4,ABCD
+108,3,STARTAB,The last of life for which the first was made,made,C,4,ABCD
+108,4,STARTABC,Our times are in his hand,hand,D,4,ABCD
+109,1,START,The year's at the spring,spring,A,4,ABCD
+109,2,STARTA,And day's at the morn,morn,B,4,ABCD
+109,3,STARTAB,Morning's at seven,seven,C,4,ABCD
+109,4,STARTABC,The hillside's dew pearled,pearled,D,4,ABCD
+110,1,START,Just for a handful of silver he left us,us,A,4,ABAC
+110,2,STARTA,Just for a riband to stick in his coat,coat,B,4,ABAC
+110,3,STARTAB,Found the one gift of which fortune bereft us,us,A,4,ABAC
+110,4,STARTABA,Lost all the others she lets us devote,devote,C,4,ABAC
+111,1,START,Oh to be in England,england,A,4,ABAC
+111,2,STARTA,Now that April's there,there,B,4,ABAC
+111,3,STARTAB,And whoever wakes in England,england,A,4,ABAC
+111,4,STARTABA,Sees some morning unaware,unaware,C,4,ABAC
+112,1,START,Fear death to feel the fog in my throat,throat,A,4,ABCD
+112,2,STARTA,The mist in my face,face,B,4,ABCD
+112,3,STARTAB,When the snows begin and the blasts denote,denote,C,4,ABCD
+112,4,STARTABC,I am nearing the place,place,D,4,ABCD
+113,1,START,Listen my children and you shall hear,hear,A,4,ABCD
+113,2,STARTA,Of the midnight ride of Paul Revere,revere,B,4,ABCD
+113,3,STARTAB,On the eighteenth of April in seventy five,five,C,4,ABCD
+113,4,STARTABC,Hardly a man is now alive,alive,D,4,ABCD
+114,1,START,By the shores of Gitche Gumee,gumee,A,4,ABCC
+114,2,STARTA,By the shining Big Sea Water,water,B,4,ABCC
+114,3,STARTAB,Stood the wigwam of Nokomis,nokomis,C,4,ABCC
+114,4,STARTABC,Daughter of the Moon Nokomis,nokomis,C,4,ABCC
+115,1,START,The day is done and the darkness,darkness,A,4,ABCB
+115,2,STARTA,Falls from the wings of Night,night,B,4,ABCB
+115,3,STARTAB,As a feather is wafted downward,downward,C,4,ABCB
+115,4,STARTABC,From an eagle in his flight,flight,B,4,ABCB
+116,1,START,Tell me not in mournful numbers,numbers,A,4,ABAC
+116,2,STARTA,Life is but an empty dream,dream,B,4,ABAC
+116,3,STARTAB,For the soul is dead that slumbers,slumbers,A,4,ABAC
+116,4,STARTABA,And things are not what they seem,seem,C,4,ABAC
+117,1,START,I shot an arrow into the air,air,A,4,ABCC
+117,2,STARTA,It fell to earth I knew not where,where,B,4,ABCC
+117,3,STARTAB,For so swiftly it flew the sight,sight,C,4,ABCC
+117,4,STARTABC,Could not follow it in its flight,flight,C,4,ABCC
+118,1,START,Between the dark and the daylight,daylight,A,4,ABCD
+118,2,STARTA,When the night is beginning to lower,lower,B,4,ABCD
+118,3,STARTAB,Comes a pause in the day's occupations,occupations,C,4,ABCD
+118,4,STARTABC,That is known as the Children's Hour,hour,D,4,ABCD
+119,1,START,Under a spreading chestnut tree,tree,A,4,ABCB
+119,2,STARTA,The village smithy stands,stands,B,4,ABCB
+119,3,STARTAB,The smith a mighty man is he,he,C,4,ABCB
+119,4,STARTABC,With large and sinewy hands,hands,B,4,ABCB
+120,1,START,The shades of night were falling fast,fast,A,4,ABCD
+120,2,STARTA,As through an Alpine village passed,passed,B,4,ABCD
+120,3,STARTAB,A youth who bore mid snow and ice,ice,C,4,ABCD
+120,4,STARTABC,A banner with the strange device,device,D,4,ABCD
+121,1,START,This is the forest primeval the murmuring pines and the hemlocks,hemlocks,A,4,ABCD
+121,2,STARTA,Bearded with moss and in garments green indistinct in the twilight,twilight,B,4,ABCD
+121,3,STARTAB,Stand like Druids of eld with voices sad and prophetic,prophetic,C,4,ABCD
+121,4,STARTABC,Stand like harpers hoar with beards that rest on their bosoms,bosoms,D,4,ABCD
+122,1,START,Ships that pass in the night and speak each other in passing,passing,A,4,ABCD
+122,2,STARTA,Only a signal shown and a distant voice in the darkness,darkness,B,4,ABCD
+122,3,STARTAB,So on the ocean of life we pass and speak one another,another,C,4,ABCD
+122,4,STARTABC,Only a look and a voice then darkness again and a silence,silence,D,4,ABCD
+123,1,START,Had I the heavens embroidered cloths,cloths,A,4,ABAB
+123,2,STARTA,Enwrought with golden and silver light,light,B,4,ABAB
+123,3,STARTAB,The blue and the dim and the dark cloths,cloths,A,4,ABAB
+123,4,STARTABA,Of night and light and the half light,light,B,4,ABAB
+124,1,START,When you are old and gray and full of sleep,sleep,A,4,ABBA
+124,2,STARTA,And nodding by the fire take down this book,book,B,4,ABBA
+124,3,STARTAB,And slowly read and dream of the soft look,look,B,4,ABBA
+124,4,STARTABB,Your eyes had once and of their shadows deep,deep,A,4,ABBA
+125,1,START,Turning and turning in the widening gyre,gyre,A,4,ABCD
+125,2,STARTA,The falcon cannot hear the falconer,falconer,B,4,ABCD
+125,3,STARTAB,Things fall apart the center cannot hold,hold,C,4,ABCD
+125,4,STARTABC,Mere anarchy is loosed upon the world,world,D,4,ABCD
+126,1,START,I will arise and go now and go to Innisfree,innisfree,A,4,ABCD
+126,2,STARTA,And a small cabin build there of clay and wattles made,made,B,4,ABCD
+126,3,STARTAB,Nine bean rows will I have there a hive for the honey bee,bee,C,4,ABCD
+126,4,STARTABC,And live alone in the bee loud glade,glade,D,4,ABCD
+127,1,START,That is no country for old men The young,young,A,4,ABCD
+127,2,STARTA,In one another's arms birds in the trees,trees,B,4,ABCD
+127,3,STARTAB,Those dying generations at their song,song,C,4,ABCD
+127,4,STARTABC,The salmon falls the mackerel crowded seas,seas,D,4,ABCD
+128,1,START,A sudden blow the great wings beating still,still,A,4,ABAC
+128,2,STARTA,Above the staggering girl her thighs caressed,caressed,B,4,ABAC
+128,3,STARTAB,By the dark webs her nape caught in his bill,bill,A,4,ABAC
+128,4,STARTABA,He holds her helpless breast upon his breast,breast,C,4,ABAC
+129,1,START,I know that I shall meet my fate,fate,A,4,ABCD
+129,2,STARTA,Somewhere among the clouds above,above,B,4,ABCD
+129,3,STARTAB,Those that I fight I do not hate,hate,C,4,ABCD
+129,4,STARTABC,Those that I guard I do not love,love,D,4,ABCD
+130,1,START,Many ingenious lovely things are gone,gone,A,4,ABCD
+130,2,STARTA,That seemed sheer miracle to the multitude,multitude,B,4,ABCD
+130,3,STARTAB,Protected from the circle of the moon,moon,C,4,ABCD
+130,4,STARTABC,That pitches common things about,about,D,4,ABCD
+131,1,START,O but we talked at large before,before,A,4,ABCB
+131,2,STARTA,The sixteen men were shot,shot,B,4,ABCB
+131,3,STARTAB,But who can talk of give and take,take,C,4,ABCB
+131,4,STARTABC,What should be and what not,not,B,4,ABCB
+132,1,START,I will not in the grave go down,down,A,4,ABCD
+132,2,STARTA,Where there's no work nor scheme nor thought,thought,B,4,ABCD
+132,3,STARTAB,But I will go down to the clay,clay,C,4,ABCD
+132,4,STARTABC,And leave my anger there,there,D,4,ABCD
+133,1,START,When the Present has latched its postern behind my tremulous stay,stay,A,4,ABAB
+133,2,STARTA,And the May month flaps its glad green leaves like wings,wings,B,4,ABAB
+133,3,STARTAB,Delicate filmed as new spun silk will the neighbors say,say,A,4,ABAB
+133,4,STARTABA,He was a man who used to notice such things,things,B,4,ABAB
+134,1,START,I leant upon a coppice gate,gate,A,4,ABCB
+134,2,STARTA,When Frost was spectre gray,gray,B,4,ABCB
+134,3,STARTAB,And Winter's dregs made desolate,desolate,C,4,ABCB
+134,4,STARTABC,The weakening eye of day,day,B,4,ABCB
+135,1,START,Woman much missed how you call to me call to me,me,A,4,ABCD
+135,2,STARTA,Saying that now you are not as you were,were,B,4,ABCD
+135,3,STARTAB,When you had changed from the one who was all to me,me,C,4,ABCD
+135,4,STARTABC,But as at first when our day was fair,fair,D,4,ABCD
+136,1,START,Only a man harrowing clods,clods,A,4,ABAB
+136,2,STARTA,In a slow silent walk,walk,B,4,ABAB
+136,3,STARTAB,With an old horse that stumbles and nods,nods,A,4,ABAB
+136,4,STARTABA,Half asleep as they stalk,stalk,B,4,ABAB
+137,1,START,I went by the Druid stone,stone,A,4,ABCD
+137,2,STARTA,That broods in the garden white and lone,lone,B,4,ABCD
+137,3,STARTAB,And I stopped and looked at the shifting shadows,shadows,C,4,ABCD
+137,4,STARTABC,That at some moments fall thereon,thereon,D,4,ABCD
+138,1,START,And now comes the Peace dismissing,dismissing,A,4,ABAC
+138,2,STARTA,The ache of nothing to do,do,B,4,ABAC
+138,3,STARTAB,And I shall grow old by missing,missing,A,4,ABAC
+138,4,STARTABA,The heaven that once I knew,knew,C,4,ABAC
+139,1,START,Loveliest of trees the cherry now,now,A,4,ABCD
+139,2,STARTA,Is hung with bloom along the bough,bough,B,4,ABCD
+139,3,STARTAB,And stands about the woodland ride,ride,C,4,ABCD
+139,4,STARTABC,Wearing white for Eastertide,eastertide,D,4,ABCD
+140,1,START,When I was one and twenty,twenty,A,4,ABCB
+140,2,STARTA,I heard a wise man say,say,B,4,ABCB
+140,3,STARTAB,Give crowns and pounds and guineas,guineas,C,4,ABCB
+140,4,STARTABC,But not your heart away,away,B,4,ABCB
+141,1,START,With rue my heart is laden,laden,A,4,ABAB
+141,2,STARTA,For golden friends I had,had,B,4,ABAB
+141,3,STARTAB,For many a rose lipt maiden,maiden,A,4,ABAB
+141,4,STARTABA,And many a lightfoot lad,lad,B,4,ABAB
+142,1,START,Into my heart an air that kills,kills,A,4,ABAC
+142,2,STARTA,From yon far country blows,blows,B,4,ABAC
+142,3,STARTAB,What are those blue remembered hills,hills,A,4,ABAC
+142,4,STARTABA,What spires what farms are those,those,C,4,ABAC
+143,1,START,The time you won your town the race,race,A,4,ABCD
+143,2,STARTA,We chaired you through the market place,place,B,4,ABCD
+143,3,STARTAB,Man and boy stood cheering by,by,C,4,ABCD
+143,4,STARTABC,And home we brought you shoulder high,high,D,4,ABCD
+144,1,START,On the idle hill of summer,summer,A,4,ABAB
+144,2,STARTA,Sleepy with the flow of streams,streams,B,4,ABAB
+144,3,STARTAB,Far I hear the steady drummer,drummer,A,4,ABAB
+144,4,STARTABA,Drumming like a noise in dreams,dreams,B,4,ABAB
+145,1,START,If you can keep your head when all about you,you,A,4,ABCD
+145,2,STARTA,Are losing theirs and blaming it on you,you,B,4,ABCD
+145,3,STARTAB,If you can trust yourself when all men doubt you,you,C,4,ABCD
+145,4,STARTABC,But make allowance for their doubting too,too,D,4,ABCD
+146,1,START,You may talk o' gin and beer,beer,A,4,ABCA
+146,2,STARTA,When you're quartered safe out 'ere,'ere,B,4,ABCA
+146,3,STARTAB,An' you're sent to penny fights an' Aldershot it,it,C,4,ABCA
+146,4,STARTABC,But when it comes to slaughter,slaughter,A,4,ABCA
+147,1,START,Oh East is East and West is West,west,A,4,ABCD
+147,2,STARTA,And never the twain shall meet,meet,B,4,ABCD
+147,3,STARTAB,Till Earth and Sky stand presently,presently,C,4,ABCD
+147,4,STARTABC,At God's great Judgment Seat,seat,D,4,ABCD
+148,1,START,I have eaten your bread and salt,salt,A,4,ABCD
+148,2,STARTA,I have drunk your water and wine,wine,B,4,ABCD
+148,3,STARTAB,The deaths ye died I have watched beside,beside,C,4,ABCD
+148,4,STARTABC,And the lives that ye led were mine,mine,D,4,ABCD
+149,1,START,For the strength of the Pack is the Wolf and the strength of the Wolf is the Pack,pack,A,3,ABB
+149,2,STARTA,Wash daily from nose tip to tail tip drink deeply but never too deep,deep,B,3,ABB
+149,3,STARTAB,And remember the night is for hunting and forget not the day is for sleep,sleep,B,3,ABB
+150,1,START,When the Himalayan peasant meets the he bear in his pride,pride,A,2,AB
+150,2,STARTA,He shouts to scare the monster who will often turn aside,aside,B,2,AB
+151,1,START,Stop all the clocks cut off the telephone,telephone,A,4,ABCD
+151,2,STARTA,Prevent the dog from barking with a juicy bone,bone,B,4,ABCD
+151,3,STARTAB,Silence the pianos and with muffled drum,drum,C,4,ABCD
+151,4,STARTABC,Bring out the coffin let the mourners come,come,D,4,ABCD
+152,1,START,About suffering they were never wrong,wrong,A,4,ABCD
+152,2,STARTA,The Old Masters how well they understood,understood,B,4,ABCD
+152,3,STARTAB,Its human position how it takes place,place,C,4,ABCD
+152,4,STARTABC,While someone else is eating or opening a window,window,D,4,ABCD
+153,1,START,Lay your sleeping head my love,love,A,4,ABCD
+153,2,STARTA,Human on my faithless arm,arm,B,4,ABCD
+153,3,STARTAB,Time and fevers burn away,away,C,4,ABCD
+153,4,STARTABC,Individual beauty from,from,D,4,ABCD
+154,1,START,He was my North my South my East and West,west,A,4,AABB
+154,2,STARTA,My working week and my Sunday rest,rest,A,4,AABB
+154,3,STARTAA,My noon my midnight my talk my song,song,B,4,AABB
+154,4,STARTAAB,I thought that love would last for ever I was wrong,wrong,B,4,AABB
+155,1,START,The earth turns over our side feels the cold,cold,A,4,ABCD
+155,2,STARTA,And evening sinks to ruin the bright air,air,B,4,ABCD
+155,3,STARTAB,The stars are setting in the lonely sky,sky,C,4,ABCD
+155,4,STARTABC,And the nightingale complains she will not die,die,D,4,ABCD
+156,1,START,Look stranger at this island now,now,A,4,ABCD
+156,2,STARTA,The leaping light for your delight discovers,discovers,B,4,ABCD
+156,3,STARTAB,Stand stable here and silent be,be,C,4,ABCD
+156,4,STARTABC,That through the channels of the ear,ear,D,4,ABCD
+157,1,START,Do not go gentle into that good night,night,A,4,ABAA
+157,2,STARTA,Old age should burn and rave at close of day,day,B,4,ABAA
+157,3,STARTAB,Rage rage against the dying of the light,light,A,4,ABAA
+157,4,STARTABA,Though wise men at their end know dark is right,right,A,4,ABAA
+158,1,START,The force that through the green fuse drives the flower,flower,A,4,ABAC
+158,2,STARTA,Drives my green age that blasts the roots of trees,trees,B,4,ABAC
+158,3,STARTAB,Is my destroyer,destroyer,A,4,ABAC
+158,4,STARTABA,And I am dumb to tell the crooked rose,rose,C,4,ABAC
+159,1,START,Now as I was young and easy under the apple boughs,boughs,A,4,ABCD
+159,2,STARTA,About the lilting house and happy as the grass was green,green,B,4,ABCD
+159,3,STARTAB,The night above the dingle starry,starry,C,4,ABCD
+159,4,STARTABC,Time let me hail and climb,climb,D,4,ABCD
+160,1,START,And death shall have no dominion,dominion,A,4,ABAC
+160,2,STARTA,Dead men naked they shall be one,one,B,4,ABAC
+160,3,STARTAB,With the man in the wind and the west moon,moon,A,4,ABAC
+160,4,STARTABA,When their bones are picked clean and the clean bones gone,gone,C,4,ABAC
+161,1,START,Light breaks where no sun shines,shines,A,4,ABAC
+161,2,STARTA,Where no sea runs the waters of the heart,heart,B,4,ABAC
+161,3,STARTAB,Push in their tides,tides,A,4,ABAC
+161,4,STARTABA,And the dead waxes burn,burn,C,4,ABAC
+162,1,START,It is the sinners' dust tongued bell claps me to churches,churches,A,3,ABC
+162,2,STARTA,The calling of the holy sea boys the religious wind,wind,B,3,ABC
+162,3,STARTAB,The cloud backed and folded mountains the whole landscape,landscape,C,3,ABC
+163,1,START,anyone lived in a pretty how town,town,A,4,AABC
+163,2,STARTA,with up so floating many bells down,down,A,4,AABC
+163,3,STARTAA,spring summer autumn winter,winter,B,4,AABC
+163,4,STARTAAB,he sang his didn't he danced his did,did,C,4,AABC
+164,1,START,i carry your heart with me i carry it in,in,A,4,ABCD
+164,2,STARTA,my heart i am never without it anywhere,anywhere,B,4,ABCD
+164,3,STARTAB,i go you go my dear and whatever is done,done,C,4,ABCD
+164,4,STARTABC,by only me is your doing my darling,darling,D,4,ABCD
+165,1,START,somewhere i have never travelled gladly beyond,beyond,A,4,ABCD
+165,2,STARTA,any experience your eyes have their silence,silence,B,4,ABCD
+165,3,STARTAB,in your most frail gesture are things which enclose me,me,C,4,ABCD
+165,4,STARTABC,or which i cannot touch because they are too near,near,D,4,ABCD
+166,1,START,in Just spring when the world is mud luscious the little,little,A,3,ABC
+166,2,STARTA,lame balloonman whistles far and wee,wee,B,3,ABC
+166,3,STARTAB,and eddieandbill come running from marbles and piracies,piracies,C,3,ABC
+167,1,START,the moon looked into my window,window,A,3,ABC
+167,2,STARTA,it touched me with its small hands,hands,B,3,ABC
+167,3,STARTAB,and with curling infantile fingers it crept over my face,face,C,3,ABC
+168,1,START,love is more thicker than forget,forget,A,4,ABAC
+168,2,STARTA,more thinner than recall,recall,B,4,ABAC
+168,3,STARTAB,more seldom than a wave is wet,wet,A,4,ABAC
+168,4,STARTABA,more frequent than to fail,fail,C,4,ABAC
+169,1,START,What happens to a dream deferred,deferred,A,4,ABCD
+169,2,STARTA,Does it dry up,up,B,4,ABCD
+169,3,STARTAB,like a raisin in the sun,sun,C,4,ABCD
+169,4,STARTABC,Or fester like a sore,sore,D,4,ABCD
+170,1,START,I've known rivers,rivers,A,4,ABCA
+170,2,STARTA,I've known rivers ancient as the world,world,B,4,ABCA
+170,3,STARTAB,and older than the flow of human blood in human veins,veins,C,4,ABCA
+170,4,STARTABC,My soul has grown deep like the rivers,rivers,A,4,ABCA
+171,1,START,Hold fast to dreams,dreams,A,4,ABCD
+171,2,STARTA,For if dreams die,die,B,4,ABCD
+171,3,STARTAB,Life is a broken winged bird,bird,C,4,ABCD
+171,4,STARTABC,That cannot fly,fly,D,4,ABCD
+172,1,START,Life for me ain't been no crystal stair,stair,A,4,ABCD
+172,2,STARTA,It's had tacks in it,it,B,4,ABCD
+172,3,STARTAB,And splinters,splinters,C,4,ABCD
+172,4,STARTABC,And boards torn up,up,D,4,ABCD
+173,1,START,I too sing America,america,A,4,ABCD
+173,2,STARTA,I am the darker brother,brother,B,4,ABCD
+173,3,STARTAB,They send me to eat in the kitchen,kitchen,C,4,ABCD
+173,4,STARTABC,When company comes,comes,D,4,ABCD
+174,1,START,The night is beautiful,beautiful,A,4,ABAC
+174,2,STARTA,So the faces of my people,people,B,4,ABAC
+174,3,STARTAB,The stars are beautiful,beautiful,A,4,ABAC
+174,4,STARTABA,So the eyes of my people,people,C,4,ABAC
+175,1,START,Dreams are like a bird of fire,fire,A,4,ABCB
+175,2,STARTA,That flies through the night,night,B,4,ABCB
+175,3,STARTAB,And lights up the darkness,darkness,C,4,ABCB
+175,4,STARTABC,With its brilliant light,light,B,4,ABCB
+176,1,START,In the morning I rise,rise,A,4,ABCD
+176,2,STARTA,With the sun in my eyes,eyes,B,4,ABCD
+176,3,STARTAB,And I think of the dreams,dreams,C,4,ABCD
+176,4,STARTABC,That have yet to be realized,realized,D,4,ABCD
+177,1,START,Whose woods these are I think I know,know,A,4,ABCA
+177,2,STARTA,His house is in the village though,though,B,4,ABCA
+177,3,STARTAB,He will not see me stopping here,here,C,4,ABCA
+177,4,STARTABC,To watch his woods fill up with snow,snow,A,4,ABCA
+178,1,START,Nature's first green is gold,gold,A,4,AABC
+178,2,STARTA,Her hardest hue to hold,hold,A,4,AABC
+178,3,STARTAA,Her early leaf's a flower,flower,B,4,AABC
+178,4,STARTAAB,But only so an hour,hour,C,4,AABC
+179,1,START,Something there is that doesn't love a wall,wall,A,4,ABCD
+179,2,STARTA,That sends the frozen ground swell under it,it,B,4,ABCD
+179,3,STARTAB,And spills the upper boulders in the sun,sun,C,4,ABCD
+179,4,STARTABC,And makes gaps even two can pass abreast,abreast,D,4,ABCD
+180,1,START,I have been one acquainted with the night,night,A,4,ABAC
+180,2,STARTA,I have walked out in rain and back in rain,rain,B,4,ABAC
+180,3,STARTAB,I have outwalked the furthest city light,light,A,4,ABAC
+180,4,STARTABA,I have looked down the saddest city lane,lane,C,4,ABAC
+181,1,START,Two roads diverged in a yellow wood,wood,A,4,ABAC
+181,2,STARTA,And sorry I could not travel both,both,B,4,ABAC
+181,3,STARTAB,And be one traveler long I stood,stood,A,4,ABAC
+181,4,STARTABA,And looked down one as far as I could,could,C,4,ABAC
+182,1,START,The rain to the wind said,said,A,4,ABCB
+182,2,STARTA,You push and I'll pelt,pelt,B,4,ABCB
+182,3,STARTAB,They so smote the garden bed,bed,C,4,ABCB
+182,4,STARTABC,That the flowers actually knelt,knelt,B,4,ABCB
+183,1,START,Love at the lips was touch,touch,A,4,ABAC
+183,2,STARTA,As sweet as I could bear,bear,B,4,ABAC
+183,3,STARTAB,And once that seemed too much,much,A,4,ABAC
+183,4,STARTABA,I lived on air,air,C,4,ABAC
+184,1,START,The way a crow,crow,A,4,ABAC
+184,2,STARTA,Shook down on me,me,B,4,ABAC
+184,3,STARTAB,A dust of snow,snow,A,4,ABAC
+184,4,STARTABA,From a hemlock tree,tree,C,4,ABAC
+185,1,START,The river flows beneath the bridge,bridge,A,4,ABCD
+185,2,STARTA,Through valleys green and wide,wide,B,4,ABCD
+185,3,STARTAB,Past ancient stones on every ridge,ridge,C,4,ABCD
+185,4,STARTABC,Where secrets gently hide,hide,D,4,ABCD
+186,1,START,Morning breaks with golden light,light,A,4,ABAB
+186,2,STARTA,Across the sleeping town,town,B,4,ABAB
+186,3,STARTAB,Stars fade into the night,night,A,4,ABAB
+186,4,STARTABA,As sun comes dancing down,down,B,4,ABAB
+187,1,START,In gardens where the roses grow,grow,A,4,ABAB
+187,2,STARTA,And butterflies take flight,flight,B,4,ABAB
+187,3,STARTAB,The gentle breezes softly blow,blow,A,4,ABAB
+187,4,STARTABA,From morning until night,night,B,4,ABAB
+188,1,START,The mountain stands so tall and proud,proud,A,4,ABAB
+188,2,STARTA,Its peak wrapped in the snow,snow,B,4,ABAB
+188,3,STARTAB,While eagles circle in the cloud,cloud,A,4,ABAB
+188,4,STARTABA,And rivers run below,below,B,4,ABAB
+189,1,START,The ocean waves crash on the shore,shore,A,4,ABCD
+189,2,STARTA,With rhythm old as time,time,B,4,ABCD
+189,3,STARTAB,They've done this dance a million times before,before,C,4,ABCD
+189,4,STARTABC,In patterns so sublime,sublime,D,4,ABCD
+190,1,START,Through autumn leaves of gold and red,red,A,4,ABCB
+190,2,STARTA,The pathway winds its way,way,B,4,ABCB
+190,3,STARTAB,Where many travelers once have tread,tread,C,4,ABCB
+190,4,STARTABC,On this October day,day,B,4,ABCB
+191,1,START,The lighthouse stands against the storm,storm,A,4,ABCB
+191,2,STARTA,A beacon in the night,night,B,4,ABCB
+191,3,STARTAB,Its message clear and bright and warm,warm,C,4,ABCB
+191,4,STARTABC,Guiding ships to light,light,B,4,ABCB
+192,1,START,In fields of wheat that wave and bend,bend,A,4,ABAC
+192,2,STARTA,Beneath the summer sky,sky,B,4,ABAC
+192,3,STARTAB,The harvest season finds its end,end,A,4,ABAC
+192,4,STARTABA,As clouds go drifting by,by,C,4,ABAC
+193,1,START,The city sleeps beneath the stars,stars,A,4,ABAC
+193,2,STARTA,While dreams fill every head,head,B,4,ABAC
+193,3,STARTAB,The traffic noise and rushing cars,cars,A,4,ABAC
+193,4,STARTABA,Have all been put to bed,bed,C,4,ABAC
+194,1,START,A single snowflake starts to fall,fall,A,4,ABAB
+194,2,STARTA,Then millions follow suit,suit,B,4,ABAB
+194,3,STARTAB,Winter's coming after all,all,A,4,ABAB
+194,4,STARTABA,In its white winter suit,suit,B,4,ABAB
+195,1,START,The old oak tree with branches wide,wide,A,4,ABCB
+195,2,STARTA,Has seen so many years,years,B,4,ABCB
+195,3,STARTAB,With secrets that it holds inside,inside,C,4,ABCB
+195,4,STARTABC,And wisdom through the tears,tears,B,4,ABCB
+196,1,START,The butterfly with painted wings,wings,A,4,ABAC
+196,2,STARTA,Dances in the air,air,B,4,ABAC
+196,3,STARTAB,The simple joy that summer brings,brings,A,4,ABAC
+196,4,STARTABA,Without a single care,care,C,4,ABAC
+197,1,START,The fire crackles warm and bright,bright,A,4,ABAC
+197,2,STARTA,On this cold winter's eve,eve,B,4,ABAC
+197,3,STARTAB,It fills the room with golden light,light,A,4,ABAC
+197,4,STARTABA,And peace for all who grieve,grieve,C,4,ABAC
+198,1,START,The desert stretches far and wide,wide,A,4,ABCD
+198,2,STARTA,Beneath the burning sun,sun,B,4,ABCD
+198,3,STARTAB,Where only cactus plants abide,abide,C,4,ABCD
+198,4,STARTABC,When day is almost done,done,D,4,ABCD
+199,1,START,The forest deep and dark and green,green,A,4,ABCB
+199,2,STARTA,Where sunlight barely shows,shows,B,4,ABCB
+199,3,STARTAB,A magical and secret scene,scene,C,4,ABCB
+199,4,STARTABC,That only nature knows,knows,B,4,ABCB
+200,1,START,The rainbow arches in the sky,sky,A,4,ABCB
+200,2,STARTA,After the summer rain,rain,B,4,ABCB
+200,3,STARTAB,A bridge of colors passing by,by,C,4,ABCB
+200,4,STARTABC,Then fading once again,again,B,4,ABCB
+201,1,START,The moonlight silver on the lake,lake,A,4,ABCD
+201,2,STARTA,Reflects the stars above,above,B,4,ABCD
+201,3,STARTAB,A peaceful scene the night does make,make,C,4,ABCD
+201,4,STARTABC,Filled with tranquility and love,love,D,4,ABCD
+202,1,START,The thunder rumbles loud and deep,deep,A,4,ABAB
+202,2,STARTA,The lightning flashes bright,bright,B,4,ABAB
+202,3,STARTAB,While all the world is fast asleep,asleep,A,4,ABAB
+202,4,STARTABA,In the middle of the night,night,B,4,ABAB
+203,1,START,The seasons turn from spring to fall,fall,A,4,ABAC
+203,2,STARTA,The wheel of time spins on,on,B,4,ABAC
+203,3,STARTAB,Nature heeds the silent call,call,A,4,ABAC
+203,4,STARTABA,From dusk until the dawn,dawn,C,4,ABAC
+204,1,START,The butterfly emerges new,new,A,4,ABCB
+204,2,STARTA,From its cocoon of silk,silk,B,4,ABCB
+204,3,STARTAB,With wings of every brilliant hue,hue,C,4,ABCB
+204,4,STARTABC,As smooth as finest milk,milk,B,4,ABCB
+205,1,START,The waterfall cascades down,down,A,4,ABAB
+205,2,STARTA,From mountains high and steep,steep,B,4,ABAB
+205,3,STARTAB,Creating mist that looks like crown,crown,A,4,ABAB
+205,4,STARTABA,Where rocky ledges sleep,sleep,B,4,ABAB
+206,1,START,The northern lights dance in the sky,sky,A,4,ABCD
+206,2,STARTA,In colors green and blue,blue,B,4,ABCD
+206,3,STARTAB,A spectacle for every eye,eye,C,4,ABCD
+206,4,STARTABC,So magical and true,true,D,4,ABCD
+207,1,START,The cherry blossoms pink and white,white,A,4,ABCD
+207,2,STARTA,In springtime's gentle grace,grace,B,4,ABCD
+207,3,STARTAB,Make every landscape fresh and bright,bright,C,4,ABCD
+207,4,STARTABC,And put a smile on face,face,D,4,ABCD
+208,1,START,The old stone bridge across the stream,stream,A,4,ABAB
+208,2,STARTA,Has stood for many years,years,B,4,ABAB
+208,3,STARTAB,It's witnessed life and love and dream,dream,A,4,ABAB
+208,4,STARTABA,And washed away the tears,tears,B,4,ABAB
+209,1,START,The morning dew on spider's web,web,A,4,ABCD
+209,2,STARTA,Glistens in the sun,sun,B,4,ABCD
+209,3,STARTAB,A fragile silver silken thread,thread,C,4,ABCD
+209,4,STARTABC,When night is almost done,done,D,4,ABCD
+210,1,START,The sailing ship with canvas white,white,A,4,ABCD
+210,2,STARTA,Upon the ocean blue,blue,B,4,ABCD
+210,3,STARTAB,Travels through the day and night,night,C,4,ABCD
+210,4,STARTABC,To places fresh and new,new,D,4,ABCD
+211,1,START,The ancient ruins tell a tale,tale,A,4,ABCB
+211,2,STARTA,Of civilizations past,past,B,4,ABCB
+211,3,STARTAB,Where time and history prevail,prevail,C,4,ABCB
+211,4,STARTABC,And memories will last,last,B,4,ABCB
+212,1,START,The hummingbird with wings that blur,blur,A,4,ABCB
+212,2,STARTA,Hovers near the flower,flower,B,4,ABCB
+212,3,STARTAB,A tiny living motor whir,whir,C,4,ABCB
+212,4,STARTABC,With supernatural power,power,B,4,ABCB
+213,1,START,The canyon deep and grand and wide,wide,A,4,ABCD
+213,2,STARTA,Carved by the river's flow,flow,B,4,ABCD
+213,3,STARTAB,Holds secrets that the rocks can't hide,hide,C,4,ABCD
+213,4,STARTABC,From centuries ago,ago,D,4,ABCD
+214,1,START,The morning mist on mountain high,high,A,4,ABCD
+214,2,STARTA,Creates a ghostly scene,scene,B,4,ABCD
+214,3,STARTAB,That captures every passer's eye,eye,C,4,ABCD
+214,4,STARTABC,So mystical and serene,serene,D,4,ABCD
+215,1,START,The winter snow falls soft and essay,essay,A,4,AABB
+215,2,STARTA,Covering all the world in gay,gay,A,4,AABB
+215,3,STARTAA,Creating scenes of purest night,night,B,4,AABB
+215,4,STARTAAB,That only winter can light,light,B,4,AABB
+216,1,START,I walked alone through fields of way,way,A,4,ABAB
+216,2,STARTA,Beneath the sky so wide and fright,fright,B,4,ABAB
+216,3,STARTAB,And felt the breeze upon my may,may,A,4,ABAB
+216,4,STARTABA,With nowhere left to run and tight,tight,B,4,ABAB
+217,1,START,In gardens where the flowers array,array,A,4,AABB
+217,2,STARTA,I spend my sweetest jay,jay,A,4,AABB
+217,3,STARTAA,Watching bees and butterflies right,right,B,4,AABB
+217,4,STARTAAB,Dancing beneath clear summer right,right,B,4,AABB
+218,1,START,The forest trees they hay,hay,A,4,AABC
+218,2,STARTA,Their branches reaching pay,pay,A,4,AABC
+218,3,STARTAA,They stand through generations excite,excite,B,4,AABC
+218,4,STARTAAB,Their wisdom ever wee,wee,C,4,AABC
+219,1,START,The teacher in her classroom betray,betray,A,4,ABCD
+219,2,STARTA,Imparts her wisdom to the write,write,B,4,ABCD
+219,3,STARTAB,She opens minds to all the referee,referee,C,4,ABCD
+219,4,STARTABC,And helps young people delight,delight,D,4,ABCD
+220,1,START,The river flows forever play,play,A,4,AABC
+220,2,STARTA,Through mountains high and display,display,A,4,AABC
+220,3,STARTAA,It carries dreams from far sight,sight,B,4,AABC
+220,4,STARTAAB,Beneath the evening kite,kite,C,4,AABC
+221,1,START,The children laugh and tray,tray,A,4,AAAB
+221,2,STARTA,Their happiness so pure and lay,lay,A,4,AAAB
+221,3,STARTAA,Their innocence so sweet and delay,delay,A,4,AAAB
+221,4,STARTAAA,A joy that will rite,rite,B,4,AAAB
+222,1,START,Beneath the waves where mermaids pay,pay,A,4,ABCA
+222,2,STARTA,The ocean's secrets lie excite,excite,B,4,ABCA
+222,3,STARTAB,And sailors wonder as they sight,sight,C,4,ABCA
+222,4,STARTABC,What treasures there may array,array,A,4,ABCA
+223,1,START,I see the world in shades of quite,quite,A,4,ABCB
+223,2,STARTA,Where everything burns oh so slight,slight,B,4,ABCB
+223,3,STARTAB,The stars above shine in the write,write,C,4,ABCB
+223,4,STARTABC,And give us their eternal slight,slight,B,4,ABCB
+224,1,START,The forest deep where shadows lay,lay,A,4,AABC
+224,2,STARTA,Holds secrets in its ancient clay,clay,A,4,AABC
+224,3,STARTAA,Where sunlight barely dares to rite,rite,B,4,AABC
+224,4,STARTAAB,And mysteries night,night,C,4,AABC
+225,1,START,Wisdom comes with age and ray,ray,A,4,ABCD
+225,2,STARTA,From lessons we have write,write,B,4,ABCD
+225,3,STARTAB,It helps us turn the final free,free,C,4,ABCD
+225,4,STARTABC,And understand what life has belove,belove,D,4,ABCD
+226,1,START,The scientist with mind of display,display,A,4,ABCD
+226,2,STARTA,Seeks answers to the great flight,flight,B,4,ABCD
+226,3,STARTAB,He studies nature and its guarantee,guarantee,C,4,ABCD
+226,4,STARTABC,To help our world excite,excite,D,4,ABCD
+227,1,START,The morning sun arises may,may,A,4,ABCA
+227,2,STARTA,And paints the sky with lite,lite,B,4,ABCA
+227,3,STARTAB,The world awakens from its quee,quee,C,4,ABCA
+227,4,STARTABC,To greet the brand new display,display,A,4,ABCA
+228,1,START,The traveler with his map of kay,kay,A,4,ABAC
+228,2,STARTA,Seeks adventures far and night,night,B,4,ABAC
+228,3,STARTAB,He journeys to new places okay,okay,A,4,ABAC
+228,4,STARTABA,That few have ever quite,quite,C,4,ABAC
+229,1,START,I walked alone through fields of say,say,A,4,ABAB
+229,2,STARTA,Beneath the sky so wide and knight,knight,B,4,ABAB
+229,3,STARTAB,And felt the breeze upon my okay,okay,A,4,ABAB
+229,4,STARTABA,With nowhere left to run and right,right,B,4,ABAB
+230,1,START,The wind that blows so kay,kay,A,4,ABAC
+230,2,STARTA,Through valleys deep and wide knight,knight,B,4,ABAC
+230,3,STARTAB,It carries seeds and jay,jay,A,4,ABAC
+230,4,STARTABA,And makes the trees all decree,decree,C,4,ABAC
+231,1,START,When morning light appears so may,may,A,4,AABC
+231,2,STARTA,And birds begin their songs of jay,jay,A,4,AABC
+231,3,STARTAA,The world awakens fresh and fight,fight,B,4,AABC
+231,4,STARTAAB,With promises of things write,write,C,4,AABC
+232,1,START,In morning light the birds essay,essay,A,4,ABCD
+232,2,STARTA,Their melodies so sweet and spite,spite,B,4,ABCD
+232,3,STARTAB,They welcome in the brand referee,referee,C,4,ABCD
+232,4,STARTABC,With songs that can't be plight,plight,D,4,ABCD
+233,1,START,I see the world in shades of white,white,A,4,ABCC
+233,2,STARTA,Where everything burns oh so mite,mite,B,4,ABCC
+233,3,STARTAB,The stars above shine in the delight,delight,C,4,ABCC
+233,4,STARTABC,And give us their eternal sight,sight,C,4,ABCC
+234,1,START,The city lights they shine so way,way,A,4,AABC
+234,2,STARTA,Against the dark night nay,nay,A,4,AABC
+234,3,STARTAA,While people hurry home to ignite,ignite,B,4,AABC
+234,4,STARTAAB,Their families waiting spite,spite,C,4,AABC
+235,1,START,Wisdom comes with age and ray,ray,A,4,ABCD
+235,2,STARTA,From lessons we have night,night,B,4,ABCD
+235,3,STARTAB,It helps us turn the final lee,lee,C,4,ABCD
+235,4,STARTABC,And understand what life has glove,glove,D,4,ABCD
+236,1,START,The ocean waves they crash and spray,spray,A,4,AABC
+236,2,STARTA,Against the rocky shore they may,may,A,4,AABC
+236,3,STARTAA,Their rhythm is a timeless nite,nite,B,4,AABC
+236,4,STARTAAB,That I will always light,light,C,4,AABC
+237,1,START,The teacher in her classroom fray,fray,A,4,ABCD
+237,2,STARTA,Imparts her wisdom to the write,write,B,4,ABCD
+237,3,STARTAB,She opens minds to all the guarantee,guarantee,C,4,ABCD
+237,4,STARTABC,And helps young people height,height,D,4,ABCD
+238,1,START,Above the clouds where angels okay,okay,A,4,ABCA
+238,2,STARTA,The heavens open wide tight,tight,B,4,ABCA
+238,3,STARTAB,And all our dreams come mite,mite,C,4,ABCA
+238,4,STARTABC,Where hope will never tray,tray,A,4,ABCA
+239,1,START,The desert sands they lay,lay,A,4,AABC
+239,2,STARTA,Across the vast expanse say,say,A,4,AABC
+239,3,STARTAA,They hold the heat of daytime delight,delight,B,4,AABC
+239,4,STARTAAB,And cold of night to decree,decree,C,4,AABC
+240,1,START,Beauty is in everything we fray,fray,A,4,ABCD
+240,2,STARTA,If we but take the time to lite,lite,B,4,ABCD
+240,3,STARTAB,In nature and in art we pee,pee,C,4,ABCD
+240,4,STARTABC,And in the human belove,belove,D,4,ABCD
+241,1,START,The builder with his tools of may,may,A,4,ABCD
+241,2,STARTA,Creates the structures we call lite,lite,B,4,ABCD
+241,3,STARTAB,He builds the homes where we can agree,agree,C,4,ABCD
+241,4,STARTABC,And makes our cities white,white,D,4,ABCD
+242,1,START,The writer sits with pen in say,say,A,4,ABCD
+242,2,STARTA,And writes of love and tonight,tonight,B,4,ABCD
+242,3,STARTAB,He tells of life and all its tea,tea,C,4,ABCD
+242,4,STARTABC,In words that make us kite,kite,D,4,ABCD
+243,1,START,I walked along the sandy stay,stay,A,4,ABCD
+243,2,STARTA,Where ocean meets the blight,blight,B,4,ABCD
+243,3,STARTAB,The seagulls cried above tree,tree,C,4,ABCD
+243,4,STARTABC,Their voices wild and me,me,D,4,ABCD
+244,1,START,Hope is the light that guides our lay,lay,A,4,ABCD
+244,2,STARTA,When darkness seems to white,white,B,4,ABCD
+244,3,STARTAB,It gives us strength to face the agree,agree,C,4,ABCD
+244,4,STARTABC,And courage to belove,belove,D,4,ABCD
+245,1,START,The teacher in her classroom array,array,A,4,ABCB
+245,2,STARTA,Imparts her wisdom to the plight,plight,B,4,ABCB
+245,3,STARTAB,She opens minds to all the ye,ye,C,4,ABCB
+245,4,STARTABC,And helps young people tight,tight,B,4,ABCB
+246,1,START,The forest deep where shadows pray,pray,A,4,AABC
+246,2,STARTA,Holds secrets in its ancient ray,ray,A,4,AABC
+246,3,STARTAA,Where sunlight barely dares to delight,delight,B,4,AABC
+246,4,STARTAAB,And mysteries spite,spite,C,4,AABC
+247,1,START,The snow falls soft and bay,bay,A,4,AAAB
+247,2,STARTA,Covering all the land with ray,ray,A,4,AAAB
+247,3,STARTAA,Making everything look display,display,A,4,AAAB
+247,4,STARTAAA,A peaceful winter blight,blight,B,4,AAAB
+248,1,START,The ancient castle stands so delay,delay,A,4,AABC
+248,2,STARTA,Upon the hill it looks so hay,hay,A,4,AABC
+248,3,STARTAA,With memories of days gone quite,quite,B,4,AABC
+248,4,STARTAAB,And tales that still are flight,flight,C,4,AABC
+249,1,START,The dancer with her grace of kay,kay,A,4,ABAC
+249,2,STARTA,Moves lightly on the white,white,B,4,ABAC
+249,3,STARTAB,Her body tells a story say,say,A,4,ABAC
+249,4,STARTABA,That words cannot ignite,ignite,C,4,ABAC
+250,1,START,I sat beneath the willow pay,pay,A,4,ABCD
+250,2,STARTA,And listened to the quite,quite,B,4,ABCD
+250,3,STARTAB,The leaves they whispered secrets see,see,C,4,ABCD
+250,4,STARTABC,Of days that used to lee,lee,D,4,ABCD
+251,1,START,I walked alone through fields of gay,gay,A,4,ABAB
+251,2,STARTA,Beneath the sky so wide and tonight,tonight,B,4,ABAB
+251,3,STARTAB,And felt the breeze upon my way,way,A,4,ABAB
+251,4,STARTABA,With nowhere left to run and knight,knight,B,4,ABAB
+252,1,START,When morning light appears so way,way,A,4,AABC
+252,2,STARTA,And birds begin their songs of pray,pray,A,4,AABC
+252,3,STARTAA,The world awakens fresh and delight,delight,B,4,AABC
+252,4,STARTAAB,With promises of things white,white,C,4,AABC
+253,1,START,Within the forest array,array,A,4,ABAA
+253,2,STARTA,Where sunlight filters height,height,B,4,ABAA
+253,3,STARTAB,The animals all jay,jay,A,4,ABAA
+253,4,STARTABA,And nature shows her decay,decay,A,4,ABAA
+254,1,START,The river flows forever day,day,A,4,AABC
+254,2,STARTA,Through mountains high and delay,delay,A,4,AABC
+254,3,STARTAA,It carries dreams from far lite,lite,B,4,AABC
+254,4,STARTAAB,Beneath the evening kite,kite,C,4,AABC
+255,1,START,The doctor with her healing gay,gay,A,4,ABCD
+255,2,STARTA,Brings comfort to the sick and right,right,B,4,ABCD
+255,3,STARTAB,She works to make the body see,see,C,4,ABCD
+255,4,STARTABC,With skills that make us ignite,ignite,D,4,ABCD
+256,1,START,Inside the city stay,stay,A,4,ABAA
+256,2,STARTA,Where people hurry delight,delight,B,4,ABAA
+256,3,STARTAB,The life goes on and fray,fray,A,4,ABAA
+256,4,STARTABA,And dreams are born and bay,bay,A,4,ABAA
+257,1,START,Inside the mind where thoughts do betray,betray,A,4,ABCA
+257,2,STARTA,Ideas start to form quite,quite,B,4,ABCA
+257,3,STARTAB,Creative sparks that soon will bright,bright,C,4,ABCA
+257,4,STARTABC,The mental delay,delay,A,4,ABCA
+258,1,START,The rain falls soft upon the pee,pee,A,4,ABCD
+258,2,STARTA,It waters all the earth so quee,quee,B,4,ABCD
+258,3,STARTAB,It gives new life to everything referee,referee,C,4,ABCD
+258,4,STARTABC,And shows what nature's tee,tee,D,4,ABCD
+259,1,START,Inside the city ray,ray,A,4,ABAA
+259,2,STARTA,Where people hurry nite,nite,B,4,ABAA
+259,3,STARTAB,The life goes on and ray,ray,A,4,ABAA
+259,4,STARTABA,And dreams are born and ray,ray,A,4,ABAA
+260,1,START,In forests deep where shadows day,day,A,4,ABAC
+260,2,STARTA,The ancient trees reach toward the night,night,B,4,ABAC
+260,3,STARTAB,While creatures of the night stay,stay,A,4,ABAC
+260,4,STARTABA,Dance underneath the pale moon kite,kite,C,4,ABAC
+261,1,START,I stood beside the river say,say,A,4,ABCD
+261,2,STARTA,And watched the water quite,quite,B,4,ABCD
+261,3,STARTAB,It flowed so calm and steady referee,referee,C,4,ABCD
+261,4,STARTABC,Its current strong and be,be,D,4,ABCD
+262,1,START,Beyond the hills where eagles pray,pray,A,4,ABBA
+262,2,STARTA,The ancient mountains stand slight,slight,B,4,ABBA
+262,3,STARTAB,With wisdom written in the night,night,B,4,ABBA
+262,4,STARTABB,Where time itself has essay,essay,A,4,ABBA
+263,1,START,The rain that falls so way,way,A,4,ABAC
+263,2,STARTA,From clouds up in the sky nite,nite,B,4,ABAC
+263,3,STARTAB,It waters earth and bay,bay,A,4,ABAC
+263,4,STARTABA,And makes the rivers tea,tea,C,4,ABAC
+264,1,START,The musician plays his song of pay,pay,A,4,ABAC
+264,2,STARTA,With melodies that make us lite,lite,B,4,ABAC
+264,3,STARTAB,His fingers dance and move with say,say,A,4,ABAC
+264,4,STARTABA,Creating magic we can fright,fright,C,4,ABAC
+265,1,START,The mountain peaks they gay,gay,A,4,AABC
+265,2,STARTA,Against the blue sky okay,okay,A,4,AABC
+265,3,STARTAA,They challenge us to climb them kite,kite,B,4,AABC
+265,4,STARTAAB,And touch the heavens lee,lee,C,4,AABC
+266,1,START,Time is the river that keeps ray,ray,A,4,ABCD
+266,2,STARTA,Carrying us along its ignite,ignite,B,4,ABCD
+266,3,STARTAB,We cannot stop its steady three,three,C,4,ABCD
+266,4,STARTABC,We can but sing its love,love,D,4,ABCD
+267,1,START,In forests deep where shadows array,array,A,4,ABAB
+267,2,STARTA,The ancient trees reach toward the night,night,B,4,ABAB
+267,3,STARTAB,While creatures of the night clay,clay,A,4,ABAB
+267,4,STARTABA,Dance underneath the pale moon flight,flight,B,4,ABAB
+268,1,START,The rain that falls so stay,stay,A,4,ABAC
+268,2,STARTA,From clouds up in the sky lite,lite,B,4,ABAC
+268,3,STARTAB,It waters earth and fray,fray,A,4,ABAC
+268,4,STARTABA,And makes the rivers agree,agree,C,4,ABAC
+269,1,START,In morning light the birds day,day,A,4,ABCD
+269,2,STARTA,Their melodies so sweet and fright,fright,B,4,ABCD
+269,3,STARTAB,They welcome in the brand tea,tea,C,4,ABCD
+269,4,STARTABC,With songs that can't be nite,nite,D,4,ABCD
+270,1,START,When winter winds begin to decay,decay,A,4,ABAC
+270,2,STARTA,The world turns cold and lite,lite,B,4,ABAC
+270,3,STARTAB,All nature seems to hay,hay,A,4,ABAC
+270,4,STARTABA,As stories yet height,height,C,4,ABAC
+271,1,START,Above the clouds where angels pay,pay,A,4,ABBA
+271,2,STARTA,The heavens open wide light,light,B,4,ABBA
+271,3,STARTAB,And all our dreams come blight,blight,B,4,ABBA
+271,4,STARTABB,Where hope will never lay,lay,A,4,ABBA
+272,1,START,Around the world where cultures may,may,A,4,ABCA
+272,2,STARTA,The people live their lives rite,rite,B,4,ABCA
+272,3,STARTAB,With different ways that still quite,quite,C,4,ABCA
+272,4,STARTABC,The human spirit betray,betray,A,4,ABCA
+273,1,START,The evening shadows lengthen play,play,A,4,ABCA
+273,2,STARTA,As daylight fades to might,might,B,4,ABCA
+273,3,STARTAB,The stars appear to guide our see,see,C,4,ABCA
+273,4,STARTABC,Through darkness of the say,say,A,4,ABCA
+274,1,START,The flowers bloom in ray,ray,A,4,AAAB
+274,2,STARTA,Their colors bright and hay,hay,A,4,AAAB
+274,3,STARTAA,Their fragrance fills the pay,pay,A,4,AAAB
+274,4,STARTAAA,A beautiful spring slight,slight,B,4,AAAB
+275,1,START,The children laugh and say,say,A,4,AAAB
+275,2,STARTA,Their happiness so pure and say,say,A,4,AAAB
+275,3,STARTAA,Their innocence so sweet and lay,lay,A,4,AAAB
+275,4,STARTAAA,A joy that will mite,mite,B,4,AAAB
+276,1,START,The ocean waves they crash and pay,pay,A,4,AABC
+276,2,STARTA,Against the rocky shore they hay,hay,A,4,AABC
+276,3,STARTAA,Their rhythm is a timeless nite,nite,B,4,AABC
+276,4,STARTAAB,That I will always lite,lite,C,4,AABC
+277,1,START,The mountain peak so high and spray,spray,A,4,AABC
+277,2,STARTA,Touches clouds up in the way,way,A,4,AABC
+277,3,STARTAA,Where eagles soar and freely excite,excite,B,4,AABC
+277,4,STARTAAB,In skies so vast and tight,tight,C,4,AABC
+278,1,START,Throughout the years where time does may,may,A,4,ABCA
+278,2,STARTA,The memories remain ignite,ignite,B,4,ABCA
+278,3,STARTAB,Of moments that will always ignite,ignite,C,4,ABCA
+278,4,STARTABC,The joy and also nay,nay,A,4,ABCA
+279,1,START,Beneath the waves where mermaids essay,essay,A,4,ABBA
+279,2,STARTA,The ocean's secrets lie flight,flight,B,4,ABBA
+279,3,STARTAB,And sailors wonder as they flight,flight,B,4,ABBA
+279,4,STARTABB,What treasures there may hay,hay,A,4,ABBA
+280,1,START,Inside the city way,way,A,4,ABAA
+280,2,STARTA,Where people hurry ignite,ignite,B,4,ABAA
+280,3,STARTAB,The life goes on and gray,gray,A,4,ABAA
+280,4,STARTABA,And dreams are born and betray,betray,A,4,ABAA
+281,1,START,The snow falls soft and say,say,A,4,AAAB
+281,2,STARTA,Covering all the land with delay,delay,A,4,AAAB
+281,3,STARTAA,Making everything look lay,lay,A,4,AAAB
+281,4,STARTAAA,A peaceful winter nite,nite,B,4,AAAB
+282,1,START,The city lights they pay,pay,A,4,AABC
+282,2,STARTA,Against the dark night display,display,A,4,AABC
+282,3,STARTAA,They symbolize the human mite,mite,B,4,AABC
+282,4,STARTAAB,That burns forever key,key,C,4,AABC
+283,1,START,Across the sea where ships do say,say,A,4,ABBA
+283,2,STARTA,The horizon calls to fight,fight,B,4,ABBA
+283,3,STARTAB,Adventures that await for fight,fight,B,4,ABBA
+283,4,STARTABB,The brave who dare to play,play,A,4,ABBA
+284,1,START,The morning brings a brand new way,way,A,4,ABCD
+284,2,STARTA,With opportunities to might,might,B,4,ABCD
+284,3,STARTAB,So many things that we can pee,pee,C,4,ABCD
+284,4,STARTABC,So many paths to move,move,D,4,ABCD
+285,1,START,Around the world where cultures delay,delay,A,4,ABBA
+285,2,STARTA,The people live their lives blight,blight,B,4,ABBA
+285,3,STARTAB,With different ways that still right,right,B,4,ABBA
+285,4,STARTABB,The human spirit pay,pay,A,4,ABBA
+286,1,START,The desert sands they way,way,A,4,AABC
+286,2,STARTA,Across the vast expanse delay,delay,A,4,AABC
+286,3,STARTAA,They hold the heat of daytime spite,spite,B,4,AABC
+286,4,STARTAAB,And cold of night to knee,knee,C,4,AABC
+287,1,START,Friendship is a bond so display,display,A,4,ABCD
+287,2,STARTA,That stands the test of tonight,tonight,B,4,ABCD
+287,3,STARTAB,Through good times and the glee,glee,C,4,ABCD
+287,4,STARTABC,It helps our hearts to disprove,disprove,D,4,ABCD
+288,1,START,The ancient castle stands so jay,jay,A,4,AABB
+288,2,STARTA,Upon the hill it looks so okay,okay,A,4,AABB
+288,3,STARTAA,With memories of days gone right,right,B,4,AABB
+288,4,STARTAAB,And tales that still are fright,fright,B,4,AABB
+289,1,START,The mountain peaks they may,may,A,4,AABC
+289,2,STARTA,Against the blue sky ray,ray,A,4,AABC
+289,3,STARTAA,They challenge us to climb them sight,sight,B,4,AABC
+289,4,STARTAAB,And touch the heavens referee,referee,C,4,AABC
+290,1,START,Above the clouds where angels day,day,A,4,ABCA
+290,2,STARTA,The heavens open wide slight,slight,B,4,ABCA
+290,3,STARTAB,And all our dreams come kite,kite,C,4,ABCA
+290,4,STARTABC,Where hope will never say,say,A,4,ABCA
+291,1,START,We dance beneath the summer gray,gray,A,4,AAAB
+291,2,STARTA,With joy that knows no ray,ray,A,4,AAAB
+291,3,STARTAA,Our hearts are light and fray,fray,A,4,AAAB
+291,4,STARTAAA,On this perfect summer mite,mite,B,4,AAAB
+292,1,START,The scientist with mind of nay,nay,A,4,ABCB
+292,2,STARTA,Seeks answers to the great tonight,tonight,B,4,ABCB
+292,3,STARTAB,He studies nature and its flee,flee,C,4,ABCB
+292,4,STARTABC,To help our world tonight,tonight,B,4,ABCB
+293,1,START,Between the lines where meaning stay,stay,A,4,ABBA
+293,2,STARTA,The truth begins to show tight,tight,B,4,ABBA
+293,3,STARTAB,And understanding starts to slight,slight,B,4,ABBA
+293,4,STARTABB,What writers want to kay,kay,A,4,ABBA
+294,1,START,The scientist with mind of tray,tray,A,4,ABCB
+294,2,STARTA,Seeks answers to the great light,light,B,4,ABCB
+294,3,STARTAB,He studies nature and its tea,tea,C,4,ABCB
+294,4,STARTABC,To help our world slight,slight,B,4,ABCB
+295,1,START,The stars that twinkle okay,okay,A,4,ABAC
+295,2,STARTA,In darkness of the night night,night,B,4,ABAC
+295,3,STARTAB,They give us hope and decay,decay,A,4,ABAC
+295,4,STARTABA,And make our future tee,tee,C,4,ABAC
+296,1,START,The rain that falls so tray,tray,A,4,ABAC
+296,2,STARTA,From clouds up in the sky delight,delight,B,4,ABAC
+296,3,STARTAB,It waters earth and decay,decay,A,4,ABAC
+296,4,STARTABA,And makes the rivers sea,sea,C,4,ABAC
+297,1,START,The desert sands they bay,bay,A,4,AABC
+297,2,STARTA,Across the vast expanse stay,stay,A,4,AABC
+297,3,STARTAA,They hold the heat of daytime excite,excite,B,4,AABC
+297,4,STARTAAB,And cold of night to wee,wee,C,4,AABC
+298,1,START,The city lights they spray,spray,A,4,AABC
+298,2,STARTA,Against the dark night nay,nay,A,4,AABC
+298,3,STARTAA,They symbolize the human nite,nite,B,4,AABC
+298,4,STARTAAB,That burns forever flee,flee,C,4,AABC
+299,1,START,The mountain peak so high and lay,lay,A,4,AABC
+299,2,STARTA,Touches clouds up in the fray,fray,A,4,AABC
+299,3,STARTAA,Where eagles soar and freely nite,nite,B,4,AABC
+299,4,STARTAAB,In skies so vast and fright,fright,C,4,AABC
+300,1,START,Within the forest play,play,A,4,ABAA
+300,2,STARTA,Where sunlight filters sight,sight,B,4,ABAA
+300,3,STARTAB,The animals all say,say,A,4,ABAA
+300,4,STARTABA,And nature shows her play,play,A,4,ABAA
+301,1,START,The rain falls soft upon the flee,flee,A,4,ABCD
+301,2,STARTA,It waters all the earth so flee,flee,B,4,ABCD
+301,3,STARTAB,It gives new life to everything see,see,C,4,ABCD
+301,4,STARTABC,And shows what nature's pee,pee,D,4,ABCD
+302,1,START,I stood beside the river quay,quay,A,4,ABCD
+302,2,STARTA,And watched the water nite,nite,B,4,ABCD
+302,3,STARTAB,It flowed so calm and steady tea,tea,C,4,ABCD
+302,4,STARTABC,Its current strong and referee,referee,D,4,ABCD
+303,1,START,The wind blows through the trees so shove,shove,A,4,ABCD
+303,2,STARTA,It whispers secrets we should shove,shove,B,4,ABCD
+303,3,STARTAB,It carries messages from far dove,dove,C,4,ABCD
+303,4,STARTABC,And makes the leaves all prove,prove,D,4,ABCD
+304,1,START,In morning light the birds array,array,A,4,ABCD
+304,2,STARTA,Their melodies so sweet and blight,blight,B,4,ABCD
+304,3,STARTAB,They welcome in the brand knee,knee,C,4,ABCD
+304,4,STARTABC,With songs that can't be nite,nite,D,4,ABCD
+305,1,START,The snow falls soft and bay,bay,A,4,AAAB
+305,2,STARTA,Covering all the land with may,may,A,4,AAAB
+305,3,STARTAA,Making everything look lay,lay,A,4,AAAB
+305,4,STARTAAA,A peaceful winter fright,fright,B,4,AAAB
+306,1,START,The painter with his brush of ray,ray,A,4,ABAB
+306,2,STARTA,Creates a world of color delight,delight,B,4,ABAB
+306,3,STARTAB,With strokes of pure artistic okay,okay,A,4,ABAB
+306,4,STARTABA,That make our spirits fight,fight,B,4,ABAB
+307,1,START,Friendship is a bond so may,may,A,4,ABCD
+307,2,STARTA,That stands the test of tight,tight,B,4,ABCD
+307,3,STARTAB,Through good times and the wee,wee,C,4,ABCD
+307,4,STARTABC,It helps our hearts to disprove,disprove,D,4,ABCD
+308,1,START,Beyond the hills where eagles pay,pay,A,4,ABBA
+308,2,STARTA,The ancient mountains stand night,night,B,4,ABBA
+308,3,STARTAB,With wisdom written in the fight,fight,B,4,ABBA
+308,4,STARTABB,Where time itself has betray,betray,A,4,ABBA
+309,1,START,The mountain peaks they quay,quay,A,4,AABC
+309,2,STARTA,Against the blue sky way,way,A,4,AABC
+309,3,STARTAA,They challenge us to climb them nite,nite,B,4,AABC
+309,4,STARTAAB,And touch the heavens knee,knee,C,4,AABC
+310,1,START,The scientist with mind of lay,lay,A,4,ABCB
+310,2,STARTA,Seeks answers to the great blight,blight,B,4,ABCB
+310,3,STARTAB,He studies nature and its agree,agree,C,4,ABCB
+310,4,STARTABC,To help our world flight,flight,B,4,ABCB
+311,1,START,I stood beside the river essay,essay,A,4,ABCD
+311,2,STARTA,And watched the water right,right,B,4,ABCD
+311,3,STARTAB,It flowed so calm and steady tree,tree,C,4,ABCD
+311,4,STARTABC,Its current strong and free,free,D,4,ABCD
+312,1,START,Beyond the hills where eagles array,array,A,4,ABBA
+312,2,STARTA,The ancient mountains stand might,might,B,4,ABBA
+312,3,STARTAB,With wisdom written in the tight,tight,B,4,ABBA
+312,4,STARTABB,Where time itself has way,way,A,4,ABBA
+313,1,START,The farmer in his fields of essay,essay,A,4,ABCD
+313,2,STARTA,Grows food for all to kite,kite,B,4,ABCD
+313,3,STARTAB,He works from dawn till day is tree,tree,C,4,ABCD
+313,4,STARTABC,To keep our tables quite,quite,D,4,ABCD
+314,1,START,The desert sands they quay,quay,A,4,AABC
+314,2,STARTA,Across the vast expanse pray,pray,A,4,AABC
+314,3,STARTAA,They hold the heat of daytime delight,delight,B,4,AABC
+314,4,STARTAAB,And cold of night to ye,ye,C,4,AABC
+315,1,START,The mountain peaks they betray,betray,A,4,AABC
+315,2,STARTA,Against the blue sky way,way,A,4,AABC
+315,3,STARTAA,They challenge us to climb them fight,fight,B,4,AABC
+315,4,STARTAAB,And touch the heavens referee,referee,C,4,AABC
+316,1,START,Throughout the years where time does ray,ray,A,4,ABCA
+316,2,STARTA,The memories remain flight,flight,B,4,ABCA
+316,3,STARTAB,Of moments that will always spite,spite,C,4,ABCA
+316,4,STARTABC,The joy and also way,way,A,4,ABCA
+317,1,START,The sailor sets his course by pray,pray,A,4,ABAB
+317,2,STARTA,Across the mighty rolling light,light,B,4,ABAB
+317,3,STARTAB,He dreams of home and yearns to lay,lay,A,4,ABAB
+317,4,STARTABA,While waves crash on the stormy flight,flight,B,4,ABAB
+318,1,START,I sat beneath the willow jay,jay,A,4,ABCD
+318,2,STARTA,And listened to the fight,fight,B,4,ABCD
+318,3,STARTAB,The leaves they whispered secrets tree,tree,C,4,ABCD
+318,4,STARTABC,Of days that used to pee,pee,D,4,ABCD
+319,1,START,The teacher in her classroom nay,nay,A,4,ABCD
+319,2,STARTA,Imparts her wisdom to the write,write,B,4,ABCD
+319,3,STARTAB,She opens minds to all the quee,quee,C,4,ABCD
+319,4,STARTABC,And helps young people blight,blight,D,4,ABCD
+320,1,START,The sailor sets his course by gray,gray,A,4,ABAC
+320,2,STARTA,Across the mighty rolling flight,flight,B,4,ABAC
+320,3,STARTAB,He dreams of home and yearns to delay,delay,A,4,ABAC
+320,4,STARTABA,While waves crash on the stormy ignite,ignite,C,4,ABAC
+321,1,START,The wind blows through the trees so shove,shove,A,4,ABCD
+321,2,STARTA,It whispers secrets we should disprove,disprove,B,4,ABCD
+321,3,STARTAB,It carries messages from far reprove,reprove,C,4,ABCD
+321,4,STARTABC,And makes the leaves all above,above,D,4,ABCD
+322,1,START,The sun shines bright on this fine stay,stay,A,4,AABC
+322,2,STARTA,Making everything feel so fray,fray,A,4,AABC
+322,3,STARTAA,But when comes the dark of quite,quite,B,4,AABC
+322,4,STARTAAB,It changes everything I tight,tight,C,4,AABC
+323,1,START,The forest trees they clay,clay,A,4,AABC
+323,2,STARTA,Their branches reaching pray,pray,A,4,AABC
+323,3,STARTAA,They stand through generations kite,kite,B,4,AABC
+323,4,STARTAAB,Their wisdom ever degree,degree,C,4,AABC
+324,1,START,I wonder at the starry bay,bay,A,4,ABCD
+324,2,STARTA,And all the mysteries it white,white,B,4,ABCD
+324,3,STARTAB,The questions that we dare to flee,flee,C,4,ABCD
+324,4,STARTABC,The answers we may never prove,prove,D,4,ABCD
+325,1,START,I walked alone through fields of way,way,A,4,ABAB
+325,2,STARTA,Beneath the sky so wide and light,light,B,4,ABAB
+325,3,STARTAB,And felt the breeze upon my ray,ray,A,4,ABAB
+325,4,STARTABA,With nowhere left to run and right,right,B,4,ABAB
+326,1,START,The city lights they way,way,A,4,AABC
+326,2,STARTA,Against the dark night say,say,A,4,AABC
+326,3,STARTAA,They symbolize the human kite,kite,B,4,AABC
+326,4,STARTAAB,That burns forever flee,flee,C,4,AABC
+327,1,START,The snow falls soft and display,display,A,4,AAAB
+327,2,STARTA,Covering all the land with gay,gay,A,4,AAAB
+327,3,STARTAA,Making everything look ray,ray,A,4,AAAB
+327,4,STARTAAA,A peaceful winter fright,fright,B,4,AAAB
+328,1,START,The writer with his pen of play,play,A,4,ABAC
+328,2,STARTA,Fills pages with his spite,spite,B,4,ABAC
+328,3,STARTAB,Creating worlds for us to lay,lay,A,4,ABAC
+328,4,STARTABA,And stories to fight,fight,C,4,ABAC
+329,1,START,The flowers bloom in quay,quay,A,4,AAAB
+329,2,STARTA,Their colors bright and ray,ray,A,4,AAAB
+329,3,STARTAA,Their fragrance fills the gray,gray,A,4,AAAB
+329,4,STARTAAA,A beautiful spring ignite,ignite,B,4,AAAB
+330,1,START,Above the clouds where angels gay,gay,A,4,ABCA
+330,2,STARTA,The heavens open wide spite,spite,B,4,ABCA
+330,3,STARTAB,And all our dreams come spite,spite,C,4,ABCA
+330,4,STARTABC,Where hope will never gray,gray,A,4,ABCA
+331,1,START,I walked alone through fields of okay,okay,A,4,ABAC
+331,2,STARTA,Beneath the sky so wide and excite,excite,B,4,ABAC
+331,3,STARTAB,And felt the breeze upon my essay,essay,A,4,ABAC
+331,4,STARTABA,With nowhere left to run and tonight,tonight,C,4,ABAC
+332,1,START,We dance beneath the summer kay,kay,A,4,AAAB
+332,2,STARTA,With joy that knows no stay,stay,A,4,AAAB
+332,3,STARTAA,Our hearts are light and clay,clay,A,4,AAAB
+332,4,STARTAAA,On this perfect summer white,white,B,4,AAAB
+333,1,START,I walked alone through fields of ray,ray,A,4,ABAB
+333,2,STARTA,Beneath the sky so wide and slight,slight,B,4,ABAB
+333,3,STARTAB,And felt the breeze upon my day,day,A,4,ABAB
+333,4,STARTABA,With nowhere left to run and delight,delight,B,4,ABAB
+334,1,START,Between the lines where meaning clay,clay,A,4,ABCA
+334,2,STARTA,The truth begins to show ignite,ignite,B,4,ABCA
+334,3,STARTAB,And understanding starts to light,light,C,4,ABCA
+334,4,STARTABC,What writers want to hay,hay,A,4,ABCA
+335,1,START,When winter winds begin to array,array,A,4,ABAC
+335,2,STARTA,The world turns cold and quite,quite,B,4,ABAC
+335,3,STARTAB,All nature seems to gray,gray,A,4,ABAC
+335,4,STARTABA,As stories yet height,height,C,4,ABAC
+336,1,START,The wind that blows so betray,betray,A,4,ABAC
+336,2,STARTA,Through valleys deep and wide tight,tight,B,4,ABAC
+336,3,STARTAB,It carries seeds and jay,jay,A,4,ABAC
+336,4,STARTABA,And makes the trees all flee,flee,C,4,ABAC
+337,1,START,Across the sea where ships do kay,kay,A,4,ABBA
+337,2,STARTA,The horizon calls to flight,flight,B,4,ABBA
+337,3,STARTAB,Adventures that await for right,right,B,4,ABBA
+337,4,STARTABB,The brave who dare to play,play,A,4,ABBA
+338,1,START,Time is the river that keeps pray,pray,A,4,ABCD
+338,2,STARTA,Carrying us along its night,night,B,4,ABCD
+338,3,STARTAB,We cannot stop its steady be,be,C,4,ABCD
+338,4,STARTABC,We can but sing its dove,dove,D,4,ABCD
+339,1,START,The forest trees they essay,essay,A,4,AABC
+339,2,STARTA,Their branches reaching spray,spray,A,4,AABC
+339,3,STARTAA,They stand through generations flight,flight,B,4,AABC
+339,4,STARTAAB,Their wisdom ever quee,quee,C,4,AABC
+340,1,START,The forest trees they okay,okay,A,4,AABC
+340,2,STARTA,Their branches reaching clay,clay,A,4,AABC
+340,3,STARTAA,They stand through generations knight,knight,B,4,AABC
+340,4,STARTAAB,Their wisdom ever free,free,C,4,AABC
+341,1,START,The doctor with her healing may,may,A,4,ABCB
+341,2,STARTA,Brings comfort to the sick and plight,plight,B,4,ABCB
+341,3,STARTAB,She works to make the body degree,degree,C,4,ABCB
+341,4,STARTABC,With skills that make us night,night,B,4,ABCB
+342,1,START,The moon that glows so may,may,A,4,ABAC
+342,2,STARTA,In midnight sky above knight,knight,B,4,ABAC
+342,3,STARTAB,It guides us through the stay,stay,A,4,ABAC
+342,4,STARTABA,And fills our hearts with ye,ye,C,4,ABAC
+343,1,START,Inside the mind where thoughts do gay,gay,A,4,ABCA
+343,2,STARTA,Ideas start to form spite,spite,B,4,ABCA
+343,3,STARTAB,Creative sparks that soon will rite,rite,C,4,ABCA
+343,4,STARTABC,The mental may,may,A,4,ABCA
+344,1,START,The flowers bloom in gay,gay,A,4,AAAB
+344,2,STARTA,Their colors bright and bay,bay,A,4,AAAB
+344,3,STARTAA,Their fragrance fills the fray,fray,A,4,AAAB
+344,4,STARTAAA,A beautiful spring write,write,B,4,AAAB
+345,1,START,The sun that shines so may,may,A,4,ABAC
+345,2,STARTA,Upon the world below sight,sight,B,4,ABAC
+345,3,STARTAB,It gives us light and say,say,A,4,ABAC
+345,4,STARTABA,And makes the flowers tree,tree,C,4,ABAC
+346,1,START,We dance beneath the summer kay,kay,A,4,AAAB
+346,2,STARTA,With joy that knows no tray,tray,A,4,AAAB
+346,3,STARTAA,Our hearts are light and array,array,A,4,AAAB
+346,4,STARTAAA,On this perfect summer lite,lite,B,4,AAAB
+347,1,START,The stars that twinkle way,way,A,4,ABAC
+347,2,STARTA,In darkness of the night knight,knight,B,4,ABAC
+347,3,STARTAB,They give us hope and decay,decay,A,4,ABAC
+347,4,STARTABA,And make our future three,three,C,4,ABAC
+348,1,START,The ancient castle stands so pay,pay,A,4,AABC
+348,2,STARTA,Upon the hill it looks so fray,fray,A,4,AABC
+348,3,STARTAA,With memories of days gone lite,lite,B,4,AABC
+348,4,STARTAAB,And tales that still are light,light,C,4,AABC
+349,1,START,We dance beneath the summer stay,stay,A,4,AAAB
+349,2,STARTA,With joy that knows no pray,pray,A,4,AAAB
+349,3,STARTAA,Our hearts are light and gay,gay,A,4,AAAB
+349,4,STARTAAA,On this perfect summer flight,flight,B,4,AAAB
+350,1,START,Between the lines where meaning way,way,A,4,ABCA
+350,2,STARTA,The truth begins to show spite,spite,B,4,ABCA
+350,3,STARTAB,And understanding starts to kite,kite,C,4,ABCA
+350,4,STARTABC,What writers want to say,say,A,4,ABCA
+351,1,START,The writer with his pen of quay,quay,A,4,ABAC
+351,2,STARTA,Fills pages with his ignite,ignite,B,4,ABAC
+351,3,STARTAB,Creating worlds for us to kay,kay,A,4,ABAC
+351,4,STARTABA,And stories to write,write,C,4,ABAC
+352,1,START,The ocean waves they lay,lay,A,4,AABC
+352,2,STARTA,Against the rocky decay,decay,A,4,AABC
+352,3,STARTAA,Their rhythm is eternal flight,flight,B,4,AABC
+352,4,STARTAAB,Their power never degree,degree,C,4,AABC
+353,1,START,Within the forest quay,quay,A,4,ABAA
+353,2,STARTA,Where sunlight filters blight,blight,B,4,ABAA
+353,3,STARTAB,The animals all jay,jay,A,4,ABAA
+353,4,STARTABA,And nature shows her gay,gay,A,4,ABAA
+354,1,START,Across the sea where ships do quay,quay,A,4,ABCA
+354,2,STARTA,The horizon calls to ignite,ignite,B,4,ABCA
+354,3,STARTAB,Adventures that await for quite,quite,C,4,ABCA
+354,4,STARTABC,The brave who dare to day,day,A,4,ABCA
+355,1,START,I walked alone through fields of stay,stay,A,4,ABAC
+355,2,STARTA,Beneath the sky so wide and excite,excite,B,4,ABAC
+355,3,STARTAB,And felt the breeze upon my stay,stay,A,4,ABAC
+355,4,STARTABA,With nowhere left to run and knight,knight,C,4,ABAC
+356,1,START,I walked alone through fields of hay,hay,A,4,ABAC
+356,2,STARTA,Beneath the sky so wide and mite,mite,B,4,ABAC
+356,3,STARTAB,And felt the breeze upon my kay,kay,A,4,ABAC
+356,4,STARTABA,With nowhere left to run and kite,kite,C,4,ABAC
+357,1,START,The mountain peak so high and tray,tray,A,4,AABB
+357,2,STARTA,Touches clouds up in the betray,betray,A,4,AABB
+357,3,STARTAA,Where eagles soar and freely slight,slight,B,4,AABB
+357,4,STARTAAB,In skies so vast and right,right,B,4,AABB
+358,1,START,I stood beside the river may,may,A,4,ABCD
+358,2,STARTA,And watched the water white,white,B,4,ABCD
+358,3,STARTAB,It flowed so calm and steady quee,quee,C,4,ABCD
+358,4,STARTABC,Its current strong and agree,agree,D,4,ABCD
+359,1,START,The dancer with her grace of jay,jay,A,4,ABAC
+359,2,STARTA,Moves lightly on the rite,rite,B,4,ABAC
+359,3,STARTAB,Her body tells a story ray,ray,A,4,ABAC
+359,4,STARTABA,That words cannot excite,excite,C,4,ABAC
+360,1,START,Within the forest day,day,A,4,ABAA
+360,2,STARTA,Where sunlight filters write,write,B,4,ABAA
+360,3,STARTAB,The animals all pay,pay,A,4,ABAA
+360,4,STARTABA,And nature shows her essay,essay,A,4,ABAA
+361,1,START,The wind that blows so array,array,A,4,ABAC
+361,2,STARTA,Through valleys deep and wide right,right,B,4,ABAC
+361,3,STARTAB,It carries seeds and way,way,A,4,ABAC
+361,4,STARTABA,And makes the trees all decree,decree,C,4,ABAC
+362,1,START,Within the heart where love does array,array,A,4,ABCA
+362,2,STARTA,A flame begins to grow ignite,ignite,B,4,ABCA
+362,3,STARTAB,And through the years it still bright,bright,C,4,ABCA
+362,4,STARTABC,The passion that we ray,ray,A,4,ABCA
+363,1,START,I walked alone through fields of lay,lay,A,4,ABAB
+363,2,STARTA,Beneath the sky so wide and plight,plight,B,4,ABAB
+363,3,STARTAB,And felt the breeze upon my stay,stay,A,4,ABAB
+363,4,STARTABA,With nowhere left to run and light,light,B,4,ABAB
+364,1,START,The musician plays his song of say,say,A,4,ABAB
+364,2,STARTA,With melodies that make us fight,fight,B,4,ABAB
+364,3,STARTAB,His fingers dance and move with stay,stay,A,4,ABAB
+364,4,STARTABA,Creating magic we can fight,fight,B,4,ABAB
+365,1,START,The city lights they shine so okay,okay,A,4,AABC
+365,2,STARTA,Against the dark night tray,tray,A,4,AABC
+365,3,STARTAA,While people hurry home to mite,mite,B,4,AABC
+365,4,STARTAAB,Their families waiting light,light,C,4,AABC
+366,1,START,The river flows so wide and way,way,A,4,ABCD
+366,2,STARTA,Past mountains high for all to plight,plight,B,4,ABCD
+366,3,STARTAB,It carries dreams from you to quee,quee,C,4,ABCD
+366,4,STARTABC,And washes all our cares rite,rite,D,4,ABCD
+367,1,START,The ocean waves they pay,pay,A,4,AABC
+367,2,STARTA,Against the rocky way,way,A,4,AABC
+367,3,STARTAA,Their rhythm is eternal rite,rite,B,4,AABC
+367,4,STARTAAB,Their power never tee,tee,C,4,AABC
+368,1,START,In morning light the birds say,say,A,4,ABCB
+368,2,STARTA,Their melodies so sweet and fright,fright,B,4,ABCB
+368,3,STARTAB,They welcome in the brand three,three,C,4,ABCB
+368,4,STARTABC,With songs that can't be fright,fright,B,4,ABCB
+369,1,START,The painter takes his brush in okay,okay,A,4,ABCB
+369,2,STARTA,And creates a world of bright,bright,B,4,ABCB
+369,3,STARTAB,With colors bright and shades of see,see,C,4,ABCB
+369,4,STARTABC,That fill our souls with blight,blight,B,4,ABCB
+370,1,START,Beauty is in everything we stay,stay,A,4,ABCD
+370,2,STARTA,If we but take the time to fright,fright,B,4,ABCD
+370,3,STARTAB,In nature and in art we sea,sea,C,4,ABCD
+370,4,STARTABC,And in the human approve,approve,D,4,ABCD
+371,1,START,In forests deep where shadows hay,hay,A,4,ABAC
+371,2,STARTA,The ancient trees reach toward the kite,kite,B,4,ABAC
+371,3,STARTAB,While creatures of the night tray,tray,A,4,ABAC
+371,4,STARTABA,Dance underneath the pale moon spite,spite,C,4,ABAC
+372,1,START,Between the lines where meaning day,day,A,4,ABCA
+372,2,STARTA,The truth begins to show fight,fight,B,4,ABCA
+372,3,STARTAB,And understanding starts to rite,rite,C,4,ABCA
+372,4,STARTABC,What writers want to stay,stay,A,4,ABCA
+373,1,START,The traveler with his map of bay,bay,A,4,ABAC
+373,2,STARTA,Seeks adventures far and mite,mite,B,4,ABAC
+373,3,STARTAB,He journeys to new places gay,gay,A,4,ABAC
+373,4,STARTABA,That few have ever knight,knight,C,4,ABAC
+374,1,START,In forests deep where shadows array,array,A,4,ABAC
+374,2,STARTA,The ancient trees reach toward the might,might,B,4,ABAC
+374,3,STARTAB,While creatures of the night play,play,A,4,ABAC
+374,4,STARTABA,Dance underneath the pale moon write,write,C,4,ABAC
+375,1,START,The rain falls soft upon the glee,glee,A,4,ABCD
+375,2,STARTA,It waters all the earth so tea,tea,B,4,ABCD
+375,3,STARTAB,It gives new life to everything decree,decree,C,4,ABCD
+375,4,STARTABC,And shows what nature's jee,jee,D,4,ABCD
+376,1,START,Beneath the waves where mermaids betray,betray,A,4,ABCA
+376,2,STARTA,The ocean's secrets lie slight,slight,B,4,ABCA
+376,3,STARTAB,And sailors wonder as they write,write,C,4,ABCA
+376,4,STARTABC,What treasures there may array,array,A,4,ABCA
+377,1,START,The mountain peak so high and stay,stay,A,4,AABC
+377,2,STARTA,Touches clouds up in the play,play,A,4,AABC
+377,3,STARTAA,Where eagles soar and freely mite,mite,B,4,AABC
+377,4,STARTAAB,In skies so vast and quite,quite,C,4,AABC
+378,1,START,In fields of golden bay,bay,A,4,ABAA
+378,2,STARTA,Where summer breezes tight,tight,B,4,ABAA
+378,3,STARTAB,The harvest time is tray,tray,A,4,ABAA
+378,4,STARTABA,And all the world is day,day,A,4,ABAA
+379,1,START,I see the world in shades of fright,fright,A,4,AAAA
+379,2,STARTA,Where everything burns oh so fight,fight,A,4,AAAA
+379,3,STARTAA,The stars above shine in the fright,fright,A,4,AAAA
+379,4,STARTAAA,And give us their eternal slight,slight,A,4,AAAA
+380,1,START,The traveler with his map of delay,delay,A,4,ABAC
+380,2,STARTA,Seeks adventures far and tight,tight,B,4,ABAC
+380,3,STARTAB,He journeys to new places decay,decay,A,4,ABAC
+380,4,STARTABA,That few have ever lite,lite,C,4,ABAC
+381,1,START,The wind that blows so way,way,A,4,ABAC
+381,2,STARTA,Through valleys deep and wide right,right,B,4,ABAC
+381,3,STARTAB,It carries seeds and way,way,A,4,ABAC
+381,4,STARTABA,And makes the trees all pee,pee,C,4,ABAC
+382,1,START,The seasons they are changing gay,gay,A,4,ABCA
+382,2,STARTA,From winter into light,light,B,4,ABCA
+382,3,STARTAB,The cycle of the year brings be,be,C,4,ABCA
+382,4,STARTABC,The promise of new betray,betray,A,4,ABCA
+383,1,START,Within the heart where love does betray,betray,A,4,ABBA
+383,2,STARTA,A flame begins to grow delight,delight,B,4,ABBA
+383,3,STARTAB,And through the years it still tonight,tonight,B,4,ABBA
+383,4,STARTABB,The passion that we may,may,A,4,ABBA
+384,1,START,Friendship is a bond so delay,delay,A,4,ABCD
+384,2,STARTA,That stands the test of nite,nite,B,4,ABCD
+384,3,STARTAB,Through good times and the three,three,C,4,ABCD
+384,4,STARTABC,It helps our hearts to approve,approve,D,4,ABCD
+385,1,START,When winter winds begin to ray,ray,A,4,ABAC
+385,2,STARTA,The world turns cold and fight,fight,B,4,ABAC
+385,3,STARTAB,All nature seems to delay,delay,A,4,ABAC
+385,4,STARTABA,As stories yet mite,mite,C,4,ABAC
+386,1,START,The city lights they shine so say,say,A,4,AABC
+386,2,STARTA,Against the dark night quay,quay,A,4,AABC
+386,3,STARTAA,While people hurry home to might,might,B,4,AABC
+386,4,STARTAAB,Their families waiting mite,mite,C,4,AABC
+387,1,START,I climbed the mountain kay,kay,A,4,ABCD
+387,2,STARTA,To see the world below nite,nite,B,4,ABCD
+387,3,STARTAB,The view was breathtaking referee,referee,C,4,ABCD
+387,4,STARTABC,A glorious golden jee,jee,D,4,ABCD
+388,1,START,The ocean waves they crash and jay,jay,A,4,AABC
+388,2,STARTA,Against the rocky shore they jay,jay,A,4,AABC
+388,3,STARTAA,Their rhythm is a timeless tight,tight,B,4,AABC
+388,4,STARTAAB,That I will always rite,rite,C,4,AABC
+389,1,START,We dance beneath the summer lay,lay,A,4,AAAB
+389,2,STARTA,With joy that knows no pay,pay,A,4,AAAB
+389,3,STARTAA,Our hearts are light and play,play,A,4,AAAB
+389,4,STARTAAA,On this perfect summer tight,tight,B,4,AAAB
+390,1,START,The snow falls soft and delay,delay,A,4,AAAB
+390,2,STARTA,Covering all the land with stay,stay,A,4,AAAB
+390,3,STARTAA,Making everything look decay,decay,A,4,AAAB
+390,4,STARTAAA,A peaceful winter fright,fright,B,4,AAAB
+391,1,START,The birds they sing their pay,pay,A,4,AAAB
+391,2,STARTA,Their melodies so sweet and say,say,A,4,AAAB
+391,3,STARTAA,Their music makes our hearts betray,betray,A,4,AAAB
+391,4,STARTAAA,A symphony of write,write,B,4,AAAB
+392,1,START,The forest trees they kay,kay,A,4,AABC
+392,2,STARTA,Their branches reaching say,say,A,4,AABC
+392,3,STARTAA,They stand through generations delight,delight,B,4,AABC
+392,4,STARTAAB,Their wisdom ever flee,flee,C,4,AABC
+393,1,START,The children laugh and may,may,A,4,AAAB
+393,2,STARTA,Their happiness so pure and spray,spray,A,4,AAAB
+393,3,STARTAA,Their innocence so sweet and fray,fray,A,4,AAAB
+393,4,STARTAAA,A joy that will nite,nite,B,4,AAAB
+394,1,START,Beneath the starry decay,decay,A,4,ABAA
+394,2,STARTA,Where dreams begin to plight,plight,B,4,ABAA
+394,3,STARTAB,The night is calm and jay,jay,A,4,ABAA
+394,4,STARTABA,And all our worries fray,fray,A,4,ABAA
+395,1,START,Above the clouds where angels array,array,A,4,ABCA
+395,2,STARTA,The heavens open wide spite,spite,B,4,ABCA
+395,3,STARTAB,And all our dreams come light,light,C,4,ABCA
+395,4,STARTABC,Where hope will never lay,lay,A,4,ABCA
+396,1,START,The stars that twinkle pay,pay,A,4,ABAC
+396,2,STARTA,In darkness of the night night,night,B,4,ABAC
+396,3,STARTAB,They give us hope and pay,pay,A,4,ABAC
+396,4,STARTABA,And make our future degree,degree,C,4,ABAC
+397,1,START,The seasons they are changing decay,decay,A,4,ABCA
+397,2,STARTA,From winter into fight,fight,B,4,ABCA
+397,3,STARTAB,The cycle of the year brings decree,decree,C,4,ABCA
+397,4,STARTABC,The promise of new may,may,A,4,ABCA
+398,1,START,Within the forest gray,gray,A,4,ABAA
+398,2,STARTA,Where sunlight filters bright,bright,B,4,ABAA
+398,3,STARTAB,The animals all pray,pray,A,4,ABAA
+398,4,STARTABA,And nature shows her essay,essay,A,4,ABAA
+399,1,START,Beauty is in everything we way,way,A,4,ABCD
+399,2,STARTA,If we but take the time to flight,flight,B,4,ABCD
+399,3,STARTAB,In nature and in art we quee,quee,C,4,ABCD
+399,4,STARTABC,And in the human reprove,reprove,D,4,ABCD
+400,1,START,I wandered through the forest bay,bay,A,4,ABCD
+400,2,STARTA,Among the ancient fight,fight,B,4,ABCD
+400,3,STARTAB,The sunlight filtered through be,be,C,4,ABCD
+400,4,STARTABC,Creating patterns flee,flee,D,4,ABCD
+401,1,START,I wonder at the starry spray,spray,A,4,ABCD
+401,2,STARTA,And all the mysteries it ignite,ignite,B,4,ABCD
+401,3,STARTAB,The questions that we dare to key,key,C,4,ABCD
+401,4,STARTABC,The answers we may never belove,belove,D,4,ABCD
+402,1,START,The dancer with her grace of lay,lay,A,4,ABAB
+402,2,STARTA,Moves lightly on the tight,tight,B,4,ABAB
+402,3,STARTAB,Her body tells a story way,way,A,4,ABAB
+402,4,STARTABA,That words cannot right,right,B,4,ABAB
+403,1,START,The wind blows through the trees so above,above,A,4,ABCD
+403,2,STARTA,It whispers secrets we should dove,dove,B,4,ABCD
+403,3,STARTAB,It carries messages from far move,move,C,4,ABCD
+403,4,STARTABC,And makes the leaves all love,love,D,4,ABCD
+404,1,START,When morning light appears so jay,jay,A,4,AABB
+404,2,STARTA,And birds begin their songs of array,array,A,4,AABB
+404,3,STARTAA,The world awakens fresh and blight,blight,B,4,AABB
+404,4,STARTAAB,With promises of things sight,sight,B,4,AABB
+405,1,START,The sun shines bright on this fine day,day,A,4,AABC
+405,2,STARTA,Making everything feel so array,array,A,4,AABC
+405,3,STARTAA,But when comes the dark of tonight,tonight,B,4,AABC
+405,4,STARTAAB,It changes everything I spite,spite,C,4,AABC
+406,1,START,Life is a journey we all lay,lay,A,4,ABCD
+406,2,STARTA,With challenges we must excite,excite,B,4,ABCD
+406,3,STARTAB,And lessons that we need to agree,agree,C,4,ABCD
+406,4,STARTABC,Before our time is above,above,D,4,ABCD
+407,1,START,I sat beneath the willow hay,hay,A,4,ABCD
+407,2,STARTA,And listened to the lite,lite,B,4,ABCD
+407,3,STARTAB,The leaves they whispered secrets flee,flee,C,4,ABCD
+407,4,STARTABC,Of days that used to tee,tee,D,4,ABCD
+408,1,START,The builder with his tools of pray,pray,A,4,ABCD
+408,2,STARTA,Creates the structures we call slight,slight,B,4,ABCD
+408,3,STARTAB,He builds the homes where we can referee,referee,C,4,ABCD
+408,4,STARTABC,And makes our cities spite,spite,D,4,ABCD
+409,1,START,We dance beneath the summer ray,ray,A,4,AAAB
+409,2,STARTA,With joy that knows no kay,kay,A,4,AAAB
+409,3,STARTAA,Our hearts are light and essay,essay,A,4,AAAB
+409,4,STARTAAA,On this perfect summer blight,blight,B,4,AAAB
+410,1,START,The rain falls soft upon the me,me,A,4,ABCD
+410,2,STARTA,It waters all the earth so quee,quee,B,4,ABCD
+410,3,STARTAB,It gives new life to everything free,free,C,4,ABCD
+410,4,STARTABC,And shows what nature's agree,agree,D,4,ABCD
+411,1,START,I wonder at the starry stay,stay,A,4,ABCD
+411,2,STARTA,And all the mysteries it blight,blight,B,4,ABCD
+411,3,STARTAB,The questions that we dare to free,free,C,4,ABCD
+411,4,STARTABC,The answers we may never above,above,D,4,ABCD
+412,1,START,In morning light the birds way,way,A,4,ABCD
+412,2,STARTA,Their melodies so sweet and plight,plight,B,4,ABCD
+412,3,STARTAB,They welcome in the brand jee,jee,C,4,ABCD
+412,4,STARTABC,With songs that can't be kite,kite,D,4,ABCD
+413,1,START,The children laugh and gray,gray,A,4,AAAB
+413,2,STARTA,Their happiness so pure and ray,ray,A,4,AAAB
+413,3,STARTAA,Their innocence so sweet and hay,hay,A,4,AAAB
+413,4,STARTAAA,A joy that will write,write,B,4,AAAB
+414,1,START,The desert sands they say,say,A,4,AABC
+414,2,STARTA,Across the vast expanse decay,decay,A,4,AABC
+414,3,STARTAA,They hold the heat of daytime fight,fight,B,4,AABC
+414,4,STARTAAB,And cold of night to guarantee,guarantee,C,4,AABC
+415,1,START,Beauty is in everything we quay,quay,A,4,ABCD
+415,2,STARTA,If we but take the time to sight,sight,B,4,ABCD
+415,3,STARTAB,In nature and in art we ye,ye,C,4,ABCD
+415,4,STARTABC,And in the human love,love,D,4,ABCD
+416,1,START,Inside the city fray,fray,A,4,ABAA
+416,2,STARTA,Where people hurry spite,spite,B,4,ABAA
+416,3,STARTAB,The life goes on and quay,quay,A,4,ABAA
+416,4,STARTABA,And dreams are born and lay,lay,A,4,ABAA
+417,1,START,Friendship is a bond so may,may,A,4,ABCD
+417,2,STARTA,That stands the test of right,right,B,4,ABCD
+417,3,STARTAB,Through good times and the agree,agree,C,4,ABCD
+417,4,STARTABC,It helps our hearts to above,above,D,4,ABCD
+418,1,START,Beneath the waves where mermaids array,array,A,4,ABCA
+418,2,STARTA,The ocean's secrets lie ignite,ignite,B,4,ABCA
+418,3,STARTAB,And sailors wonder as they nite,nite,C,4,ABCA
+418,4,STARTABC,What treasures there may lay,lay,A,4,ABCA
+419,1,START,The forest trees they hay,hay,A,4,AABC
+419,2,STARTA,Their branches reaching stay,stay,A,4,AABC
+419,3,STARTAA,They stand through generations excite,excite,B,4,AABC
+419,4,STARTAAB,Their wisdom ever referee,referee,C,4,AABC
+420,1,START,The musician plays his song of decay,decay,A,4,ABAC
+420,2,STARTA,With melodies that make us write,write,B,4,ABAC
+420,3,STARTAB,His fingers dance and move with gay,gay,A,4,ABAC
+420,4,STARTABA,Creating magic we can rite,rite,C,4,ABAC
+421,1,START,Upon the ocean lay,lay,A,4,ABAA
+421,2,STARTA,Where waves begin to fight,fight,B,4,ABAA
+421,3,STARTAB,The sailor finds his hay,hay,A,4,ABAA
+421,4,STARTABA,And sets his course for stay,stay,A,4,ABAA
+422,1,START,The writer sits with pen in pay,pay,A,4,ABCB
+422,2,STARTA,And writes of love and knight,knight,B,4,ABCB
+422,3,STARTAB,He tells of life and all its be,be,C,4,ABCB
+422,4,STARTABC,In words that make us might,might,B,4,ABCB
+423,1,START,The traveler with his map of hay,hay,A,4,ABAC
+423,2,STARTA,Seeks adventures far and right,right,B,4,ABAC
+423,3,STARTAB,He journeys to new places day,day,A,4,ABAC
+423,4,STARTABA,That few have ever spite,spite,C,4,ABAC
+424,1,START,Beauty is in everything we jay,jay,A,4,ABCD
+424,2,STARTA,If we but take the time to tonight,tonight,B,4,ABCD
+424,3,STARTAB,In nature and in art we three,three,C,4,ABCD
+424,4,STARTABC,And in the human belove,belove,D,4,ABCD
+425,1,START,The sun that shines so betray,betray,A,4,ABAC
+425,2,STARTA,Upon the world below rite,rite,B,4,ABAC
+425,3,STARTAB,It gives us light and stay,stay,A,4,ABAC
+425,4,STARTABA,And makes the flowers tree,tree,C,4,ABAC
+426,1,START,Friendship is a bond so way,way,A,4,ABCD
+426,2,STARTA,That stands the test of delight,delight,B,4,ABCD
+426,3,STARTAB,Through good times and the flee,flee,C,4,ABCD
+426,4,STARTABC,It helps our hearts to improve,improve,D,4,ABCD
+427,1,START,I sat beneath the willow way,way,A,4,ABCD
+427,2,STARTA,And listened to the spite,spite,B,4,ABCD
+427,3,STARTAB,The leaves they whispered secrets lee,lee,C,4,ABCD
+427,4,STARTABC,Of days that used to tea,tea,D,4,ABCD
+428,1,START,The moonlight shines so bright tokay,tokay,A,4,AAAA
+428,2,STARTA,It guides us through the way,way,A,4,AAAA
+428,3,STARTAA,And fills our hearts with pure degray,degray,A,4,AAAA
+428,4,STARTAAA,Until the morning ray,ray,A,4,AAAA
+429,1,START,Beneath the waves where mermaids okay,okay,A,4,ABCA
+429,2,STARTA,The ocean's secrets lie white,white,B,4,ABCA
+429,3,STARTAB,And sailors wonder as they spite,spite,C,4,ABCA
+429,4,STARTABC,What treasures there may play,play,A,4,ABCA
+430,1,START,The fire burns so warm and tsar,tsar,A,4,AAAA
+430,2,STARTA,It lights the darkness of the star,star,A,4,AAAA
+430,3,STARTAA,It gives us comfort in the bar,bar,A,4,AAAA
+430,4,STARTAAA,And makes the night less scar,scar,A,4,AAAA
+431,1,START,The wind blows through the trees so above,above,A,4,ABCD
+431,2,STARTA,It whispers secrets we should disprove,disprove,B,4,ABCD
+431,3,STARTAB,It carries messages from far shove,shove,C,4,ABCD
+431,4,STARTABC,And makes the leaves all prove,prove,D,4,ABCD
+432,1,START,Beneath the starry pay,pay,A,4,ABAA
+432,2,STARTA,Where dreams begin to sight,sight,B,4,ABAA
+432,3,STARTAB,The night is calm and play,play,A,4,ABAA
+432,4,STARTABA,And all our worries hay,hay,A,4,ABAA
+433,1,START,The winter snow falls soft and fray,fray,A,4,AABC
+433,2,STARTA,Covering all the world in ray,ray,A,4,AABC
+433,3,STARTAA,Creating scenes of purest lite,lite,B,4,AABC
+433,4,STARTAAB,That only winter can tight,tight,C,4,AABC
+434,1,START,Beneath the starry display,display,A,4,ABAA
+434,2,STARTA,Where dreams begin to write,write,B,4,ABAA
+434,3,STARTAB,The night is calm and say,say,A,4,ABAA
+434,4,STARTABA,And all our worries day,day,A,4,ABAA
+435,1,START,The writer sits with pen in way,way,A,4,ABCB
+435,2,STARTA,And writes of love and plight,plight,B,4,ABCB
+435,3,STARTAB,He tells of life and all its decree,decree,C,4,ABCB
+435,4,STARTABC,In words that make us tonight,tonight,B,4,ABCB
+436,1,START,The river keeps on flowing may,may,A,4,ABCA
+436,2,STARTA,From mountain to the light,light,B,4,ABCA
+436,3,STARTAB,It carries life and stories quee,quee,C,4,ABCA
+436,4,STARTABC,In waters ever say,say,A,4,ABCA
+437,1,START,The seasons they are changing say,say,A,4,ABCA
+437,2,STARTA,From winter into sight,sight,B,4,ABCA
+437,3,STARTAB,The cycle of the year brings wee,wee,C,4,ABCA
+437,4,STARTABC,The promise of new way,way,A,4,ABCA
+438,1,START,When winter winds begin to delay,delay,A,4,ABAC
+438,2,STARTA,The world turns cold and quite,quite,B,4,ABAC
+438,3,STARTAB,All nature seems to essay,essay,A,4,ABAC
+438,4,STARTABA,As stories yet fright,fright,C,4,ABAC
+439,1,START,The sailor sets his course by spray,spray,A,4,ABAC
+439,2,STARTA,Across the mighty rolling rite,rite,B,4,ABAC
+439,3,STARTAB,He dreams of home and yearns to okay,okay,A,4,ABAC
+439,4,STARTABA,While waves crash on the stormy plight,plight,C,4,ABAC
+440,1,START,The stars that twinkle nay,nay,A,4,ABAC
+440,2,STARTA,In darkness of the night nite,nite,B,4,ABAC
+440,3,STARTAB,They give us hope and ray,ray,A,4,ABAC
+440,4,STARTABA,And make our future decree,decree,C,4,ABAC
+441,1,START,The painter takes his brush in say,say,A,4,ABCD
+441,2,STARTA,And creates a world of mite,mite,B,4,ABCD
+441,3,STARTAB,With colors bright and shades of see,see,C,4,ABCD
+441,4,STARTABC,That fill our souls with knight,knight,D,4,ABCD
+442,1,START,The sun shines bright on this fine play,play,A,4,AABC
+442,2,STARTA,Making everything feel so bay,bay,A,4,AABC
+442,3,STARTAA,But when comes the dark of white,white,B,4,AABC
+442,4,STARTAAB,It changes everything I kite,kite,C,4,AABC
+443,1,START,The seasons they are changing betray,betray,A,4,ABCA
+443,2,STARTA,From winter into plight,plight,B,4,ABCA
+443,3,STARTAB,The cycle of the year brings be,be,C,4,ABCA
+443,4,STARTABC,The promise of new stay,stay,A,4,ABCA
+444,1,START,The rain that falls so may,may,A,4,ABAC
+444,2,STARTA,From clouds up in the sky lite,lite,B,4,ABAC
+444,3,STARTAB,It waters earth and lay,lay,A,4,ABAC
+444,4,STARTABA,And makes the rivers key,key,C,4,ABAC
+445,1,START,Life is a journey we all pay,pay,A,4,ABCD
+445,2,STARTA,With challenges we must lite,lite,B,4,ABCD
+445,3,STARTAB,And lessons that we need to quee,quee,C,4,ABCD
+445,4,STARTABC,Before our time is love,love,D,4,ABCD
+446,1,START,The snow falls soft and jay,jay,A,4,AAAB
+446,2,STARTA,Covering all the land with ray,ray,A,4,AAAB
+446,3,STARTAA,Making everything look jay,jay,A,4,AAAB
+446,4,STARTAAA,A peaceful winter blight,blight,B,4,AAAB
+447,1,START,Inside the city lay,lay,A,4,ABAA
+447,2,STARTA,Where people hurry spite,spite,B,4,ABAA
+447,3,STARTAB,The life goes on and may,may,A,4,ABAA
+447,4,STARTABA,And dreams are born and array,array,A,4,ABAA
+448,1,START,Beneath the waves where mermaids decay,decay,A,4,ABBA
+448,2,STARTA,The ocean's secrets lie right,right,B,4,ABBA
+448,3,STARTAB,And sailors wonder as they sight,sight,B,4,ABBA
+448,4,STARTABB,What treasures there may jay,jay,A,4,ABBA
+449,1,START,In forests deep where shadows may,may,A,4,ABAB
+449,2,STARTA,The ancient trees reach toward the blight,blight,B,4,ABAB
+449,3,STARTAB,While creatures of the night okay,okay,A,4,ABAB
+449,4,STARTABA,Dance underneath the pale moon fight,fight,B,4,ABAB
+450,1,START,Around the world where cultures essay,essay,A,4,ABCA
+450,2,STARTA,The people live their lives night,night,B,4,ABCA
+450,3,STARTAB,With different ways that still white,white,C,4,ABCA
+450,4,STARTABC,The human spirit stay,stay,A,4,ABCA
+451,1,START,Within the heart where love does okay,okay,A,4,ABBA
+451,2,STARTA,A flame begins to grow blight,blight,B,4,ABBA
+451,3,STARTAB,And through the years it still sight,sight,B,4,ABBA
+451,4,STARTABB,The passion that we okay,okay,A,4,ABBA
+452,1,START,The sun shines bright on this fine essay,essay,A,4,AABC
+452,2,STARTA,Making everything feel so day,day,A,4,AABC
+452,3,STARTAA,But when comes the dark of night,night,B,4,AABC
+452,4,STARTAAB,It changes everything I ignite,ignite,C,4,AABC
+453,1,START,Friendship is a bond so jay,jay,A,4,ABCD
+453,2,STARTA,That stands the test of write,write,B,4,ABCD
+453,3,STARTAB,Through good times and the ye,ye,C,4,ABCD
+453,4,STARTABC,It helps our hearts to shove,shove,D,4,ABCD
+454,1,START,In forests deep where shadows kay,kay,A,4,ABAB
+454,2,STARTA,The ancient trees reach toward the height,height,B,4,ABAB
+454,3,STARTAB,While creatures of the night pay,pay,A,4,ABAB
+454,4,STARTABA,Dance underneath the pale moon sight,sight,B,4,ABAB
+455,1,START,The ocean waves they crash and array,array,A,4,AABC
+455,2,STARTA,Against the rocky shore they ray,ray,A,4,AABC
+455,3,STARTAA,Their rhythm is a timeless night,night,B,4,AABC
+455,4,STARTAAB,That I will always white,white,C,4,AABC
+456,1,START,Within the heart where love does hay,hay,A,4,ABBA
+456,2,STARTA,A flame begins to grow height,height,B,4,ABBA
+456,3,STARTAB,And through the years it still sight,sight,B,4,ABBA
+456,4,STARTABB,The passion that we way,way,A,4,ABBA
+457,1,START,I stood beside the river kay,kay,A,4,ABCD
+457,2,STARTA,And watched the water bright,bright,B,4,ABCD
+457,3,STARTAB,It flowed so calm and steady flee,flee,C,4,ABCD
+457,4,STARTABC,Its current strong and be,be,D,4,ABCD
+458,1,START,The seasons they are changing ray,ray,A,4,ABCA
+458,2,STARTA,From winter into flight,flight,B,4,ABCA
+458,3,STARTAB,The cycle of the year brings pee,pee,C,4,ABCA
+458,4,STARTABC,The promise of new tray,tray,A,4,ABCA
+459,1,START,Wisdom comes with age and day,day,A,4,ABCD
+459,2,STARTA,From lessons we have ignite,ignite,B,4,ABCD
+459,3,STARTAB,It helps us turn the final decree,decree,C,4,ABCD
+459,4,STARTABC,And understand what life has move,move,D,4,ABCD
+460,1,START,The painter with his brush of bay,bay,A,4,ABAC
+460,2,STARTA,Creates a world of color might,might,B,4,ABAC
+460,3,STARTAB,With strokes of pure artistic say,say,A,4,ABAC
+460,4,STARTABA,That make our spirits kite,kite,C,4,ABAC
+461,1,START,The city lights they ray,ray,A,4,AABC
+461,2,STARTA,Against the dark night may,may,A,4,AABC
+461,3,STARTAA,They symbolize the human nite,nite,B,4,AABC
+461,4,STARTAAB,That burns forever sea,sea,C,4,AABC
+462,1,START,The sailor sets his course by fray,fray,A,4,ABAB
+462,2,STARTA,Across the mighty rolling sight,sight,B,4,ABAB
+462,3,STARTAB,He dreams of home and yearns to jay,jay,A,4,ABAB
+462,4,STARTABA,While waves crash on the stormy flight,flight,B,4,ABAB
+463,1,START,When morning light appears so pay,pay,A,4,AABC
+463,2,STARTA,And birds begin their songs of pay,pay,A,4,AABC
+463,3,STARTAA,The world awakens fresh and sight,sight,B,4,AABC
+463,4,STARTAAB,With promises of things kite,kite,C,4,AABC
+464,1,START,The sun shines bright on this fine essay,essay,A,4,AABC
+464,2,STARTA,Making everything feel so hay,hay,A,4,AABC
+464,3,STARTAA,But when comes the dark of mite,mite,B,4,AABC
+464,4,STARTAAB,It changes everything I slight,slight,C,4,AABC
+465,1,START,The farmer in his fields of quay,quay,A,4,ABCD
+465,2,STARTA,Grows food for all to nite,nite,B,4,ABCD
+465,3,STARTAB,He works from dawn till day is be,be,C,4,ABCD
+465,4,STARTABC,To keep our tables excite,excite,D,4,ABCD
+466,1,START,I walked alone through fields of jay,jay,A,4,ABAC
+466,2,STARTA,Beneath the sky so wide and nite,nite,B,4,ABAC
+466,3,STARTAB,And felt the breeze upon my say,say,A,4,ABAC
+466,4,STARTABA,With nowhere left to run and light,light,C,4,ABAC
+467,1,START,The farmer in his fields of array,array,A,4,ABCD
+467,2,STARTA,Grows food for all to lite,lite,B,4,ABCD
+467,3,STARTAB,He works from dawn till day is guarantee,guarantee,C,4,ABCD
+467,4,STARTABC,To keep our tables right,right,D,4,ABCD
+468,1,START,I climbed the mountain lay,lay,A,4,ABCD
+468,2,STARTA,To see the world below bright,bright,B,4,ABCD
+468,3,STARTAB,The view was breathtaking glee,glee,C,4,ABCD
+468,4,STARTABC,A glorious golden referee,referee,D,4,ABCD
+469,1,START,The writer with his pen of say,say,A,4,ABAC
+469,2,STARTA,Fills pages with his quite,quite,B,4,ABAC
+469,3,STARTAB,Creating worlds for us to may,may,A,4,ABAC
+469,4,STARTABA,And stories to ignite,ignite,C,4,ABAC
+470,1,START,The birds they sing their way,way,A,4,AAAB
+470,2,STARTA,Their melodies so sweet and bay,bay,A,4,AAAB
+470,3,STARTAA,Their music makes our hearts way,way,A,4,AAAB
+470,4,STARTAAA,A symphony of kite,kite,B,4,AAAB
+471,1,START,The rain that falls so ray,ray,A,4,ABAC
+471,2,STARTA,From clouds up in the sky right,right,B,4,ABAC
+471,3,STARTAB,It waters earth and spray,spray,A,4,ABAC
+471,4,STARTABA,And makes the rivers tree,tree,C,4,ABAC
+472,1,START,The soldier stands so brave and spray,spray,A,4,ABCD
+472,2,STARTA,Protecting all he holds so mite,mite,B,4,ABCD
+472,3,STARTAB,He fights for freedom and for pee,pee,C,4,ABCD
+472,4,STARTABC,With courage that will never ignite,ignite,D,4,ABCD
+473,1,START,When winter winds begin to hay,hay,A,4,ABAC
+473,2,STARTA,The world turns cold and mite,mite,B,4,ABAC
+473,3,STARTAB,All nature seems to say,say,A,4,ABAC
+473,4,STARTABA,As stories yet flight,flight,C,4,ABAC
+474,1,START,In silent woods where darkness array,array,A,4,ABCA
+474,2,STARTA,The echo of a distant sound lite,lite,B,4,ABCA
+474,3,STARTAB,Through misty valleys all lite,lite,C,4,ABCA
+474,4,STARTABC,The lonely voice of night array,array,A,4,ABCA
+475,1,START,Inside the city lay,lay,A,4,ABAA
+475,2,STARTA,Where people hurry kite,kite,B,4,ABAA
+475,3,STARTAB,The life goes on and kay,kay,A,4,ABAA
+475,4,STARTABA,And dreams are born and ray,ray,A,4,ABAA
+476,1,START,The musician plays his song of stay,stay,A,4,ABAC
+476,2,STARTA,With melodies that make us excite,excite,B,4,ABAC
+476,3,STARTAB,His fingers dance and move with fray,fray,A,4,ABAC
+476,4,STARTABA,Creating magic we can blight,blight,C,4,ABAC
+477,1,START,The evening shadows lengthen pay,pay,A,4,ABCA
+477,2,STARTA,As daylight fades to white,white,B,4,ABCA
+477,3,STARTAB,The stars appear to guide our tee,tee,C,4,ABCA
+477,4,STARTABC,Through darkness of the tray,tray,A,4,ABCA
+478,1,START,The stars that twinkle gray,gray,A,4,ABAC
+478,2,STARTA,In darkness of the night bright,bright,B,4,ABAC
+478,3,STARTAB,They give us hope and fray,fray,A,4,ABAC
+478,4,STARTABA,And make our future glee,glee,C,4,ABAC
+479,1,START,Beauty is in everything we okay,okay,A,4,ABCD
+479,2,STARTA,If we but take the time to right,right,B,4,ABCD
+479,3,STARTAB,In nature and in art we knee,knee,C,4,ABCD
+479,4,STARTABC,And in the human glove,glove,D,4,ABCD
+480,1,START,Time is the river that keeps say,say,A,4,ABCD
+480,2,STARTA,Carrying us along its sight,sight,B,4,ABCD
+480,3,STARTAB,We cannot stop its steady quee,quee,C,4,ABCD
+480,4,STARTABC,We can but sing its thereof,thereof,D,4,ABCD
+481,1,START,The forest deep where shadows delay,delay,A,4,AABC
+481,2,STARTA,Holds secrets in its ancient quay,quay,A,4,AABC
+481,3,STARTAA,Where sunlight barely dares to spite,spite,B,4,AABC
+481,4,STARTAAB,And mysteries right,right,C,4,AABC
+482,1,START,Courage is the fire in our clay,clay,A,4,ABCD
+482,2,STARTA,That helps us face our write,write,B,4,ABCD
+482,3,STARTAB,It gives us power to overcome ye,ye,C,4,ABCD
+482,4,STARTABC,And never to glove,glove,D,4,ABCD
+483,1,START,The seasons they are changing pray,pray,A,4,ABCA
+483,2,STARTA,From winter into height,height,B,4,ABCA
+483,3,STARTAB,The cycle of the year brings glee,glee,C,4,ABCA
+483,4,STARTABC,The promise of new decay,decay,A,4,ABCA
+484,1,START,The city lights they shine so stay,stay,A,4,AABC
+484,2,STARTA,Against the dark night ray,ray,A,4,AABC
+484,3,STARTAA,While people hurry home to kite,kite,B,4,AABC
+484,4,STARTAAB,Their families waiting sight,sight,C,4,AABC
+485,1,START,Beauty is in everything we hay,hay,A,4,ABCD
+485,2,STARTA,If we but take the time to write,write,B,4,ABCD
+485,3,STARTAB,In nature and in art we pee,pee,C,4,ABCD
+485,4,STARTABC,And in the human dove,dove,D,4,ABCD
+486,1,START,Love is a feeling deep and pray,pray,A,4,ABCD
+486,2,STARTA,That grows with every passing fright,fright,B,4,ABCD
+486,3,STARTAB,It fills our hearts with joy and knee,knee,C,4,ABCD
+486,4,STARTABC,And makes our spirits above,above,D,4,ABCD
+487,1,START,The mountain peaks they clay,clay,A,4,AABC
+487,2,STARTA,Against the blue sky lay,lay,A,4,AABC
+487,3,STARTAA,They challenge us to climb them plight,plight,B,4,AABC
+487,4,STARTAAB,And touch the heavens key,key,C,4,AABC
+488,1,START,The teacher in her classroom tray,tray,A,4,ABCD
+488,2,STARTA,Imparts her wisdom to the write,write,B,4,ABCD
+488,3,STARTAB,She opens minds to all the me,me,C,4,ABCD
+488,4,STARTABC,And helps young people night,night,D,4,ABCD
+489,1,START,The city lights they stay,stay,A,4,AABC
+489,2,STARTA,Against the dark night lay,lay,A,4,AABC
+489,3,STARTAA,They symbolize the human height,height,B,4,AABC
+489,4,STARTAAB,That burns forever see,see,C,4,AABC
+490,1,START,The moonlight shines so bright tomay,tomay,A,4,AAAA
+490,2,STARTA,It guides us through the ray,ray,A,4,AAAA
+490,3,STARTAA,And fills our hearts with pure desay,desay,A,4,AAAA
+490,4,STARTAAA,Until the morning stay,stay,A,4,AAAA
+491,1,START,The dancer with her grace of way,way,A,4,ABAB
+491,2,STARTA,Moves lightly on the slight,slight,B,4,ABAB
+491,3,STARTAB,Her body tells a story kay,kay,A,4,ABAB
+491,4,STARTABA,That words cannot plight,plight,B,4,ABAB
+492,1,START,The builder with his tools of gray,gray,A,4,ABCB
+492,2,STARTA,Creates the structures we call right,right,B,4,ABCB
+492,3,STARTAB,He builds the homes where we can ye,ye,C,4,ABCB
+492,4,STARTABC,And makes our cities right,right,B,4,ABCB
+493,1,START,The ocean waves they crash and quay,quay,A,4,AABB
+493,2,STARTA,Against the rocky shore they spray,spray,A,4,AABB
+493,3,STARTAA,Their rhythm is a timeless tonight,tonight,B,4,AABB
+493,4,STARTAAB,That I will always tonight,tonight,B,4,AABB
+494,1,START,Upon the ocean stay,stay,A,4,ABAA
+494,2,STARTA,Where waves begin to write,write,B,4,ABAA
+494,3,STARTAB,The sailor finds his say,say,A,4,ABAA
+494,4,STARTABA,And sets his course for may,may,A,4,ABAA
+495,1,START,The moon that glows so delay,delay,A,4,ABAC
+495,2,STARTA,In midnight sky above spite,spite,B,4,ABAC
+495,3,STARTAB,It guides us through the tray,tray,A,4,ABAC
+495,4,STARTABA,And fills our hearts with pee,pee,C,4,ABAC
+496,1,START,The mountain peaks they say,say,A,4,AABC
+496,2,STARTA,Against the blue sky spray,spray,A,4,AABC
+496,3,STARTAA,They challenge us to climb them spite,spite,B,4,AABC
+496,4,STARTAAB,And touch the heavens tree,tree,C,4,AABC
+497,1,START,In morning light the birds say,say,A,4,ABCD
+497,2,STARTA,Their melodies so sweet and light,light,B,4,ABCD
+497,3,STARTAB,They welcome in the brand glee,glee,C,4,ABCD
+497,4,STARTABC,With songs that can't be ignite,ignite,D,4,ABCD
+498,1,START,The painter takes his brush in say,say,A,4,ABCB
+498,2,STARTA,And creates a world of fight,fight,B,4,ABCB
+498,3,STARTAB,With colors bright and shades of knee,knee,C,4,ABCB
+498,4,STARTABC,That fill our souls with tight,tight,B,4,ABCB
+499,1,START,Time is the river that keeps stay,stay,A,4,ABCD
+499,2,STARTA,Carrying us along its lite,lite,B,4,ABCD
+499,3,STARTAB,We cannot stop its steady flee,flee,C,4,ABCD
+499,4,STARTABC,We can but sing its love,love,D,4,ABCD
+500,1,START,Across the sea where ships do tray,tray,A,4,ABCA
+500,2,STARTA,The horizon calls to lite,lite,B,4,ABCA
+500,3,STARTAB,Adventures that await for height,height,C,4,ABCA
+500,4,STARTABC,The brave who dare to ray,ray,A,4,ABCA
+501,1,START,The rain that falls so tray,tray,A,4,ABAC
+501,2,STARTA,From clouds up in the sky fright,fright,B,4,ABAC
+501,3,STARTAB,It waters earth and way,way,A,4,ABAC
+501,4,STARTABA,And makes the rivers tee,tee,C,4,ABAC
+502,1,START,The mountain peak so high and fray,fray,A,4,AABC
+502,2,STARTA,Touches clouds up in the play,play,A,4,AABC
+502,3,STARTAA,Where eagles soar and freely rite,rite,B,4,AABC
+502,4,STARTAAB,In skies so vast and might,might,C,4,AABC
+503,1,START,The river keeps on flowing say,say,A,4,ABCA
+503,2,STARTA,From mountain to the delight,delight,B,4,ABCA
+503,3,STARTAB,It carries life and stories tea,tea,C,4,ABCA
+503,4,STARTABC,In waters ever essay,essay,A,4,ABCA
+504,1,START,The soldier stands so brave and fray,fray,A,4,ABCD
+504,2,STARTA,Protecting all he holds so quite,quite,B,4,ABCD
+504,3,STARTAB,He fights for freedom and for referee,referee,C,4,ABCD
+504,4,STARTABC,With courage that will never blight,blight,D,4,ABCD
+505,1,START,In gardens where the flowers gay,gay,A,4,AABC
+505,2,STARTA,I spend my sweetest lay,lay,A,4,AABC
+505,3,STARTAA,Watching bees and butterflies white,white,B,4,AABC
+505,4,STARTAAB,Dancing beneath clear summer flight,flight,C,4,AABC
+506,1,START,The sun shines bright on this fine ray,ray,A,4,AABC
+506,2,STARTA,Making everything feel so betray,betray,A,4,AABC
+506,3,STARTAA,But when comes the dark of rite,rite,B,4,AABC
+506,4,STARTAAB,It changes everything I knight,knight,C,4,AABC
+507,1,START,The seasons they are changing jay,jay,A,4,ABCA
+507,2,STARTA,From winter into height,height,B,4,ABCA
+507,3,STARTAB,The cycle of the year brings glee,glee,C,4,ABCA
+507,4,STARTABC,The promise of new say,say,A,4,ABCA
+508,1,START,Within the heart where love does way,way,A,4,ABCA
+508,2,STARTA,A flame begins to grow white,white,B,4,ABCA
+508,3,STARTAB,And through the years it still night,night,C,4,ABCA
+508,4,STARTABC,The passion that we say,say,A,4,ABCA
+509,1,START,Life is a journey we all play,play,A,4,ABCD
+509,2,STARTA,With challenges we must mite,mite,B,4,ABCD
+509,3,STARTAB,And lessons that we need to be,be,C,4,ABCD
+509,4,STARTABC,Before our time is belove,belove,D,4,ABCD
+510,1,START,I wonder at the starry ray,ray,A,4,ABCD
+510,2,STARTA,And all the mysteries it light,light,B,4,ABCD
+510,3,STARTAB,The questions that we dare to three,three,C,4,ABCD
+510,4,STARTABC,The answers we may never move,move,D,4,ABCD
+511,1,START,Around the world where cultures decay,decay,A,4,ABCA
+511,2,STARTA,The people live their lives tight,tight,B,4,ABCA
+511,3,STARTAB,With different ways that still quite,quite,C,4,ABCA
+511,4,STARTABC,The human spirit bay,bay,A,4,ABCA
+512,1,START,The farmer in his fields of gray,gray,A,4,ABCD
+512,2,STARTA,Grows food for all to slight,slight,B,4,ABCD
+512,3,STARTAB,He works from dawn till day is flee,flee,C,4,ABCD
+512,4,STARTABC,To keep our tables lite,lite,D,4,ABCD
+513,1,START,The farmer in his fields of stay,stay,A,4,ABCB
+513,2,STARTA,Grows food for all to light,light,B,4,ABCB
+513,3,STARTAB,He works from dawn till day is three,three,C,4,ABCB
+513,4,STARTABC,To keep our tables delight,delight,B,4,ABCB
+514,1,START,Throughout the years where time does stay,stay,A,4,ABCA
+514,2,STARTA,The memories remain rite,rite,B,4,ABCA
+514,3,STARTAB,Of moments that will always delight,delight,C,4,ABCA
+514,4,STARTABC,The joy and also clay,clay,A,4,ABCA
+515,1,START,The morning sun arises clay,clay,A,4,ABCA
+515,2,STARTA,And paints the sky with plight,plight,B,4,ABCA
+515,3,STARTAB,The world awakens from its pee,pee,C,4,ABCA
+515,4,STARTABC,To greet the brand new pay,pay,A,4,ABCA
+516,1,START,In silent woods where darkness lay,lay,A,4,ABCA
+516,2,STARTA,The echo of a distant sound delight,delight,B,4,ABCA
+516,3,STARTAB,Through misty valleys all lite,lite,C,4,ABCA
+516,4,STARTABC,The lonely voice of night ray,ray,A,4,ABCA
+517,1,START,I see the world in shades of lite,lite,A,4,ABCC
+517,2,STARTA,Where everything burns oh so kite,kite,B,4,ABCC
+517,3,STARTAB,The stars above shine in the fight,fight,C,4,ABCC
+517,4,STARTABC,And give us their eternal slight,slight,C,4,ABCC
+518,1,START,Above the clouds where angels tray,tray,A,4,ABBA
+518,2,STARTA,The heavens open wide tonight,tonight,B,4,ABBA
+518,3,STARTAB,And all our dreams come blight,blight,B,4,ABBA
+518,4,STARTABB,Where hope will never pay,pay,A,4,ABBA
+519,1,START,The rain falls soft upon the ye,ye,A,4,ABCD
+519,2,STARTA,It waters all the earth so glee,glee,B,4,ABCD
+519,3,STARTAB,It gives new life to everything wee,wee,C,4,ABCD
+519,4,STARTABC,And shows what nature's decree,decree,D,4,ABCD
+520,1,START,The flowers bloom in display,display,A,4,AAAB
+520,2,STARTA,Their colors bright and say,say,A,4,AAAB
+520,3,STARTAA,Their fragrance fills the delay,delay,A,4,AAAB
+520,4,STARTAAA,A beautiful spring nite,nite,B,4,AAAB
+521,1,START,I sat beneath the willow delay,delay,A,4,ABCD
+521,2,STARTA,And listened to the nite,nite,B,4,ABCD
+521,3,STARTAB,The leaves they whispered secrets lee,lee,C,4,ABCD
+521,4,STARTABC,Of days that used to key,key,D,4,ABCD
+522,1,START,The flowers bloom in way,way,A,4,AAAB
+522,2,STARTA,Their colors bright and lay,lay,A,4,AAAB
+522,3,STARTAA,Their fragrance fills the okay,okay,A,4,AAAB
+522,4,STARTAAA,A beautiful spring slight,slight,B,4,AAAB
+523,1,START,The wind it keeps on blowing stay,stay,A,4,ABCA
+523,2,STARTA,Across the land and might,might,B,4,ABCA
+523,3,STARTAB,It shapes the earth and carries be,be,C,4,ABCA
+523,4,STARTABC,The seeds of life to quay,quay,A,4,ABCA
+524,1,START,The forest trees they way,way,A,4,AABC
+524,2,STARTA,Their branches reaching decay,decay,A,4,AABC
+524,3,STARTAA,They stand through generations knight,knight,B,4,AABC
+524,4,STARTAAB,Their wisdom ever sea,sea,C,4,AABC
+525,1,START,Beneath the starry ray,ray,A,4,ABAA
+525,2,STARTA,Where dreams begin to right,right,B,4,ABAA
+525,3,STARTAB,The night is calm and display,display,A,4,ABAA
+525,4,STARTABA,And all our worries gray,gray,A,4,ABAA
+526,1,START,The stars appear in evening nay,nay,A,4,ABAB
+526,2,STARTA,When daytime fades from delight,delight,B,4,ABAB
+526,3,STARTAB,They sparkle with their silver spray,spray,A,4,ABAB
+526,4,STARTABA,And dreams begin to might,might,B,4,ABAB
+527,1,START,The river keeps on flowing way,way,A,4,ABCA
+527,2,STARTA,From mountain to the delight,delight,B,4,ABCA
+527,3,STARTAB,It carries life and stories decree,decree,C,4,ABCA
+527,4,STARTABC,In waters ever may,may,A,4,ABCA
+528,1,START,The painter with his brush of gray,gray,A,4,ABAB
+528,2,STARTA,Creates a world of color night,night,B,4,ABAB
+528,3,STARTAB,With strokes of pure artistic gay,gay,A,4,ABAB
+528,4,STARTABA,That make our spirits might,might,B,4,ABAB
+529,1,START,The children laugh and hay,hay,A,4,AAAB
+529,2,STARTA,Their happiness so pure and lay,lay,A,4,AAAB
+529,3,STARTAA,Their innocence so sweet and quay,quay,A,4,AAAB
+529,4,STARTAAA,A joy that will tight,tight,B,4,AAAB
+530,1,START,The traveler with his map of bay,bay,A,4,ABAC
+530,2,STARTA,Seeks adventures far and ignite,ignite,B,4,ABAC
+530,3,STARTAB,He journeys to new places gay,gay,A,4,ABAC
+530,4,STARTABA,That few have ever nite,nite,C,4,ABAC
+531,1,START,I see the world in shades of sight,sight,A,4,ABAA
+531,2,STARTA,Where everything burns oh so spite,spite,B,4,ABAA
+531,3,STARTAB,The stars above shine in the might,might,A,4,ABAA
+531,4,STARTABA,And give us their eternal night,night,A,4,ABAA
+532,1,START,Between the lines where meaning bay,bay,A,4,ABBA
+532,2,STARTA,The truth begins to show knight,knight,B,4,ABBA
+532,3,STARTAB,And understanding starts to sight,sight,B,4,ABBA
+532,4,STARTABB,What writers want to delay,delay,A,4,ABBA
+533,1,START,The sun that shines so tray,tray,A,4,ABAC
+533,2,STARTA,Upon the world below flight,flight,B,4,ABAC
+533,3,STARTAB,It gives us light and nay,nay,A,4,ABAC
+533,4,STARTABA,And makes the flowers free,free,C,4,ABAC
+534,1,START,Friendship is a bond so quay,quay,A,4,ABCD
+534,2,STARTA,That stands the test of night,night,B,4,ABCD
+534,3,STARTAB,Through good times and the pee,pee,C,4,ABCD
+534,4,STARTABC,It helps our hearts to belove,belove,D,4,ABCD
+535,1,START,The flowers bloom in pay,pay,A,4,AAAB
+535,2,STARTA,Their colors bright and way,way,A,4,AAAB
+535,3,STARTAA,Their fragrance fills the spray,spray,A,4,AAAB
+535,4,STARTAAA,A beautiful spring plight,plight,B,4,AAAB
+536,1,START,I walked alone through fields of tray,tray,A,4,ABAC
+536,2,STARTA,Beneath the sky so wide and delight,delight,B,4,ABAC
+536,3,STARTAB,And felt the breeze upon my way,way,A,4,ABAC
+536,4,STARTABA,With nowhere left to run and spite,spite,C,4,ABAC
+537,1,START,I climbed the mountain pay,pay,A,4,ABCD
+537,2,STARTA,To see the world below spite,spite,B,4,ABCD
+537,3,STARTAB,The view was breathtaking be,be,C,4,ABCD
+537,4,STARTABC,A glorious golden degree,degree,D,4,ABCD
+538,1,START,Across the sea where ships do gray,gray,A,4,ABCA
+538,2,STARTA,The horizon calls to tonight,tonight,B,4,ABCA
+538,3,STARTAB,Adventures that await for quite,quite,C,4,ABCA
+538,4,STARTABC,The brave who dare to way,way,A,4,ABCA
+539,1,START,In silent woods where darkness quay,quay,A,4,ABCA
+539,2,STARTA,The echo of a distant sound blight,blight,B,4,ABCA
+539,3,STARTAB,Through misty valleys all nite,nite,C,4,ABCA
+539,4,STARTABC,The lonely voice of night display,display,A,4,ABCA
+540,1,START,The snow falls soft and lay,lay,A,4,AAAB
+540,2,STARTA,Covering all the land with may,may,A,4,AAAB
+540,3,STARTAA,Making everything look pray,pray,A,4,AAAB
+540,4,STARTAAA,A peaceful winter excite,excite,B,4,AAAB
+541,1,START,I stood beside the river display,display,A,4,ABCD
+541,2,STARTA,And watched the water quite,quite,B,4,ABCD
+541,3,STARTAB,It flowed so calm and steady decree,decree,C,4,ABCD
+541,4,STARTABC,Its current strong and tee,tee,D,4,ABCD
+542,1,START,The morning sun arises jay,jay,A,4,ABCA
+542,2,STARTA,And paints the sky with tight,tight,B,4,ABCA
+542,3,STARTAB,The world awakens from its jee,jee,C,4,ABCA
+542,4,STARTABC,To greet the brand new clay,clay,A,4,ABCA
+543,1,START,The stars appear in evening clay,clay,A,4,ABAC
+543,2,STARTA,When daytime fades from ignite,ignite,B,4,ABAC
+543,3,STARTAB,They sparkle with their silver quay,quay,A,4,ABAC
+543,4,STARTABA,And dreams begin to right,right,C,4,ABAC
+544,1,START,Beyond the hills where eagles hay,hay,A,4,ABBA
+544,2,STARTA,The ancient mountains stand fight,fight,B,4,ABBA
+544,3,STARTAB,With wisdom written in the might,might,B,4,ABBA
+544,4,STARTABB,Where time itself has display,display,A,4,ABBA
+545,1,START,The ancient castle stands so array,array,A,4,AABC
+545,2,STARTA,Upon the hill it looks so tray,tray,A,4,AABC
+545,3,STARTAA,With memories of days gone rite,rite,B,4,AABC
+545,4,STARTAAB,And tales that still are spite,spite,C,4,AABC
+546,1,START,I see the world in shades of nite,nite,A,4,ABCD
+546,2,STARTA,Where everything burns oh so spite,spite,B,4,ABCD
+546,3,STARTAB,The stars above shine in the kite,kite,C,4,ABCD
+546,4,STARTABC,And give us their eternal delight,delight,D,4,ABCD
+547,1,START,The flowers bloom in quay,quay,A,4,AAAB
+547,2,STARTA,Their colors bright and clay,clay,A,4,AAAB
+547,3,STARTAA,Their fragrance fills the essay,essay,A,4,AAAB
+547,4,STARTAAA,A beautiful spring mite,mite,B,4,AAAB
+548,1,START,Beneath the starry say,say,A,4,ABAA
+548,2,STARTA,Where dreams begin to plight,plight,B,4,ABAA
+548,3,STARTAB,The night is calm and tray,tray,A,4,ABAA
+548,4,STARTABA,And all our worries betray,betray,A,4,ABAA
+549,1,START,The rain that falls so clay,clay,A,4,ABAC
+549,2,STARTA,From clouds up in the sky might,might,B,4,ABAC
+549,3,STARTAB,It waters earth and clay,clay,A,4,ABAC
+549,4,STARTABA,And makes the rivers tee,tee,C,4,ABAC
+550,1,START,The teacher in her classroom pray,pray,A,4,ABCD
+550,2,STARTA,Imparts her wisdom to the nite,nite,B,4,ABCD
+550,3,STARTAB,She opens minds to all the ye,ye,C,4,ABCD
+550,4,STARTABC,And helps young people right,right,D,4,ABCD
+551,1,START,Beauty is in everything we way,way,A,4,ABCD
+551,2,STARTA,If we but take the time to plight,plight,B,4,ABCD
+551,3,STARTAB,In nature and in art we decree,decree,C,4,ABCD
+551,4,STARTABC,And in the human reprove,reprove,D,4,ABCD
+552,1,START,The dancer with her grace of pay,pay,A,4,ABAC
+552,2,STARTA,Moves lightly on the height,height,B,4,ABAC
+552,3,STARTAB,Her body tells a story delay,delay,A,4,ABAC
+552,4,STARTABA,That words cannot write,write,C,4,ABAC
+553,1,START,The builder with his tools of lay,lay,A,4,ABCB
+553,2,STARTA,Creates the structures we call fight,fight,B,4,ABCB
+553,3,STARTAB,He builds the homes where we can jee,jee,C,4,ABCB
+553,4,STARTABC,And makes our cities height,height,B,4,ABCB
+554,1,START,Life is a journey we all fray,fray,A,4,ABCD
+554,2,STARTA,With challenges we must delight,delight,B,4,ABCD
+554,3,STARTAB,And lessons that we need to key,key,C,4,ABCD
+554,4,STARTABC,Before our time is love,love,D,4,ABCD
+555,1,START,The writer with his pen of ray,ray,A,4,ABAC
+555,2,STARTA,Fills pages with his ignite,ignite,B,4,ABAC
+555,3,STARTAB,Creating worlds for us to lay,lay,A,4,ABAC
+555,4,STARTABA,And stories to excite,excite,C,4,ABAC
+556,1,START,Around the world where cultures play,play,A,4,ABCA
+556,2,STARTA,The people live their lives night,night,B,4,ABCA
+556,3,STARTAB,With different ways that still nite,nite,C,4,ABCA
+556,4,STARTABC,The human spirit tray,tray,A,4,ABCA
+557,1,START,I stood beside the river may,may,A,4,ABCD
+557,2,STARTA,And watched the water kite,kite,B,4,ABCD
+557,3,STARTAB,It flowed so calm and steady wee,wee,C,4,ABCD
+557,4,STARTABC,Its current strong and agree,agree,D,4,ABCD
+558,1,START,The writer sits with pen in say,say,A,4,ABCB
+558,2,STARTA,And writes of love and fright,fright,B,4,ABCB
+558,3,STARTAB,He tells of life and all its tree,tree,C,4,ABCB
+558,4,STARTABC,In words that make us bright,bright,B,4,ABCB
+559,1,START,In silent woods where darkness ray,ray,A,4,ABCA
+559,2,STARTA,The echo of a distant sound white,white,B,4,ABCA
+559,3,STARTAB,Through misty valleys all quite,quite,C,4,ABCA
+559,4,STARTABC,The lonely voice of night delay,delay,A,4,ABCA
+560,1,START,The farmer in his fields of may,may,A,4,ABCB
+560,2,STARTA,Grows food for all to fight,fight,B,4,ABCB
+560,3,STARTAB,He works from dawn till day is flee,flee,C,4,ABCB
+560,4,STARTABC,To keep our tables might,might,B,4,ABCB
+561,1,START,The river keeps on flowing essay,essay,A,4,ABCA
+561,2,STARTA,From mountain to the delight,delight,B,4,ABCA
+561,3,STARTAB,It carries life and stories knee,knee,C,4,ABCA
+561,4,STARTABC,In waters ever pray,pray,A,4,ABCA
+562,1,START,Upon the ocean gay,gay,A,4,ABAA
+562,2,STARTA,Where waves begin to slight,slight,B,4,ABAA
+562,3,STARTAB,The sailor finds his tray,tray,A,4,ABAA
+562,4,STARTABA,And sets his course for kay,kay,A,4,ABAA
+563,1,START,The morning sun arises stay,stay,A,4,ABCA
+563,2,STARTA,And paints the sky with write,write,B,4,ABCA
+563,3,STARTAB,The world awakens from its be,be,C,4,ABCA
+563,4,STARTABC,To greet the brand new way,way,A,4,ABCA
+564,1,START,The sailor sets his course by day,day,A,4,ABAC
+564,2,STARTA,Across the mighty rolling slight,slight,B,4,ABAC
+564,3,STARTAB,He dreams of home and yearns to stay,stay,A,4,ABAC
+564,4,STARTABA,While waves crash on the stormy nite,nite,C,4,ABAC
+565,1,START,The ocean waves they crash and say,say,A,4,AABB
+565,2,STARTA,Against the rocky shore they pay,pay,A,4,AABB
+565,3,STARTAA,Their rhythm is a timeless fright,fright,B,4,AABB
+565,4,STARTAAB,That I will always might,might,B,4,AABB
+566,1,START,The farmer in his fields of gay,gay,A,4,ABCB
+566,2,STARTA,Grows food for all to blight,blight,B,4,ABCB
+566,3,STARTAB,He works from dawn till day is flee,flee,C,4,ABCB
+566,4,STARTABC,To keep our tables fright,fright,B,4,ABCB
+567,1,START,Across the sea where ships do kay,kay,A,4,ABCA
+567,2,STARTA,The horizon calls to right,right,B,4,ABCA
+567,3,STARTAB,Adventures that await for lite,lite,C,4,ABCA
+567,4,STARTABC,The brave who dare to gray,gray,A,4,ABCA
+568,1,START,The birds they sing their array,array,A,4,AAAB
+568,2,STARTA,Their melodies so sweet and jay,jay,A,4,AAAB
+568,3,STARTAA,Their music makes our hearts way,way,A,4,AAAB
+568,4,STARTAAA,A symphony of plight,plight,B,4,AAAB
+569,1,START,I wandered through the forest play,play,A,4,ABCD
+569,2,STARTA,Among the ancient bright,bright,B,4,ABCD
+569,3,STARTAB,The sunlight filtered through guarantee,guarantee,C,4,ABCD
+569,4,STARTABC,Creating patterns pee,pee,D,4,ABCD
+570,1,START,The fire burns so warm and guitar,guitar,A,4,ABAA
+570,2,STARTA,It lights the darkness of the are,are,B,4,ABAA
+570,3,STARTAB,It gives us comfort in the mar,mar,A,4,ABAA
+570,4,STARTABA,And makes the night less afar,afar,A,4,ABAA
+571,1,START,Above the clouds where angels day,day,A,4,ABCA
+571,2,STARTA,The heavens open wide mite,mite,B,4,ABCA
+571,3,STARTAB,And all our dreams come flight,flight,C,4,ABCA
+571,4,STARTABC,Where hope will never pay,pay,A,4,ABCA
+572,1,START,The fire burns so warm and cigar,cigar,A,4,AAAA
+572,2,STARTA,It lights the darkness of the cigar,cigar,A,4,AAAA
+572,3,STARTAA,It gives us comfort in the czar,czar,A,4,AAAA
+572,4,STARTAAA,And makes the night less cigar,cigar,A,4,AAAA
+573,1,START,The wind it keeps on blowing clay,clay,A,4,ABCA
+573,2,STARTA,Across the land and bright,bright,B,4,ABCA
+573,3,STARTAB,It shapes the earth and carries guarantee,guarantee,C,4,ABCA
+573,4,STARTABC,The seeds of life to gay,gay,A,4,ABCA
+574,1,START,The forest trees they betray,betray,A,4,AABC
+574,2,STARTA,Their branches reaching say,say,A,4,AABC
+574,3,STARTAA,They stand through generations fright,fright,B,4,AABC
+574,4,STARTAAB,Their wisdom ever free,free,C,4,AABC
+575,1,START,In morning light the birds quay,quay,A,4,ABCB
+575,2,STARTA,Their melodies so sweet and slight,slight,B,4,ABCB
+575,3,STARTAB,They welcome in the brand three,three,C,4,ABCB
+575,4,STARTABC,With songs that can't be slight,slight,B,4,ABCB
+576,1,START,The ancient castle stands so lay,lay,A,4,AABC
+576,2,STARTA,Upon the hill it looks so fray,fray,A,4,AABC
+576,3,STARTAA,With memories of days gone right,right,B,4,AABC
+576,4,STARTAAB,And tales that still are kite,kite,C,4,AABC
+577,1,START,The painter with his brush of ray,ray,A,4,ABAC
+577,2,STARTA,Creates a world of color kite,kite,B,4,ABAC
+577,3,STARTAB,With strokes of pure artistic may,may,A,4,ABAC
+577,4,STARTABA,That make our spirits mite,mite,C,4,ABAC
+578,1,START,I see the world in shades of fight,fight,A,4,AAAA
+578,2,STARTA,Where everything burns oh so height,height,A,4,AAAA
+578,3,STARTAA,The stars above shine in the plight,plight,A,4,AAAA
+578,4,STARTAAA,And give us their eternal night,night,A,4,AAAA
+579,1,START,In morning light the birds may,may,A,4,ABCB
+579,2,STARTA,Their melodies so sweet and right,right,B,4,ABCB
+579,3,STARTAB,They welcome in the brand flee,flee,C,4,ABCB
+579,4,STARTABC,With songs that can't be tonight,tonight,B,4,ABCB
+580,1,START,The forest deep where shadows array,array,A,4,AABC
+580,2,STARTA,Holds secrets in its ancient ray,ray,A,4,AABC
+580,3,STARTAA,Where sunlight barely dares to plight,plight,B,4,AABC
+580,4,STARTAAB,And mysteries kite,kite,C,4,AABC
+581,1,START,Beneath the starry quay,quay,A,4,ABAA
+581,2,STARTA,Where dreams begin to plight,plight,B,4,ABAA
+581,3,STARTAB,The night is calm and tray,tray,A,4,ABAA
+581,4,STARTABA,And all our worries decay,decay,A,4,ABAA
+582,1,START,The river flows so wide and pray,pray,A,4,ABCD
+582,2,STARTA,Past mountains high for all to lite,lite,B,4,ABCD
+582,3,STARTAB,It carries dreams from you to be,be,C,4,ABCD
+582,4,STARTABC,And washes all our cares lite,lite,D,4,ABCD
+583,1,START,When morning light appears so day,day,A,4,AABB
+583,2,STARTA,And birds begin their songs of tray,tray,A,4,AABB
+583,3,STARTAA,The world awakens fresh and knight,knight,B,4,AABB
+583,4,STARTAAB,With promises of things flight,flight,B,4,AABB
+584,1,START,The city lights they shine so lay,lay,A,4,AABB
+584,2,STARTA,Against the dark night bay,bay,A,4,AABB
+584,3,STARTAA,While people hurry home to flight,flight,B,4,AABB
+584,4,STARTAAB,Their families waiting right,right,B,4,AABB
+585,1,START,Time is the river that keeps pray,pray,A,4,ABCD
+585,2,STARTA,Carrying us along its delight,delight,B,4,ABCD
+585,3,STARTAB,We cannot stop its steady lee,lee,C,4,ABCD
+585,4,STARTABC,We can but sing its move,move,D,4,ABCD
+586,1,START,The ocean waves they crash and kay,kay,A,4,AABC
+586,2,STARTA,Against the rocky shore they quay,quay,A,4,AABC
+586,3,STARTAA,Their rhythm is a timeless white,white,B,4,AABC
+586,4,STARTAAB,That I will always excite,excite,C,4,AABC
+587,1,START,I stood beside the river tray,tray,A,4,ABCD
+587,2,STARTA,And watched the water night,night,B,4,ABCD
+587,3,STARTAB,It flowed so calm and steady see,see,C,4,ABCD
+587,4,STARTABC,Its current strong and key,key,D,4,ABCD
+588,1,START,The ancient castle stands so gray,gray,A,4,AABB
+588,2,STARTA,Upon the hill it looks so decay,decay,A,4,AABB
+588,3,STARTAA,With memories of days gone blight,blight,B,4,AABB
+588,4,STARTAAB,And tales that still are slight,slight,B,4,AABB
+589,1,START,The dancer with her grace of essay,essay,A,4,ABAB
+589,2,STARTA,Moves lightly on the tight,tight,B,4,ABAB
+589,3,STARTAB,Her body tells a story jay,jay,A,4,ABAB
+589,4,STARTABA,That words cannot night,night,B,4,ABAB
+590,1,START,Life is a journey we all spray,spray,A,4,ABCD
+590,2,STARTA,With challenges we must plight,plight,B,4,ABCD
+590,3,STARTAB,And lessons that we need to ye,ye,C,4,ABCD
+590,4,STARTABC,Before our time is improve,improve,D,4,ABCD
+591,1,START,Within the heart where love does clay,clay,A,4,ABCA
+591,2,STARTA,A flame begins to grow mite,mite,B,4,ABCA
+591,3,STARTAB,And through the years it still blight,blight,C,4,ABCA
+591,4,STARTABC,The passion that we gay,gay,A,4,ABCA
+592,1,START,Beneath the starry essay,essay,A,4,ABAA
+592,2,STARTA,Where dreams begin to height,height,B,4,ABAA
+592,3,STARTAB,The night is calm and lay,lay,A,4,ABAA
+592,4,STARTABA,And all our worries array,array,A,4,ABAA
+593,1,START,The rain that falls so hay,hay,A,4,ABAC
+593,2,STARTA,From clouds up in the sky quite,quite,B,4,ABAC
+593,3,STARTAB,It waters earth and stay,stay,A,4,ABAC
+593,4,STARTABA,And makes the rivers ye,ye,C,4,ABAC
+594,1,START,Between the lines where meaning say,say,A,4,ABBA
+594,2,STARTA,The truth begins to show tonight,tonight,B,4,ABBA
+594,3,STARTAB,And understanding starts to light,light,B,4,ABBA
+594,4,STARTABB,What writers want to way,way,A,4,ABBA
+595,1,START,The stars appear in evening quay,quay,A,4,ABAC
+595,2,STARTA,When daytime fades from lite,lite,B,4,ABAC
+595,3,STARTAB,They sparkle with their silver gray,gray,A,4,ABAC
+595,4,STARTABA,And dreams begin to lite,lite,C,4,ABAC
+596,1,START,Between the lines where meaning lay,lay,A,4,ABBA
+596,2,STARTA,The truth begins to show knight,knight,B,4,ABBA
+596,3,STARTAB,And understanding starts to tight,tight,B,4,ABBA
+596,4,STARTABB,What writers want to tray,tray,A,4,ABBA
+597,1,START,Inside the city way,way,A,4,ABAA
+597,2,STARTA,Where people hurry white,white,B,4,ABAA
+597,3,STARTAB,The life goes on and okay,okay,A,4,ABAA
+597,4,STARTABA,And dreams are born and play,play,A,4,ABAA
+598,1,START,I wandered through the forest nay,nay,A,4,ABCD
+598,2,STARTA,Among the ancient nite,nite,B,4,ABCD
+598,3,STARTAB,The sunlight filtered through free,free,C,4,ABCD
+598,4,STARTABC,Creating patterns knee,knee,D,4,ABCD
+599,1,START,I stood beside the river play,play,A,4,ABCD
+599,2,STARTA,And watched the water fight,fight,B,4,ABCD
+599,3,STARTAB,It flowed so calm and steady tee,tee,C,4,ABCD
+599,4,STARTABC,Its current strong and wee,wee,D,4,ABCD
+600,1,START,When morning light appears so pay,pay,A,4,AABC
+600,2,STARTA,And birds begin their songs of essay,essay,A,4,AABC
+600,3,STARTAA,The world awakens fresh and spite,spite,B,4,AABC
+600,4,STARTAAB,With promises of things height,height,C,4,AABC
+601,1,START,The scientist with mind of stay,stay,A,4,ABCD
+601,2,STARTA,Seeks answers to the great bright,bright,B,4,ABCD
+601,3,STARTAB,He studies nature and its quee,quee,C,4,ABCD
+601,4,STARTABC,To help our world ignite,ignite,D,4,ABCD
+602,1,START,Inside the mind where thoughts do hay,hay,A,4,ABCA
+602,2,STARTA,Ideas start to form mite,mite,B,4,ABCA
+602,3,STARTAB,Creative sparks that soon will tonight,tonight,C,4,ABCA
+602,4,STARTABC,The mental ray,ray,A,4,ABCA
+603,1,START,The sun shines bright on this fine clay,clay,A,4,AABB
+603,2,STARTA,Making everything feel so lay,lay,A,4,AABB
+603,3,STARTAA,But when comes the dark of tonight,tonight,B,4,AABB
+603,4,STARTAAB,It changes everything I sight,sight,B,4,AABB
+604,1,START,I sat beneath the willow stay,stay,A,4,ABCD
+604,2,STARTA,And listened to the tight,tight,B,4,ABCD
+604,3,STARTAB,The leaves they whispered secrets three,three,C,4,ABCD
+604,4,STARTABC,Of days that used to pee,pee,D,4,ABCD
+605,1,START,I stood beside the river clay,clay,A,4,ABCD
+605,2,STARTA,And watched the water bright,bright,B,4,ABCD
+605,3,STARTAB,It flowed so calm and steady be,be,C,4,ABCD
+605,4,STARTABC,Its current strong and referee,referee,D,4,ABCD
+606,1,START,The flowers bloom in hay,hay,A,4,AAAB
+606,2,STARTA,Their colors bright and fray,fray,A,4,AAAB
+606,3,STARTAA,Their fragrance fills the quay,quay,A,4,AAAB
+606,4,STARTAAA,A beautiful spring white,white,B,4,AAAB
+607,1,START,The children laugh and fray,fray,A,4,AAAB
+607,2,STARTA,Their happiness so pure and okay,okay,A,4,AAAB
+607,3,STARTAA,Their innocence so sweet and clay,clay,A,4,AAAB
+607,4,STARTAAA,A joy that will quite,quite,B,4,AAAB
+608,1,START,I stood beside the river spray,spray,A,4,ABCD
+608,2,STARTA,And watched the water excite,excite,B,4,ABCD
+608,3,STARTAB,It flowed so calm and steady sea,sea,C,4,ABCD
+608,4,STARTABC,Its current strong and sea,sea,D,4,ABCD
+609,1,START,Throughout the years where time does tray,tray,A,4,ABCA
+609,2,STARTA,The memories remain write,write,B,4,ABCA
+609,3,STARTAB,Of moments that will always might,might,C,4,ABCA
+609,4,STARTABC,The joy and also kay,kay,A,4,ABCA
+610,1,START,The mountain peaks they clay,clay,A,4,AABC
+610,2,STARTA,Against the blue sky nay,nay,A,4,AABC
+610,3,STARTAA,They challenge us to climb them knight,knight,B,4,AABC
+610,4,STARTAAB,And touch the heavens key,key,C,4,AABC
+611,1,START,The wind that blows so may,may,A,4,ABAC
+611,2,STARTA,Through valleys deep and wide knight,knight,B,4,ABAC
+611,3,STARTAB,It carries seeds and may,may,A,4,ABAC
+611,4,STARTABA,And makes the trees all tree,tree,C,4,ABAC
+612,1,START,The city lights they clay,clay,A,4,AABC
+612,2,STARTA,Against the dark night tray,tray,A,4,AABC
+612,3,STARTAA,They symbolize the human lite,lite,B,4,AABC
+612,4,STARTAAB,That burns forever free,free,C,4,AABC
+613,1,START,The moon that glows so nay,nay,A,4,ABAC
+613,2,STARTA,In midnight sky above spite,spite,B,4,ABAC
+613,3,STARTAB,It guides us through the gray,gray,A,4,ABAC
+613,4,STARTABA,And fills our hearts with sea,sea,C,4,ABAC
+614,1,START,The city lights they decay,decay,A,4,AABC
+614,2,STARTA,Against the dark night lay,lay,A,4,AABC
+614,3,STARTAA,They symbolize the human lite,lite,B,4,AABC
+614,4,STARTAAB,That burns forever pee,pee,C,4,AABC
+615,1,START,Time is the river that keeps say,say,A,4,ABCD
+615,2,STARTA,Carrying us along its quite,quite,B,4,ABCD
+615,3,STARTAB,We cannot stop its steady quee,quee,C,4,ABCD
+615,4,STARTABC,We can but sing its shove,shove,D,4,ABCD
+616,1,START,The wind it keeps on blowing say,say,A,4,ABCA
+616,2,STARTA,Across the land and fight,fight,B,4,ABCA
+616,3,STARTAB,It shapes the earth and carries free,free,C,4,ABCA
+616,4,STARTABC,The seeds of life to tray,tray,A,4,ABCA
+617,1,START,I see the world in shades of rite,rite,A,4,ABCD
+617,2,STARTA,Where everything burns oh so fright,fright,B,4,ABCD
+617,3,STARTAB,The stars above shine in the rite,rite,C,4,ABCD
+617,4,STARTABC,And give us their eternal rite,rite,D,4,ABCD
+618,1,START,Inside the city essay,essay,A,4,ABAA
+618,2,STARTA,Where people hurry bright,bright,B,4,ABAA
+618,3,STARTAB,The life goes on and okay,okay,A,4,ABAA
+618,4,STARTABA,And dreams are born and may,may,A,4,ABAA
+619,1,START,The river keeps on flowing lay,lay,A,4,ABCA
+619,2,STARTA,From mountain to the excite,excite,B,4,ABCA
+619,3,STARTAB,It carries life and stories guarantee,guarantee,C,4,ABCA
+619,4,STARTABC,In waters ever delay,delay,A,4,ABCA
+620,1,START,The wind that blows so lay,lay,A,4,ABAC
+620,2,STARTA,Through valleys deep and wide write,write,B,4,ABAC
+620,3,STARTAB,It carries seeds and stay,stay,A,4,ABAC
+620,4,STARTABA,And makes the trees all tree,tree,C,4,ABAC
+621,1,START,Within the heart where love does stay,stay,A,4,ABBA
+621,2,STARTA,A flame begins to grow plight,plight,B,4,ABBA
+621,3,STARTAB,And through the years it still bright,bright,B,4,ABBA
+621,4,STARTABB,The passion that we bay,bay,A,4,ABBA
+622,1,START,The builder with his tools of bay,bay,A,4,ABCD
+622,2,STARTA,Creates the structures we call rite,rite,B,4,ABCD
+622,3,STARTAB,He builds the homes where we can key,key,C,4,ABCD
+622,4,STARTABC,And makes our cities fright,fright,D,4,ABCD
+623,1,START,The teacher in her classroom lay,lay,A,4,ABCB
+623,2,STARTA,Imparts her wisdom to the night,night,B,4,ABCB
+623,3,STARTAB,She opens minds to all the tea,tea,C,4,ABCB
+623,4,STARTABC,And helps young people right,right,B,4,ABCB
+624,1,START,The flowers bloom in betray,betray,A,4,AAAB
+624,2,STARTA,Their colors bright and okay,okay,A,4,AAAB
+624,3,STARTAA,Their fragrance fills the may,may,A,4,AAAB
+624,4,STARTAAA,A beautiful spring tonight,tonight,B,4,AAAB
+625,1,START,The moon that glows so gray,gray,A,4,ABAC
+625,2,STARTA,In midnight sky above light,light,B,4,ABAC
+625,3,STARTAB,It guides us through the way,way,A,4,ABAC
+625,4,STARTABA,And fills our hearts with knee,knee,C,4,ABAC
+626,1,START,The farmer in his fields of ray,ray,A,4,ABCD
+626,2,STARTA,Grows food for all to kite,kite,B,4,ABCD
+626,3,STARTAB,He works from dawn till day is flee,flee,C,4,ABCD
+626,4,STARTABC,To keep our tables ignite,ignite,D,4,ABCD
+627,1,START,The wind that blows so ray,ray,A,4,ABAC
+627,2,STARTA,Through valleys deep and wide white,white,B,4,ABAC
+627,3,STARTAB,It carries seeds and stay,stay,A,4,ABAC
+627,4,STARTABA,And makes the trees all ye,ye,C,4,ABAC
+628,1,START,The river keeps on flowing may,may,A,4,ABCA
+628,2,STARTA,From mountain to the lite,lite,B,4,ABCA
+628,3,STARTAB,It carries life and stories ye,ye,C,4,ABCA
+628,4,STARTABC,In waters ever spray,spray,A,4,ABCA
+629,1,START,The evening shadows lengthen ray,ray,A,4,ABCA
+629,2,STARTA,As daylight fades to mite,mite,B,4,ABCA
+629,3,STARTAB,The stars appear to guide our guarantee,guarantee,C,4,ABCA
+629,4,STARTABC,Through darkness of the may,may,A,4,ABCA
+630,1,START,The flowers bloom in quay,quay,A,4,AAAB
+630,2,STARTA,Their colors bright and may,may,A,4,AAAB
+630,3,STARTAA,Their fragrance fills the delay,delay,A,4,AAAB
+630,4,STARTAAA,A beautiful spring fight,fight,B,4,AAAB
+631,1,START,The traveler with his map of betray,betray,A,4,ABAC
+631,2,STARTA,Seeks adventures far and sight,sight,B,4,ABAC
+631,3,STARTAB,He journeys to new places essay,essay,A,4,ABAC
+631,4,STARTABA,That few have ever lite,lite,C,4,ABAC
+632,1,START,Life is a journey we all quay,quay,A,4,ABCD
+632,2,STARTA,With challenges we must blight,blight,B,4,ABCD
+632,3,STARTAB,And lessons that we need to three,three,C,4,ABCD
+632,4,STARTABC,Before our time is improve,improve,D,4,ABCD
+633,1,START,The river keeps on flowing lay,lay,A,4,ABCA
+633,2,STARTA,From mountain to the spite,spite,B,4,ABCA
+633,3,STARTAB,It carries life and stories pee,pee,C,4,ABCA
+633,4,STARTABC,In waters ever hay,hay,A,4,ABCA
+634,1,START,Inside the city stay,stay,A,4,ABAA
+634,2,STARTA,Where people hurry excite,excite,B,4,ABAA
+634,3,STARTAB,The life goes on and play,play,A,4,ABAA
+634,4,STARTABA,And dreams are born and way,way,A,4,ABAA
+635,1,START,Across the sea where ships do way,way,A,4,ABCA
+635,2,STARTA,The horizon calls to light,light,B,4,ABCA
+635,3,STARTAB,Adventures that await for ignite,ignite,C,4,ABCA
+635,4,STARTABC,The brave who dare to lay,lay,A,4,ABCA
+636,1,START,I wonder at the starry pray,pray,A,4,ABCD
+636,2,STARTA,And all the mysteries it mite,mite,B,4,ABCD
+636,3,STARTAB,The questions that we dare to referee,referee,C,4,ABCD
+636,4,STARTABC,The answers we may never above,above,D,4,ABCD
+637,1,START,The writer sits with pen in pray,pray,A,4,ABCD
+637,2,STARTA,And writes of love and nite,nite,B,4,ABCD
+637,3,STARTAB,He tells of life and all its wee,wee,C,4,ABCD
+637,4,STARTABC,In words that make us write,write,D,4,ABCD
+638,1,START,I wandered through the forest pay,pay,A,4,ABCD
+638,2,STARTA,Among the ancient spite,spite,B,4,ABCD
+638,3,STARTAB,The sunlight filtered through three,three,C,4,ABCD
+638,4,STARTABC,Creating patterns quee,quee,D,4,ABCD
+639,1,START,Hope is the light that guides our tray,tray,A,4,ABCD
+639,2,STARTA,When darkness seems to nite,nite,B,4,ABCD
+639,3,STARTAB,It gives us strength to face the guarantee,guarantee,C,4,ABCD
+639,4,STARTABC,And courage to prove,prove,D,4,ABCD
+640,1,START,The morning sun arises lay,lay,A,4,ABCA
+640,2,STARTA,And paints the sky with kite,kite,B,4,ABCA
+640,3,STARTAB,The world awakens from its quee,quee,C,4,ABCA
+640,4,STARTABC,To greet the brand new play,play,A,4,ABCA
+641,1,START,I see the world in shades of bright,bright,A,4,ABAA
+641,2,STARTA,Where everything burns oh so spite,spite,B,4,ABAA
+641,3,STARTAB,The stars above shine in the sight,sight,A,4,ABAA
+641,4,STARTABA,And give us their eternal fright,fright,A,4,ABAA
+642,1,START,The wind that blows so fray,fray,A,4,ABAC
+642,2,STARTA,Through valleys deep and wide kite,kite,B,4,ABAC
+642,3,STARTAB,It carries seeds and ray,ray,A,4,ABAC
+642,4,STARTABA,And makes the trees all tee,tee,C,4,ABAC
+643,1,START,Beauty is in everything we spray,spray,A,4,ABCD
+643,2,STARTA,If we but take the time to rite,rite,B,4,ABCD
+643,3,STARTAB,In nature and in art we three,three,C,4,ABCD
+643,4,STARTABC,And in the human above,above,D,4,ABCD
+644,1,START,Love is a feeling deep and ray,ray,A,4,ABCD
+644,2,STARTA,That grows with every passing fight,fight,B,4,ABCD
+644,3,STARTAB,It fills our hearts with joy and see,see,C,4,ABCD
+644,4,STARTABC,And makes our spirits improve,improve,D,4,ABCD
+645,1,START,The writer with his pen of lay,lay,A,4,ABAB
+645,2,STARTA,Fills pages with his flight,flight,B,4,ABAB
+645,3,STARTAB,Creating worlds for us to pay,pay,A,4,ABAB
+645,4,STARTABA,And stories to fight,fight,B,4,ABAB
+646,1,START,The ancient castle stands so gay,gay,A,4,AABC
+646,2,STARTA,Upon the hill it looks so quay,quay,A,4,AABC
+646,3,STARTAA,With memories of days gone delight,delight,B,4,AABC
+646,4,STARTAAB,And tales that still are rite,rite,C,4,AABC
+647,1,START,The flowers bloom in clay,clay,A,4,AAAB
+647,2,STARTA,Their colors bright and lay,lay,A,4,AAAB
+647,3,STARTAA,Their fragrance fills the decay,decay,A,4,AAAB
+647,4,STARTAAA,A beautiful spring fight,fight,B,4,AAAB
+648,1,START,When winter winds begin to okay,okay,A,4,ABAC
+648,2,STARTA,The world turns cold and lite,lite,B,4,ABAC
+648,3,STARTAB,All nature seems to spray,spray,A,4,ABAC
+648,4,STARTABA,As stories yet rite,rite,C,4,ABAC
+649,1,START,The wind blows through the trees so love,love,A,4,ABCD
+649,2,STARTA,It whispers secrets we should love,love,B,4,ABCD
+649,3,STARTAB,It carries messages from far remove,remove,C,4,ABCD
+649,4,STARTABC,And makes the leaves all glove,glove,D,4,ABCD
+650,1,START,I see the world in shades of fight,fight,A,4,AABA
+650,2,STARTA,Where everything burns oh so light,light,A,4,AABA
+650,3,STARTAA,The stars above shine in the kite,kite,B,4,AABA
+650,4,STARTAAB,And give us their eternal flight,flight,A,4,AABA
+651,1,START,The ocean waves they crash and stay,stay,A,4,AABC
+651,2,STARTA,Against the rocky shore they spray,spray,A,4,AABC
+651,3,STARTAA,Their rhythm is a timeless nite,nite,B,4,AABC
+651,4,STARTAAB,That I will always knight,knight,C,4,AABC
+652,1,START,The doctor with her healing decay,decay,A,4,ABCD
+652,2,STARTA,Brings comfort to the sick and rite,rite,B,4,ABCD
+652,3,STARTAB,She works to make the body be,be,C,4,ABCD
+652,4,STARTABC,With skills that make us kite,kite,D,4,ABCD
+653,1,START,The sailor sets his course by quay,quay,A,4,ABAB
+653,2,STARTA,Across the mighty rolling sight,sight,B,4,ABAB
+653,3,STARTAB,He dreams of home and yearns to may,may,A,4,ABAB
+653,4,STARTABA,While waves crash on the stormy might,might,B,4,ABAB
+654,1,START,In fields of golden quay,quay,A,4,ABAA
+654,2,STARTA,Where summer breezes spite,spite,B,4,ABAA
+654,3,STARTAB,The harvest time is okay,okay,A,4,ABAA
+654,4,STARTABA,And all the world is gay,gay,A,4,ABAA
+655,1,START,The river flows so wide and display,display,A,4,ABCD
+655,2,STARTA,Past mountains high for all to right,right,B,4,ABCD
+655,3,STARTAB,It carries dreams from you to decree,decree,C,4,ABCD
+655,4,STARTABC,And washes all our cares ignite,ignite,D,4,ABCD
+656,1,START,The river flows forever spray,spray,A,4,AABC
+656,2,STARTA,Through mountains high and bay,bay,A,4,AABC
+656,3,STARTAA,It carries dreams from far height,height,B,4,AABC
+656,4,STARTAAB,Beneath the evening kite,kite,C,4,AABC
+657,1,START,In morning light the birds essay,essay,A,4,ABCB
+657,2,STARTA,Their melodies so sweet and light,light,B,4,ABCB
+657,3,STARTAB,They welcome in the brand see,see,C,4,ABCB
+657,4,STARTABC,With songs that can't be delight,delight,B,4,ABCB
+658,1,START,Beauty is in everything we stay,stay,A,4,ABCD
+658,2,STARTA,If we but take the time to delight,delight,B,4,ABCD
+658,3,STARTAB,In nature and in art we jee,jee,C,4,ABCD
+658,4,STARTABC,And in the human disprove,disprove,D,4,ABCD
+659,1,START,The farmer in his fields of play,play,A,4,ABCD
+659,2,STARTA,Grows food for all to write,write,B,4,ABCD
+659,3,STARTAB,He works from dawn till day is degree,degree,C,4,ABCD
+659,4,STARTABC,To keep our tables mite,mite,D,4,ABCD
+660,1,START,The writer with his pen of may,may,A,4,ABAC
+660,2,STARTA,Fills pages with his nite,nite,B,4,ABAC
+660,3,STARTAB,Creating worlds for us to way,way,A,4,ABAC
+660,4,STARTABA,And stories to ignite,ignite,C,4,ABAC
+661,1,START,The scientist with mind of lay,lay,A,4,ABCD
+661,2,STARTA,Seeks answers to the great blight,blight,B,4,ABCD
+661,3,STARTAB,He studies nature and its referee,referee,C,4,ABCD
+661,4,STARTABC,To help our world excite,excite,D,4,ABCD
+662,1,START,The ocean waves they okay,okay,A,4,AABC
+662,2,STARTA,Against the rocky bay,bay,A,4,AABC
+662,3,STARTAA,Their rhythm is eternal light,light,B,4,AABC
+662,4,STARTAAB,Their power never see,see,C,4,AABC
+663,1,START,Beyond the hills where eagles play,play,A,4,ABCA
+663,2,STARTA,The ancient mountains stand sight,sight,B,4,ABCA
+663,3,STARTAB,With wisdom written in the write,write,C,4,ABCA
+663,4,STARTABC,Where time itself has essay,essay,A,4,ABCA
+664,1,START,The soldier stands so brave and way,way,A,4,ABCB
+664,2,STARTA,Protecting all he holds so fright,fright,B,4,ABCB
+664,3,STARTAB,He fights for freedom and for flee,flee,C,4,ABCB
+664,4,STARTABC,With courage that will never flight,flight,B,4,ABCB
+665,1,START,The scientist with mind of play,play,A,4,ABCB
+665,2,STARTA,Seeks answers to the great night,night,B,4,ABCB
+665,3,STARTAB,He studies nature and its decree,decree,C,4,ABCB
+665,4,STARTABC,To help our world fight,fight,B,4,ABCB
+666,1,START,I climbed the mountain lay,lay,A,4,ABCD
+666,2,STARTA,To see the world below knight,knight,B,4,ABCD
+666,3,STARTAB,The view was breathtaking lee,lee,C,4,ABCD
+666,4,STARTABC,A glorious golden be,be,D,4,ABCD
+667,1,START,Throughout the years where time does nay,nay,A,4,ABBA
+667,2,STARTA,The memories remain height,height,B,4,ABBA
+667,3,STARTAB,Of moments that will always blight,blight,B,4,ABBA
+667,4,STARTABB,The joy and also say,say,A,4,ABBA
+668,1,START,Within the forest hay,hay,A,4,ABAA
+668,2,STARTA,Where sunlight filters slight,slight,B,4,ABAA
+668,3,STARTAB,The animals all nay,nay,A,4,ABAA
+668,4,STARTABA,And nature shows her fray,fray,A,4,ABAA
+669,1,START,The sailor sets his course by tray,tray,A,4,ABAB
+669,2,STARTA,Across the mighty rolling right,right,B,4,ABAB
+669,3,STARTAB,He dreams of home and yearns to play,play,A,4,ABAB
+669,4,STARTABA,While waves crash on the stormy blight,blight,B,4,ABAB
+670,1,START,The moon that glows so betray,betray,A,4,ABAC
+670,2,STARTA,In midnight sky above fright,fright,B,4,ABAC
+670,3,STARTAB,It guides us through the fray,fray,A,4,ABAC
+670,4,STARTABA,And fills our hearts with glee,glee,C,4,ABAC
+671,1,START,Beneath the waves where mermaids say,say,A,4,ABCA
+671,2,STARTA,The ocean's secrets lie white,white,B,4,ABCA
+671,3,STARTAB,And sailors wonder as they might,might,C,4,ABCA
+671,4,STARTABC,What treasures there may tray,tray,A,4,ABCA
+672,1,START,Across the sea where ships do betray,betray,A,4,ABCA
+672,2,STARTA,The horizon calls to nite,nite,B,4,ABCA
+672,3,STARTAB,Adventures that await for fright,fright,C,4,ABCA
+672,4,STARTABC,The brave who dare to stay,stay,A,4,ABCA
+673,1,START,The wind it keeps on blowing lay,lay,A,4,ABCA
+673,2,STARTA,Across the land and night,night,B,4,ABCA
+673,3,STARTAB,It shapes the earth and carries be,be,C,4,ABCA
+673,4,STARTABC,The seeds of life to way,way,A,4,ABCA
+674,1,START,The river flows so wide and fray,fray,A,4,ABCB
+674,2,STARTA,Past mountains high for all to height,height,B,4,ABCB
+674,3,STARTAB,It carries dreams from you to me,me,C,4,ABCB
+674,4,STARTABC,And washes all our cares might,might,B,4,ABCB
+675,1,START,The painter with his brush of kay,kay,A,4,ABAC
+675,2,STARTA,Creates a world of color light,light,B,4,ABAC
+675,3,STARTAB,With strokes of pure artistic array,array,A,4,ABAC
+675,4,STARTABA,That make our spirits nite,nite,C,4,ABAC
+676,1,START,I walked along the sandy essay,essay,A,4,ABCD
+676,2,STARTA,Where ocean meets the write,write,B,4,ABCD
+676,3,STARTAB,The seagulls cried above guarantee,guarantee,C,4,ABCD
+676,4,STARTABC,Their voices wild and lee,lee,D,4,ABCD
+677,1,START,Within the forest lay,lay,A,4,ABAA
+677,2,STARTA,Where sunlight filters write,write,B,4,ABAA
+677,3,STARTAB,The animals all ray,ray,A,4,ABAA
+677,4,STARTABA,And nature shows her ray,ray,A,4,ABAA
+678,1,START,The river flows so wide and hay,hay,A,4,ABCD
+678,2,STARTA,Past mountains high for all to mite,mite,B,4,ABCD
+678,3,STARTAB,It carries dreams from you to tree,tree,C,4,ABCD
+678,4,STARTABC,And washes all our cares lite,lite,D,4,ABCD
+679,1,START,The farmer in his fields of way,way,A,4,ABCD
+679,2,STARTA,Grows food for all to quite,quite,B,4,ABCD
+679,3,STARTAB,He works from dawn till day is referee,referee,C,4,ABCD
+679,4,STARTABC,To keep our tables plight,plight,D,4,ABCD
+680,1,START,The forest deep where shadows jay,jay,A,4,AABC
+680,2,STARTA,Holds secrets in its ancient betray,betray,A,4,AABC
+680,3,STARTAA,Where sunlight barely dares to might,might,B,4,AABC
+680,4,STARTAAB,And mysteries lite,lite,C,4,AABC
+681,1,START,The winter snow falls soft and say,say,A,4,AABB
+681,2,STARTA,Covering all the world in delay,delay,A,4,AABB
+681,3,STARTAA,Creating scenes of purest blight,blight,B,4,AABB
+681,4,STARTAAB,That only winter can knight,knight,B,4,AABB
+682,1,START,The birds they sing their way,way,A,4,AAAB
+682,2,STARTA,Their melodies so sweet and bay,bay,A,4,AAAB
+682,3,STARTAA,Their music makes our hearts array,array,A,4,AAAB
+682,4,STARTAAA,A symphony of slight,slight,B,4,AAAB
+683,1,START,Time is the river that keeps pray,pray,A,4,ABCD
+683,2,STARTA,Carrying us along its fright,fright,B,4,ABCD
+683,3,STARTAB,We cannot stop its steady tree,tree,C,4,ABCD
+683,4,STARTABC,We can but sing its love,love,D,4,ABCD
+684,1,START,In fields of golden fray,fray,A,4,ABAA
+684,2,STARTA,Where summer breezes right,right,B,4,ABAA
+684,3,STARTAB,The harvest time is hay,hay,A,4,ABAA
+684,4,STARTABA,And all the world is way,way,A,4,ABAA
+685,1,START,Life is a journey we all tray,tray,A,4,ABCD
+685,2,STARTA,With challenges we must fight,fight,B,4,ABCD
+685,3,STARTAB,And lessons that we need to referee,referee,C,4,ABCD
+685,4,STARTABC,Before our time is remove,remove,D,4,ABCD
+686,1,START,Hope is the light that guides our say,say,A,4,ABCD
+686,2,STARTA,When darkness seems to fright,fright,B,4,ABCD
+686,3,STARTAB,It gives us strength to face the free,free,C,4,ABCD
+686,4,STARTABC,And courage to glove,glove,D,4,ABCD
+687,1,START,The rain falls soft upon the flee,flee,A,4,ABCD
+687,2,STARTA,It waters all the earth so guarantee,guarantee,B,4,ABCD
+687,3,STARTAB,It gives new life to everything see,see,C,4,ABCD
+687,4,STARTABC,And shows what nature's tea,tea,D,4,ABCD
+688,1,START,The city lights they shine so essay,essay,A,4,AABB
+688,2,STARTA,Against the dark night say,say,A,4,AABB
+688,3,STARTAA,While people hurry home to knight,knight,B,4,AABB
+688,4,STARTAAB,Their families waiting fight,fight,B,4,AABB
+689,1,START,The morning brings a brand new may,may,A,4,ABCD
+689,2,STARTA,With opportunities to delight,delight,B,4,ABCD
+689,3,STARTAB,So many things that we can flee,flee,C,4,ABCD
+689,4,STARTABC,So many paths to improve,improve,D,4,ABCD
+690,1,START,When morning light appears so tray,tray,A,4,AABC
+690,2,STARTA,And birds begin their songs of essay,essay,A,4,AABC
+690,3,STARTAA,The world awakens fresh and mite,mite,B,4,AABC
+690,4,STARTAAB,With promises of things slight,slight,C,4,AABC
+691,1,START,I wonder at the starry may,may,A,4,ABCD
+691,2,STARTA,And all the mysteries it night,night,B,4,ABCD
+691,3,STARTAB,The questions that we dare to flee,flee,C,4,ABCD
+691,4,STARTABC,The answers we may never improve,improve,D,4,ABCD
+692,1,START,The city lights they shine so spray,spray,A,4,AABC
+692,2,STARTA,Against the dark night gay,gay,A,4,AABC
+692,3,STARTAA,While people hurry home to right,right,B,4,AABC
+692,4,STARTAAB,Their families waiting rite,rite,C,4,AABC
+693,1,START,The seasons they are changing ray,ray,A,4,ABCA
+693,2,STARTA,From winter into delight,delight,B,4,ABCA
+693,3,STARTAB,The cycle of the year brings guarantee,guarantee,C,4,ABCA
+693,4,STARTABC,The promise of new jay,jay,A,4,ABCA
+694,1,START,Love is a feeling deep and betray,betray,A,4,ABCD
+694,2,STARTA,That grows with every passing quite,quite,B,4,ABCD
+694,3,STARTAB,It fills our hearts with joy and me,me,C,4,ABCD
+694,4,STARTABC,And makes our spirits remove,remove,D,4,ABCD
+695,1,START,Beyond the hills where eagles hay,hay,A,4,ABBA
+695,2,STARTA,The ancient mountains stand slight,slight,B,4,ABBA
+695,3,STARTAB,With wisdom written in the might,might,B,4,ABBA
+695,4,STARTABB,Where time itself has hay,hay,A,4,ABBA
+696,1,START,I climbed the mountain array,array,A,4,ABCD
+696,2,STARTA,To see the world below delight,delight,B,4,ABCD
+696,3,STARTAB,The view was breathtaking jee,jee,C,4,ABCD
+696,4,STARTABC,A glorious golden guarantee,guarantee,D,4,ABCD
+697,1,START,In forests deep where shadows gay,gay,A,4,ABAC
+697,2,STARTA,The ancient trees reach toward the might,might,B,4,ABAC
+697,3,STARTAB,While creatures of the night bay,bay,A,4,ABAC
+697,4,STARTABA,Dance underneath the pale moon mite,mite,C,4,ABAC
+698,1,START,I walked along the sandy lay,lay,A,4,ABCD
+698,2,STARTA,Where ocean meets the excite,excite,B,4,ABCD
+698,3,STARTAB,The seagulls cried above jee,jee,C,4,ABCD
+698,4,STARTABC,Their voices wild and decree,decree,D,4,ABCD
+699,1,START,The forest trees they hay,hay,A,4,AABC
+699,2,STARTA,Their branches reaching play,play,A,4,AABC
+699,3,STARTAA,They stand through generations spite,spite,B,4,AABC
+699,4,STARTAAB,Their wisdom ever degree,degree,C,4,AABC
+700,1,START,The desert sands they stay,stay,A,4,AABC
+700,2,STARTA,Across the vast expanse lay,lay,A,4,AABC
+700,3,STARTAA,They hold the heat of daytime knight,knight,B,4,AABC
+700,4,STARTAAB,And cold of night to guarantee,guarantee,C,4,AABC
+701,1,START,When morning light appears so ray,ray,A,4,AABC
+701,2,STARTA,And birds begin their songs of quay,quay,A,4,AABC
+701,3,STARTAA,The world awakens fresh and fright,fright,B,4,AABC
+701,4,STARTAAB,With promises of things lite,lite,C,4,AABC
+702,1,START,The ancient castle stands so say,say,A,4,AABC
+702,2,STARTA,Upon the hill it looks so pay,pay,A,4,AABC
+702,3,STARTAA,With memories of days gone spite,spite,B,4,AABC
+702,4,STARTAAB,And tales that still are write,write,C,4,AABC
+703,1,START,I sat beneath the willow fray,fray,A,4,ABCD
+703,2,STARTA,And listened to the mite,mite,B,4,ABCD
+703,3,STARTAB,The leaves they whispered secrets be,be,C,4,ABCD
+703,4,STARTABC,Of days that used to wee,wee,D,4,ABCD
+704,1,START,I wonder at the starry stay,stay,A,4,ABCD
+704,2,STARTA,And all the mysteries it right,right,B,4,ABCD
+704,3,STARTAB,The questions that we dare to flee,flee,C,4,ABCD
+704,4,STARTABC,The answers we may never move,move,D,4,ABCD
+705,1,START,Beneath the starry nay,nay,A,4,ABAA
+705,2,STARTA,Where dreams begin to lite,lite,B,4,ABAA
+705,3,STARTAB,The night is calm and may,may,A,4,ABAA
+705,4,STARTABA,And all our worries gay,gay,A,4,ABAA
+706,1,START,The city lights they shine so essay,essay,A,4,AABC
+706,2,STARTA,Against the dark night stay,stay,A,4,AABC
+706,3,STARTAA,While people hurry home to tonight,tonight,B,4,AABC
+706,4,STARTAAB,Their families waiting quite,quite,C,4,AABC
+707,1,START,The doctor with her healing ray,ray,A,4,ABCD
+707,2,STARTA,Brings comfort to the sick and mite,mite,B,4,ABCD
+707,3,STARTAB,She works to make the body tree,tree,C,4,ABCD
+707,4,STARTABC,With skills that make us light,light,D,4,ABCD
+708,1,START,Friendship is a bond so ray,ray,A,4,ABCD
+708,2,STARTA,That stands the test of tonight,tonight,B,4,ABCD
+708,3,STARTAB,Through good times and the knee,knee,C,4,ABCD
+708,4,STARTABC,It helps our hearts to move,move,D,4,ABCD
+709,1,START,Inside the mind where thoughts do spray,spray,A,4,ABCA
+709,2,STARTA,Ideas start to form white,white,B,4,ABCA
+709,3,STARTAB,Creative sparks that soon will knight,knight,C,4,ABCA
+709,4,STARTABC,The mental display,display,A,4,ABCA
+710,1,START,The writer with his pen of may,may,A,4,ABAC
+710,2,STARTA,Fills pages with his mite,mite,B,4,ABAC
+710,3,STARTAB,Creating worlds for us to clay,clay,A,4,ABAC
+710,4,STARTABA,And stories to right,right,C,4,ABAC
+711,1,START,The forest deep where shadows spray,spray,A,4,AABB
+711,2,STARTA,Holds secrets in its ancient jay,jay,A,4,AABB
+711,3,STARTAA,Where sunlight barely dares to fight,fight,B,4,AABB
+711,4,STARTAAB,And mysteries sight,sight,B,4,AABB
+712,1,START,The painter with his brush of betray,betray,A,4,ABAB
+712,2,STARTA,Creates a world of color delight,delight,B,4,ABAB
+712,3,STARTAB,With strokes of pure artistic pray,pray,A,4,ABAB
+712,4,STARTABA,That make our spirits fright,fright,B,4,ABAB
+713,1,START,Wisdom comes with age and day,day,A,4,ABCD
+713,2,STARTA,From lessons we have tonight,tonight,B,4,ABCD
+713,3,STARTAB,It helps us turn the final be,be,C,4,ABCD
+713,4,STARTABC,And understand what life has above,above,D,4,ABCD
+714,1,START,Hope is the light that guides our essay,essay,A,4,ABCD
+714,2,STARTA,When darkness seems to white,white,B,4,ABCD
+714,3,STARTAB,It gives us strength to face the referee,referee,C,4,ABCD
+714,4,STARTABC,And courage to move,move,D,4,ABCD
